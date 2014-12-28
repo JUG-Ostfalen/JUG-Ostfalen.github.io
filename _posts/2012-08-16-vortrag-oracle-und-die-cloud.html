@@ -1,0 +1,55 @@
+---
+layout: post
+title: ! 'Vortrag: Oracle und die Cloud'
+date: 2012-08-16 21:04:43.000000000 +02:00
+categories:
+- Veranstaltungen
+tags:
+- clo
+- cloud
+- EE
+- jav
+- java
+status: publish
+type: post
+published: true
+meta:
+  geo_latitude: '52.274832'
+  geo_longitude: '10.529267'
+  geo_public: '1'
+  _edit_last: '3'
+author:
+  login: Uwe S.
+  email: uwe.sbr@jug-ostfalen.de
+  display_name: Uwe S.
+  first_name: Uwe
+  last_name: Sauerbrei
+---
+<p>Es ist 19.05 Uhr, knapp 30 Teilnehmer im Raum und los geht es mit Michael Bräuer.</p>
+<p>[caption id="attachment_879" align="alignright" width="225"]<a href="http://www.jug-ostfalen.de/wp-content/uploads/2012/08/oracle_cloud_1.jpg"><img class="size-medium wp-image-879" title="oracle_cloud_1" src="assets/oracle_cloud_1-225x300.jpg" alt="" width="225" height="300" /></a> Michael Bräuer erklärt die Oracle Strategie zur Cloud[/caption]</p>
+<p>Was ist die Cloud? Einfache Verfügbarkeit von Resourcen, Pooling, Skalierbarkeit und Elastizität und manifestiert sich in folgenden Services:</p>
+<ul>
+<li>IaaS Cloud - Computing Infrastructure (IT Professional)</li>
+<li><strong>PaaS</strong> Cloud - Application Platform (Developer)</li>
+<li>SaaS Cloud - Application (End User)</li>
+</ul>
+<p>Wie sieht die Oracle Strategie aus? Unterstützung der zukünftigen Specs und derzeit Umsetzung für den WebLogic (public/<strong>private</strong> Cloud - PaaS). Wie sieht die private Cloud aus? Virtualisierung, Cloud Management Service, Applications, Service. Zentrales Tool ist der Oracle Enterprise Manager. Es folgt einBeispiel für die Nutzung zur Einrichtung eines WeLogic Servers in der Cloud (komplette Einrichtung liegt bei 12 Minuten). Ich habe jetzt aber keinen Vergleich, wie es bei Amazon oder Google abläuft, macht aber nix. Das kann ja mal ein anderes Thema werden. Die einzelnen Produktkonfigurationen (WebLogic, Tomcat,...) können über den Assembly Builder vorkonfiguriert und auf die PaaS übertragen werden.</p>
+<p>Jetzt geht es weiter mit Peter Doschnikow: EE7 The New Cloud Platform</p>
+<p>[caption id="attachment_878" align="alignleft" width="300"]<a href="http://www.jug-ostfalen.de/wp-content/uploads/2012/08/oracle_cloud_2.jpg"><img class="size-medium wp-image-878" title="oracle_cloud_2" src="assets/oracle_cloud_2-300x225.jpg" alt="" width="300" height="225" /></a> Peter Doschnikow : EE 7 und die Cloud[/caption]</p>
+<p>&nbsp;</p>
+<p>Zentrales Thema,wir Java EE 7 als PaaS sein. Hatte ich erwähnt, dass der Raum nicht klimatisiert ist?</p>
+<p>Es gibt derzeit eine ganzen Reihe von PaaS Anbietern ( CloudBees, Amazon WebServices,...) Auch mandantenfähigkeit spielt eine Rolle und wird bereits durch Firmen wie Waratek angeboten.</p>
+<p>Java EE ist bereits PaaS, allerdings ohne den 'operational part'. EE7 will diese Lücke schließen und einen <em>weichen</em> Standard setzen.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Wie soll das passieren:</p>
+<ul>
+<li>Metadaten hinzufügen (wie soll Anwendung skalieren, Failover für JMS, Quality of Services,...)</li>
+<li>Add useful API for cloud environment (JAX-RS Client API, Caching API,JSON,...)</li>
+<li>Multitenancy</li>
+<li>New platform roles</li>
+</ul>
+<p>Es folgen ein paar Beispiele für die verschiedenen Services. Das Deployment für PaaS wird vereinfacht, was mit dem neuen GlassFish (Version 4) demonstriert wird. Nächster Punkt Java EE 7 Elasticity. Einführung von Metriken für Server und Anwendung. Es gibt neue Rollen zu den üblichen EE Rollen (PaaS Provider/Product Provider/Account Manager/ Administrator)</p>
+<p>Demo mit dem neuen GlassFish 4 ( Reference Implementierung von Java EE 7). Es gibt nun verschiedene Virtualization implementation (Laptop, Local, Remote Mode). In der Konsequenz kann ein GlassFish selbständig eine neue Instanz in der Virtualizierung starten und die Anwendung deployen. Hier gibt es allerdings Mechanismen, die diese Eigenverantwortlichkeit begrenzen (Quotas usw.) Abschließend gibt es eine Demo mit einer Beispielanwendung, die auf einen Cluster deployt wird. Chrome macht Probleme, Firefox läuft, alles gut!</p>
+<p>&nbsp;</p>
+<div id="blogsy_footer" style="text-align: right; font-size: small; clear: both;"><a href="http://blogsyapp.com" target="_blank"><img style="vertical-align: middle; margin-right: 5px;" src="assets/blogsy_footer_icon.png" alt="Mit Blogsy veröffentlicht" width="20" height="20" />Mit Blogsy veröffentlicht</a></div>

@@ -1,0 +1,34 @@
+---
+layout: post
+title: RESTful Services mit Java EE
+date: 2012-11-07 11:15:55.000000000 +01:00
+categories:
+- Veranstaltungen
+tags:
+- java ee
+- rest
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: Uwe S.
+  email: uwe.sbr@jug-ostfalen.de
+  display_name: Uwe S.
+  first_name: Uwe
+  last_name: Sauerbrei
+---
+<p> Kommen wir wieder zu den ernsthaften Themen  und nun geht es um das zweite Hype-Thema dieser W-JAX: REST! Gestern gab es, zusätzlich zu dem Workshop vom Montag, noch vertiefende Sessions von Stefan Tilkov, jedoch  ist hier wieder das leidige Problem, dass man zu einer bestimmten Zeit nur an einem einzigen Ort sein kann (zumindest wenn man nicht Hermine heißt). Ach ja, der Referent ist Thilo Frotscher.</p>
+<p><strong>JAX-RS 1.1 & Java EE 6</strong></p>
+<ul>
+<li>Referenzimplementierung : Jersey</li>
+<li>Annotationsbasiert</li>
+<li>WADL Support</li>
+</ul>
+<p>JAX-RS noch nicht Bestandteil des EE Web Profile (ändert sich mit EE 7) -&gt; Full Profile Server muss genutzt werden. Alternativ ein Tomcat oder Jetty mit TomEE Erweiterung. Framework hier Jersey (alternativ: Restlet, Apache CXF, RESTEasy,...)</p>
+<p>Datenformat wird im Vorfeld mittels XML Schema definiert  und ein xsd generiert (JAXB) -&gt; generiert <em>Item</em>, <em>Order</em> und <em>Product</em> Klasse.</p>
+<p>&nbsp;</p>
+<p>Tipp aus der Praxis: Nutzung von <font color="#000086"><strong>soapUI</strong></font> zum Test einer REST Anwendung (freie Variante ausreichend)</p>
+<p>&nbsp;</p>
+<p>Wie es aussieht (und gezeigt wurde) ist eine Umsetzung recht schnell gemacht und man erhält auch zügig Ergebnisse. Ich werde es mir notieren, dass ist zumindest gut für das Gewissen! </p>
+<div style="text-align: right; font-size: small; clear: both;" id="blogsy_footer"><a href="http://blogsyapp.com" target="_blank"><img src="assets/blogsy_footer_icon.png" alt="Blogsy from Shrikepad" style="vertical-align: middle; margin-right: 5px;" width="20" height="20" />Blogsy from Shrikepad</a></div>

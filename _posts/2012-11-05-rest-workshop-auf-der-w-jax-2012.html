@@ -1,0 +1,75 @@
+---
+layout: post
+title: REST Workshop auf der W-JAX 2012
+date: 2012-11-05 15:47:32.000000000 +01:00
+categories:
+- Allgemein
+tags:
+- rest
+- web service
+- wjax
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: admin
+  email: info@jug-ostfalen.de
+  display_name: admin
+  first_name: ''
+  last_name: ''
+---
+<p>Das Interesse an REST ist doch recht hoch und der Raum Atlanta, der so um die 200 Leute fassen sollte, ist zu einem Drittel gef&uuml;llt. Um das obige Thema k&uuml;mmern sich in wechselnder Folge Stefan Tilkov und Phillip Ghadir. &nbsp;Stefans Vortr&auml;ge sind immer recht kurzweilig und so hoffe ich, aus einem rein theoretischen Thema, heute Abend gut informiert/motiviert und &uuml;berzeugt, herauszugehen.&nbsp;</p>
+<p>Die Einf&uuml;hrung macht Stefan und erz&auml;hlt ein wenig &uuml;ber die Geschichte von REST. Eigentlich l&auml;uft es unter dem Strich darauf hinaus, dass man HTTP daf&uuml;r einsetzt, wof&uuml;r es gemacht wurde und nicht, wie im Falle von Web Services; &nbsp;als Mittel zum Zweck (Port 80) einsetzt. &nbsp;Eine weitere Grundaussage: Alle Dinge sind adressierbar &nbsp;und k&ouml;nnen somit als eigenst&auml;ndige Entit&auml;t &nbsp;benutzt werden. Das k&ouml;nnte so etwas wie das statische &Auml;quivalent zur Closure sein. REST selber wird von den Teilnehmern heute nur vereinzelt eingesetzt, mit Web Services sind aber fast alle schon irgendwie in Ber&uuml;hrung gekommen. Letztere mag offensichtlich kaum jemand und der Einsatz ist wohl nicht immer technisch getrieben. Eine Frage, die ich Stefan oft habe stellen h&ouml;ren: Warum kann man in einem Unternehmen nicht genauso 'suchen', wie man es, auf ganz nat&uuml;rliche Art und Weise, von Google gewohnt ist? &nbsp;Das Web hat bewiesen, dass es funktioniert, kann man das nicht &uuml;bertragen?</p>
+<p>Phillip Ghadir steigt nun in die Details ein, was konkret das RESTful Design oder das Mapping lokaler Interface-Funktionen auf die verf&uuml;gbaren HTTP - Aufrufe (GET, POST, PUT,...) beschreibt.</p>
+<p>Nach der Kaffeepause ( ich habe tats&auml;chlich dem leckeren Geb&auml;ck widerstanden!) steigt Stefan in die Details ein, die REST ausmachen:</p>
+<ul>
+<li>Identifiable Resource (alle wichtigen Dinge im Web haben eine eigene URI. Ein besonders schlechtes Gegenbeispiel ist JSF! :-)</li>
+<li>Uniform Interface (GET, PUT, POST,...), Methoden sind Save (Client kann sie immer nutzen), Idempotent (Methode kann immer wieder sicher aufgerufen werden)</li>
+<li>Formate f&uuml;r den Transport von Semantik (plain XML (validation possible), (X)HTML, JSON -&gt; default choice 2012, RDF)</li>
+<li>Stateless communication (man kann jedem Request ansehen, was er tut und er ist in sich abgeschlossen)</li>
+</ul>
+<p>Interessant der Ansatz, eine Session auch als Ressource zu sehen und ihr eine URI zu verpassen. Das bedeutet etwas mehr Arbeit f&uuml;r den Server, hat aber den Charme, dass man beispielsweise einen Warenkorb wetierleiten und durch jemand anderen bearbeiten lassen k&ouml;nnte.</p>
+<p>Jetzt geht es um Caching. Ein probates Mittel sind ETags. Je eingehender man sich mit der Materie besch&auml;ftigt, desto schneller st&ouml;&szlig;t man auf die Probleme, die unter der Oberfl&auml;che lauern. &nbsp;So gro&szlig; das Potential auch sein mag, ohne ein geh&ouml;riges Ma&szlig; an Erfahrung, kann man hier auch viele Dinge falsch machen.&nbsp;</p>
+<p>Ich mache jetzt etwas richtig und gehe in die Mittagspause!</p>
+<p><strong>Patterns &amp; Antipatterns</strong></p>
+<p><span style="text-decoration: underline;">Antipattern</span>:</p>
+<ul>
+<li>Tunneling&nbsp;
+<ul>
+<li>alles was nicht mit GET gemacht auch mit GET machen <span style="font-family: 'courier new', courier;">&lt;URI Tomcat&gt;/admin/shutdown&nbsp;</span>=&gt; Amazon macht dass...</li>
+<li>das gleiche Problem auch mit POST</li>
+</ul>
+</li>
+<li>Ignoring Caching&nbsp;</li>
+<li>Standardisierte Fehlercodes nicht nutzen</li>
+<li>Misusing Cookies</li>
+</ul>
+<p><span style="text-decoration: underline;">Pattern</span>:</p>
+<ul>
+<li>Collection Resource (related resources are accessed together)</li>
+<li>Paging Collection ( Result sets are too large to be retrieved at once) - create and return subsets</li>
+<li>Read-only View (spezialized views on one or more collections of resources)</li>
+<li>Resource Creation (resources are created concurrently and &nbsp;need unique URIs)</li>
+<li>Notification Polling (clients needs to know about updates to resources) - RSS / Atom Feed</li>
+<li>Conflict Handling (protection against concurrent modification)</li>
+<li>Saved Search (complex querys)</li>
+<li>Canonical representation (ensure lowest common denominator of processing)</li>
+<li>Externalized Client Cache</li>
+</ul>
+<p><strong>JAX-RS 2.0 (public draft)</strong></p>
+<p>Atlernativ Spring MVC, Spark, Play! (in Java)</p>
+<p>Ein praktisches Beispiel zur Client- und Serverseitigen Implementierung in Folien gegossen. Nichts, was man hier wiedergeben k&ouml;nnte.</p>
+<p><strong>RESTful SOA</strong></p>
+<p>Transaktionen sind problematisch in REST-Services. Als Beispiel k&ouml;nnen Transaktionen aus dem EE Bereich dienen (Beispiel f&uuml;r gutes Design). Verteilte Transaktionen &uuml;ber Services machen jedoch keinen Sinn. Neben den technischen gibt es auch fachliche Transaktionen, die beliebig lange dauern k&ouml;nnen. Auch hier treffen wir wieder auf die Resource in Form einer Transaktion. Hier sind sogar Verlinkungen zwischen System denkbar, was ein sehr m&auml;chtiges Feature w&auml;re.</p>
+<p>Umsetzung von REST in SOA Welt:</p>
+<ul>
+<li>Ensure Web apps are RESTful</li>
+<li>Expose machine-readable information via HTTP GET</li>
+<li>Distribute notifications via Atom Feeds</li>
+<li>Manage metadata with RESTful resources</li>
+<li>Ship RESTful client libraries</li>
+<li>Adopt existing infrastructure</li>
+<li>Use WS* for political reasons (the better wins in long term)</li>
+</ul>
+<p><em>Die beste Dokumentation f&uuml;r eine RESTful API ist eine Web-App, die genau dieses API benutzt und damit dokumentiert</em>!</p>

@@ -1,0 +1,45 @@
+---
+layout: post
+title: Scala in Wolfsburg
+date: 2012-08-24 07:43:03.000000000 +02:00
+categories:
+- Veranstaltungen
+tags:
+- scala
+status: publish
+type: post
+published: true
+meta:
+  geo_latitude: '52.425560'
+  geo_longitude: '10.791045'
+  geo_public: '1'
+  _edit_last: '3'
+author:
+  login: Uwe S.
+  email: uwe.sbr@jug-ostfalen.de
+  display_name: Uwe S.
+  first_name: Uwe
+  last_name: Sauerbrei
+---
+<p>Es ist schön zu sehen, dass fast alle gemeldeten Teilnehmer gekommen sind. Das finde ich ganz toll und für unseren ersten Vortrag in Wolfsburg sind 16 Teilnehmer gar nicht schlecht! :-) Auch unsere neue Location ist toll, vielen Dank an T-Systems onsite services GmbH!</p>
+<p>Doch nun zum Vortrag von Jens Schauder. Es geht heute nicht um Scala für Anfänger sondern um das Typsystem.</p>
+<p>[caption id="attachment_891" align="alignleft" width="300"]<a href="http://www.jug-ostfalen.de/wp-content/uploads/2012/08/scala_type1.jpg"><img class="size-medium wp-image-891" title="scala_type1" src="assets/scala_type1-300x225.jpg" alt="" width="300" height="225" /></a> Jens und der Java-Scala-Dino[/caption]</p>
+<p>Erster Punkt sind <em>implicit conversions</em>. Nimmt man eine Methode, die es für einen Typ nicht gibt, sucht der Compiler einen Typ, der diese Methode besitzt und wandelt den Typ um! Eine denkbare Anwendung sind DSLs.</p>
+<p>Wir kommen zu den <em>Structural Types</em>. Hier kommt das 'Duck Typing' ins Spiel. Umsetzung erfolgt mit Reflection, was relevant für Performance sein kann aber elegante Konstrukte ermöglicht.</p>
+<p><em>Path Dependent Types</em>. Ein Typ hängt an einer Objektinstanz( eine Kuh ist kein Teddy! :-) ) Diese Funktion dient beispielsweise für die Registrierung- Unregistrierung von Objekten.</p>
+<p>Weiter mit <em>Phantom Types</em>. Typen ohne Instanzen! Liquid Darstellung mit Scala-spezifischer Template-Syntax. Das mag für Konfigurationen und Validierungen nutzbar sein, erschließt sich aber nicht auf den ersten Blick. Okay, dafür kenne ich Scala zu wenig (warum hat der Tag nur 24 Stunden,seufz)</p>
+<p><em>Type Lambdas</em>, jetzt wird es endgültig verrückt. Das Codestück sieht aus wie obfuscated, eine Menge Buchstaben und Zeichen! :-) Functoren und Tuple und ich frage mich gerade, macht so etwas noch Sinn? Das habe ich mit Perl und auch Groovy gesehen. Nur weil es machbar ist, muss es meines Erachtens nicht der richtige Weg sein. Jens kann ich bescheinigen, er hat es verstanden! Letztendlich läuft es darauf hinaus, dass mit allen vorherigen Konstrukten, in Kombination, leistungsfähige Algorithmen entwickelt werden können.</p>
+<pre class="brush: scala; gutter: true">trait Functor [F[_]]...
+implicit def Tuple2Functor[R]:
+Functor[({type λ[α]=(R,α)})#λ] = new Functor[({type λ[α]=(R,α)})#λ] {
+def fmap[A,B](r:(R,A),f: A=&gt;B) = (r._1,f(r._2))
+}</pre>
+<p>Zum Abschluss geht es um <em>Bool</em>. Umdefinition (gibt es das Wort?) boolescher Ausdrücke und Logiken. Boolesche Logik im Typsystem, logisch oder?</p>
+<p><span style="text-decoration: underline;">Hier noch die Links:</span></p>
+<ul>
+<li>Daniel Spiewak „<a href="http://vimeo.com/13518456" target="_blank">High Wizardry in the Land of Scala</a>“</li>
+<li><a href="http://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/" target="_blank">Apocalisp</a> Type-Level Programming in Scala</li>
+<li>Jespers <a href="http://jnordenberg.blogspot.com/2008/08/hlist-in-scala.html" target="_blank">HList</a> in Scala</li>
+<li><a href="http://code.google.com/p/scalaz/" target="_blank">Scalaz</a></li>
+</ul>
+<div id="blogsy_footer" style="text-align: right; font-size: small; clear: both;"><a href="http://blogsyapp.com" target="_blank"><img style="vertical-align: middle; margin-right: 5px;" src="assets/blogsy_footer_icon.png" alt="Mit Blogsy veröffentlicht" width="20" height="20" />Mit Blogsy veröffentlicht</a></div>
