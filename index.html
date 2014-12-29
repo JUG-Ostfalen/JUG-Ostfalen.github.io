@@ -4,25 +4,44 @@ layout: landing
 
 <div class="container-fluid">
 
-  <div class="row">
-    <img src="images/Brunswick_Coat_of_Arms.png"
-         class="col-md-3" />
-    <h1 class="col-md-6">JUG-Ostfalen</h1>
-    <img src="images/Wappen_Wolfsburg.svg"
-         class="col-md-3" />
-  </div>
+    <div class="row">
+        <img src="images/Brunswick_Coat_of_Arms.png"
+             class="col-md-3"/>
 
-</div>
+        <h1 class="col-md-6">JUG-Ostfalen</h1>
+        <img src="images/Wappen_Wolfsburg.svg"
+             class="col-md-3"/>
+    </div>
+
+    <div class="row">
+        <div class="col-md-9">
+            <ul class="post-list">
+                {% for post in site.categories.event %}
+                <li>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                    <h2>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="col-md-3">
+            <ul class="post-list">
+                {% for post in site.posts %}
+                {% unless post.categories contains 'event' %}
+                <li>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <h2>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                </li>
+                {% endunless %}
+                {% endfor %}
+            </ul>
+        </div>
+
+    </div>
 
 
-<ul class="post-list">
-    {% for post in site.posts %}
-    <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-    </li>
-    {% endfor %}
-</ul>
