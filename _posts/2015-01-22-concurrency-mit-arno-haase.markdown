@@ -4,7 +4,8 @@ title:  "Java Concurrency für Fortgeschrittene"
 date:   2015-01-22 19:00
 location: "Lineas, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Arno Haase"
-categories: event JUG
+categories: event
+organizer: JUG
 ---
 Java hat ein solides Memory Model und eine Reihe guter Bibliotheken
 für Concurrency. Trotzdem taucht eine Fülle an Stolperfallen auf, wenn
