@@ -12,7 +12,6 @@ layout: landing
         <img src="images/Wappen_Wolfsburg.svg"
              class="col-md-3"/>
     </div>
-
     <div class="row">
         <div class="col-md-9">
             <h2>Zukünftige Events</h2>
@@ -20,8 +19,9 @@ layout: landing
                 {% for post in site.categories.event %}
                 <li>
                     <h3>
-                        <span>{{ post.organizer }}</span>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                            <img class="organizer" src="/assets/{{ site.orgs[post.organizer].image}}" />{{ post.title }}
+                        </a>
                     </h3>
                     <div>
                         Am {{ post.date | date: "%b %-d, %Y" }}
