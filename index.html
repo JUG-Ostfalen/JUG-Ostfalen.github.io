@@ -15,27 +15,39 @@ layout: landing
 
     <div class="row">
         <div class="col-md-9">
+            <h2>Zukünftige Events</h2>
             <ul class="post-list">
                 {% for post in site.categories.event %}
                 <li>
-                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-                    <h2>
+                    <h3>
+                        <span>{{ post.organizer }}</span>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
+                    </h3>
+                    <div>
+                        Am {{ post.date | date: "%b %-d, %Y" }}
+                        um {{ post.date | date: "%R" }}Uhr
+                    </div>
+                    <div>
+                        {{ post.location }}
+                    </div>
+                    <div>
+                        {{ post.excerpt }}
+                    </div>
+
                 </li>
                 {% endfor %}
             </ul>
         </div>
         <div class="col-md-3">
+            <h2>Artikel</h2>
             <ul class="post-list">
                 {% for post in site.posts %}
                 {% unless post.categories contains 'event' %}
                 <li>
                     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                    <h2>
+                    <h3>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
+                    </h3>
                 </li>
                 {% endunless %}
                 {% endfor %}
