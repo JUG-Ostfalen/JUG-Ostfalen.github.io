@@ -48,14 +48,12 @@ layout: landing
         <div class="col-md-5">
             <h2>Artikel</h2>
             <ul class="post-list">
-                {% for post in site.posts %}
-                {% unless post.categories contains 'event' %}
+                {% for post in site.categories.article limit:10 %}
                 <li>
                     <h3>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h3>
                 </li>
-                {% endunless %}
                 {% endfor %}
             </ul>
         </div>
