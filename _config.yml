@@ -19,6 +19,17 @@ orgs:
     description: Der Wolfsburger Entwicklerstammtisch
     image: entwicklerstammtisch.jpg
 
+#Autoren
+authors:
+  uwe:
+    display_name: "Uwe Sauerbrei"
+    blurb: "Gründer der JUG-Ostfalen, jetzt in Hamburg unterwegs"
+    url: https://www.xing.com/profile/Uwe_Sauerbrei
+  jens:
+    display_name: "Jens Schauder"
+    blurb: "Organisator der JUG seit Herbst 2014"
+    url: http://blog.schauderhaft.de/uber-jens-schauder/
+
 # no code highlighting for now, since it does not work on windows. see for example http://stackoverflow.com/questions/17364028/jekyll-on-windows-pygments-not-working/17404260#17404260 
 highlighter: false
 
