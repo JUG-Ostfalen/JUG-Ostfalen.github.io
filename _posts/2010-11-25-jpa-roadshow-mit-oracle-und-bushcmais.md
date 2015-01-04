@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Frank Schwarz (IT Architekt, buschmais GbR), Michael Bräuer (Systemberater, ORACLE Deutschland B.V. & Co. KG)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Was ist das Java Persistence API und wie ergänzt die Version 2.0 die bestehende Version 1.0?
 Was verbirgt sich hinter EclipseLink? Welche Funktionalitäten bietet EclipseLink, EclipseLink JPA und dessen

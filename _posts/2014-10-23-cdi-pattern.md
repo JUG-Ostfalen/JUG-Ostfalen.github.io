@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Sven Ruppert (Codecentric AG)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 
 CDI (Context Dependency Injection) ermöglicht es dem Entwickler skalierbare und flexible Architekturen aufzubauen die

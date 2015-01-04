@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Peter Doschnikow, Michael Bräuer (Oracle Deutschland)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Cloud Computing ist in aller Munde. Aber was bedeutet das für den Java Entwickler, der sich mit der Entwicklung
 serverseitiger Anwendungen beschäftigt und für den Betrieb solcher Anwendungen? In zwei Vorträgen (a 45 min) soll die

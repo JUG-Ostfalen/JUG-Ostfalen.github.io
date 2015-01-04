@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Jochen Mader, (Senacor Technologies AG)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Wirft man einen kritischen Blick auf die etablierten Java-Applikationsframeworks der letzten Jahre so wird eines schnell klar:
 

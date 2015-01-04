@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Stefan Zörner ([oose](http://www.oose.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Ein Jahrhunderttraum wie das Fliegen: Eine Maschine, die Menschen im Schach bezwingt. Auch heute für viele
 Java-Entwickler noch eine faszinierende Aufgabe! Wie zerlegt man das Problem geschickt? Welche wichtigen Entscheidungen

@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Oliver Ochs, (Holisticon)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Nahezu jede große Website – egal ob das Backend in Java, PHP, Ruby oder Python programmiert wurde – verwendet im
 Browser JavaScript als Sprache. Software-Artefakte, die in JavaScript erstellt wurden, werde zunehmend wichtiger, da

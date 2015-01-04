@@ -6,6 +6,7 @@ location: "LINEAS, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Martin Hauner, ([LINEAS](http://www.lineas.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Automatisierte Unit Tests haben sich etabliert. Der nächste Schritt sind automatisierte Akzeptanz Tests. Hierbei fallen
 Begriffe wie "Specification by Example" und "Executable Specification".Was sind die Ideen dahinter und wie kann ich das

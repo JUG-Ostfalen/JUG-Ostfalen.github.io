@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Stefan Plantikow"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Graphen erleichtern die Verarbeitung und Integration hochkomplexer Datenbestände. In diesem Vortrag spreche ich über
 Graphen als neues und flexibles primäres Datenmodell für die Anwendungsentwicklung und Datenintegration.

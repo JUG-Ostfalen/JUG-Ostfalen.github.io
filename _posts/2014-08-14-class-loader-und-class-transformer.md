@@ -6,6 +6,7 @@ location: "TRIOLOGY GmbH, Brabandtstraße 9–10, 38100 Braunschweig"
 speaker: " Prof. Bernd Müller"
 categories: event
 organizer: JUG
+author: uwe
 ---
 
 Der Vortrag gibt einen Einblick in die innere Arbeitsweise einer Java Virtual Machine im Hinblick auf das Laden und

@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Markus Gärtner (it-agile GmbH)"
 categories: event
 organizer: JUG
+author: jens
 ---
 In klassischen wie agilen Umfeldern bleibt den Testern häufig nur wenig Zeit, ein Produkt gründlich zu testen. Eine Technik, die sich immer mehr durchsetzt ist das sessionbasierte explorative Testen. Zu Unrecht wird diese Technik leider häufig als unstrukturiert abgelehnt.
 

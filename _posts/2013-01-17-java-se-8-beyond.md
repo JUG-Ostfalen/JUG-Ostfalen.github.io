@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Dalibor Topic, (Oracle)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Seit dem aktuellen Release von Java SE 7 tut sich wieder was auf der Java-Plattform, was den Bedürfnissen der
 Entwickler bei den sich ständig ändernden Anforderungen der Plattformen und Applikationen sehr entgegenkommt. In diesem

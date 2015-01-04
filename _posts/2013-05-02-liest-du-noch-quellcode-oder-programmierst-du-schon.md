@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Marcel Bruch, (Codetrails GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Entwickler kennen das: Teams und Technologien ändern sich häufig, was unsere Burndown Charts und
 Projektkostenschätzungen innerhalb weniger Wochen zu Altpapier werden lässt. Um den ‚Brain Drain’ zu kompensieren und

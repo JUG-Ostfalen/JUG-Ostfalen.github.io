@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Marcel Bruch, (Codetrails GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Nachdem Oracle das Ruder in die Hand genommen hat geht es mit der Entwicklung von JavaFX als offiziellem Nachfolger von
 Java Swing zügig und zuverlässig voran. Dabei wird JavaFX nicht alleine als Framework für die Entwicklung von Desktop

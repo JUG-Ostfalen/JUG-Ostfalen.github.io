@@ -6,6 +6,7 @@ location: "AutoUni Volkswagen AG MobileLifeCampus, Wolfsburg"
 speaker: "Mahbouba Gharbi, Ralf Parr, Stefan Tilkov"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Architekturanalysen sind eines der wichtigsten Mittel zur Bewertung von Softwarequalität. Welche Qualitätsmerkmale sind
 für Architekturbewertungen wichtig? Und inwieweit kann man Softwarequalität überhaupt messen? Diese Fragen wird

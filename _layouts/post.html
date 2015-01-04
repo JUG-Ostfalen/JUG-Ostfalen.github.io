@@ -9,8 +9,8 @@ layout: default
         <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
             {% if page.author %} •
             {% assign author = site.authors[page.author] %}
-            <a data-toggle="tooltip" data-placement="top" title="{{site.authors[page.author].blurb }}"
-               href="{{author.url }}">{{ author.display_name }}</a>
+            <a data-toggle="tooltip" data-placement="top" title="{{ author.blurb }}"
+               href="{{ author.url }}">{{ author.display_name }}</a>
             {% endif %}</p>
     </header>
 

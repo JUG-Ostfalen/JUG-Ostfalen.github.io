@@ -6,6 +6,7 @@ location: "AutoUni Volkswagen AG MobileLifeCampus, Wolfsburg"
 speaker: "Stefan Tilkov (innoQ), Oliver Gierke (SpringSource)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 REST ist die Abkürzung für "Representational State Transfer" und bezeichnet einen Software-Architekturstil für
 verteilte Webanwendungen. Der Begriff wurde durch Roy Fielding, einem der Haupt-Autoren der http-Spezifikation, in

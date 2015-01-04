@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Bernd Rücker (camunda)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Mit camunda BPM gibt es ein BPMS unter Open Source Apache License. Es ist keine proprietäre Black-Box BPM-Suite sondern
 eine leicht-gewichtige "embeddable" Java Process Engine aber inkl. notwendigen Tools für den Enterprise Einsatz. Die

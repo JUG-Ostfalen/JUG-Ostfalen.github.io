@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Robert Reese, ([Thoughtworks](http://www.thoughtworks.com/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 NoSql is a buzzword that covers a lot of different technolgies and strategies for data so tonight we are going to dive
 into one particular area: schema-less data stores and in particular document databases. We are going to try and create

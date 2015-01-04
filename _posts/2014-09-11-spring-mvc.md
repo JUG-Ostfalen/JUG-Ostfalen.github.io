@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Gerrit Meier (T-Systems on site services GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Die Verwendung von Spring MVC bietet für die Entwicklung von Webanwendungen viele Vorteile.
 Wir wollen zusammen einen Blick auf die zur Verfügung stehende Funktionalität werfen, die uns durch die Verwendung von

@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Jens Schauder, LINEAS"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Alle schreiben DSLs. Wirklich alle? Wenn man fragt, "Worauf muss ich achten, wenn ich eine DSL schreiben möchte?",
 bekommt man nur wenige konkrete Antworten. In dieser Session wird, ausgehend von einer Idee für eine DSL, diese Schritt

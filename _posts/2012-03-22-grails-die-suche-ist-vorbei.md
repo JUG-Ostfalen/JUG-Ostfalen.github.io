@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Stefan Glase, ([Opitz](http://www.opitz-consulting.com/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Grails ist ein Framework für Webapplikationen auf Basis der dynamisch typisierten Programmiersprache Groovy.
 Es greift dabei auf bewährte Technologien wie das Spring Framework und Hibernate zurück. Eine Vielzahl von Plug-Ins

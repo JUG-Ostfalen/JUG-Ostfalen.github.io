@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Peter Doschkinow, Michael Bräuer"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Die Vereinfachung der Java EE API für Zugriff auf Container-Services und die Erweiterung des Umfangs dieses Services
 hat dazu geführt, dass die Entwicklung von HTML5-basierten Enterprise-Anwendungen mit Java EE 7 so einfach geworden ist,

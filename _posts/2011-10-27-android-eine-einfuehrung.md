@@ -6,6 +6,7 @@ location: "LINEAS, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Gerrit Meier, (ID.on)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Mit Android hat es Google geschafft, ein (Smartphone-)Betriebssystem bereitzustellen, das nicht nur auf High-End-Geräten,
 sondern auch auf günstiger Hardware läuft. Unter anderem trägt gerade dieses seiner starken Verbreitung bei.

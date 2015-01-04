@@ -6,6 +6,7 @@ location: "Lineas, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Dirk Weil (GEDOPLAN GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Softwarequalität ist keine Spracheigenschaft. In jeder noch so guten Programmiersprache kann man
 schlechte Programme schreiben – sogar in Java. Dirk Weil macht in diesem Vortrag anhand von Fallbeispielen aus unseren

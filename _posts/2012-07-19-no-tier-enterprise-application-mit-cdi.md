@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Lars Röwekamp, ([open knowledge GmbH](http://www.openknowledge.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Der Einsatz von Java EE führt meist zu Anwendungen, die einer klassischen serviceorientierten Mehrschichtarchitektur
 entsprechen. Mit Java EE 6 und CDI (JSR 299 aka WebBeans) hält nun ein Entwicklungsparadigma Einzug, das diesen

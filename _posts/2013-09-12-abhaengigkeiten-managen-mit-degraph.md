@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Jens Schauder(T-Systems on site services GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Wer mit offenen Augen Software entwickelt (und alles andere erschwert die Sache ungemein) merkt schnell,
 dass Abhängigkeiten zwischen verschiedenen Teilen einer Anwendung ein schier unerschöpflicher Quell von Problemen sind.

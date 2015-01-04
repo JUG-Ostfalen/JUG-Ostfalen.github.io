@@ -6,6 +6,7 @@ location: "Tagungszentrum Nordbahnhof, Am Nordbahnhof 1, 38106 Braunschweig"
 speaker: "Marcus Stiegler, ([XDEV](http://cms.xdev-software.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Mit XDEV 3 lassen sich jetzt Java Anwendungen genauso entwickeln wie mit MS Access, Oracle Forms und anderen 4GL-Tools.
 Damit ist die Anwendungsentwicklung mit XDEV 3 um ein Vielfaches einfacher und komfortabler als die Programmierung mit

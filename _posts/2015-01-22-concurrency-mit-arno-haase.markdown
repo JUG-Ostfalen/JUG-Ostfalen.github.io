@@ -6,6 +6,7 @@ location: "Lineas, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Arno Haase"
 categories: event
 organizer: JUG
+author: jens
 ---
 Java hat ein solides Memory Model und eine Reihe guter Bibliotheken
 für Concurrency. Trotzdem taucht eine Fülle an Stolperfallen auf, wenn

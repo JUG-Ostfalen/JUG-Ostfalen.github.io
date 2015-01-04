@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Andy Wenk"
 categories: event
 organizer: JUG
+author: uwe
 ---
 # Teil I
 CouchDB ist einer der bekanntesten Vertreter aus dem Umfeld der NoSQL Datenbanken. Sie wird über eine RESTful-HTTP-API

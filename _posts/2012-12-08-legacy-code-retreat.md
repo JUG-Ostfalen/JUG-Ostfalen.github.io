@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Jens Schauder (T-Systems)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Die JVM-Sprache Scala zeichnet sich unter anderem durch ein sehr leistungsfähiges Typsystem aus.
 

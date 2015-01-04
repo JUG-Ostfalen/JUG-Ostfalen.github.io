@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Kai Tödter, ([Team Agile Review (TU Kaiserslautern)](http://toedter.com))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Kai gibt in dieser Session einen Überblick über die neuen Features der Eclipse 4.x Rich Client Platform (RCP).
 Folgende Themen werden vorgestellt: Einführung und "Hello, World"-RCP-4.0-Applikation,

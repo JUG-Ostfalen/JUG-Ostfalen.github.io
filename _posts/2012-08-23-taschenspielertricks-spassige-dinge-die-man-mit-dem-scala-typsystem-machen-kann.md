@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Rene Gröschke, (Gradleware GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Gradle ist der neue Stern am Himmel der Open-Source-Build-Systeme. In dieser Session wird anhand einiger Livebeispiele
 ein Einblick in die Konzepte und die Anwendung von Gradle gegeben. Weiterhin demonstrieren wir, wie Gradle sich nahtlos

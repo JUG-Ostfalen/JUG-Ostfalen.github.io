@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Sven Efftinge, ([Itemis](http://www.itemis.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 # Xtend - A Programming Language for Java Developers
 

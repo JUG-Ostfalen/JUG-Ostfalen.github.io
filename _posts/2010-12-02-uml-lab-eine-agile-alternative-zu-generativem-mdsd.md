@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Manuel Bork, yatta Solutions"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Möchte man auch noch während der Implementierung die Freiheit haben den Entwurf zu überarbeiten, ist das Ideal ein
 Abgleich zwischen Modell und Quelltext, der die Übersicht im Modell vollständig erhält. Nur so wird gleichzeitiges

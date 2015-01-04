@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Peter Doschkinow, Michael Bräuer (Oracle)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Kann Java für HTML5 genutzt werden?
 

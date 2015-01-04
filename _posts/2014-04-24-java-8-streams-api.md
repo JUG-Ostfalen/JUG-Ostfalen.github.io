@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Sven Ruppert (SiteOS AG)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Java 8 bringt einige Neuerungen mit sich. Eine der größeren Veränderungen ist die Einführung der neuen Streams-API in
 Verbindung mit Lambdas. Zusammen ergeben diese beiden Dinge sehr effektive Werkzeuge für den Entwickler. Wir schauen

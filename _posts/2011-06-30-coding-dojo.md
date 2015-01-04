@@ -6,6 +6,7 @@ location: "LINEAS, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Jens Schauder, (LINEAS)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Sinn und Zweck eines Coding Dojos ist es gemeinsam das Programmieren, insbesondere Pair Programming und TDD zu üben.
 

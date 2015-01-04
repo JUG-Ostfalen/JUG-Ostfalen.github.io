@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Wolfgang Weigend ([Oracle](http://www.oracle.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Nach der Veröffentlichung vom JDK 7 und dem darauf folgenden JDK 8 in 2012 sollen die Inhalte für Java SE 7 und
 Java SE 8 genauer betrachtet werden. Im JDK 7 geht es um Sprachverbesserungen im Project Coin, die Unterstützung für

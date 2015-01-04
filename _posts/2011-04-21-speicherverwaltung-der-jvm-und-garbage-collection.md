@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Dr. Thomas Greve, ([MT AG](http://www.mt-ag.com/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Die Themen Speicherverwaltung der JVM und Garbage Collection werden von Java-Entwicklern meist zu recht ignoriert:
 Garbage Collection gibt es und sie funktioniert. In manchen Situationen kann die Garbage Collection allerdings die

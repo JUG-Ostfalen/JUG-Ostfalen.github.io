@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Oliver Gierke (SpringSource)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Zentrum von Spring MVC ist das annotationsbasierte Programmiermodell für Controllerklassen, das es ermöglicht sehr
 leicht unit-testbare Webkomponenten zu implementieren. Dennoch bleibt das Implementieren von Integrationstests für den

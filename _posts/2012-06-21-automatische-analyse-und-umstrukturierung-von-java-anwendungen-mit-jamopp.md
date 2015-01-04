@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Dr. Jendrik Johannes, ([DevBoost](http://www.devboost.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Softwareanwendungen altern. Diese Tatsache ist jedem Entwickler bekannt. Je länger Anwendungen entwickelt und eingesetzt
 werden, umso häufiger hört man die Aussage, dass bestimmte Sachen "historisch gewachsen" seien. Design- oder

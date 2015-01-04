@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Jens Schauder (T-Systems)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Ohne Datenbanken ist kaum eine Unternehmensanwendung denkbar. Leider machen gerade diese Datenbanken das Leben für
 Entwickler schwer, die die Notwendigkeit und den Sinn von automatisierten Tests erkannt haben. Datenbanktests gelten als

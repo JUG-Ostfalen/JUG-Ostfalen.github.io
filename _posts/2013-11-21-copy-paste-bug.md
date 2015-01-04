@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Dr. Elmar Jürgens (CQSE GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Programmiersprachen bieten eine Vielzahl von Abstraktionsmechanismen um uns Wiederverwendung zu erleichtern. Trotzdem
 ist Copy &amp; Paste nach wie vor weit verbreitet. Oft wird einfach mal schnell ein existierendes Code-Fragment kopiert

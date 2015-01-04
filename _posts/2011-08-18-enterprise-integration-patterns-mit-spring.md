@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Oliver Gierke, ([SpringSource](http://www.springsource.org/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Das Buch Enterprise Application Integration von Bobby Wolf und Gregor Hohpe ist das Standardwerk bzgl.
 Patterns beim Design von großen Softwaresystemen und deren Integration. Spring Integration ist eine Implementierung

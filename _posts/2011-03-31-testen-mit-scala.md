@@ -6,6 +6,7 @@ location: "Haus der Wissenschaft, Pockelstr. 11, 38106 Braunschweig"
 speaker: "Jens Schauder, ([LINEAS](http://www.lineas.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Wenn ich Kollegen (und völlig Fremden) von Scala vorschwärme kommt oft die Frage:
 "Und wofür eignet sich die Sprache besonders gut?" Seit ich mich ein wenig mit der Bibliothek Scalatest beschäftigt

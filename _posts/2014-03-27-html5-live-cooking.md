@@ -6,6 +6,7 @@ location: "TRIOLOGY GmbH, Brabandtstraße 9–10, 38100 Braunschweig"
 speaker: "Mark Stein / Michael Seemann"
 categories: event
 organizer: JUG
+author: uwe
 ---
 HTML5 ist in aller Munde. Doch erst die richtige Rezeptur und die passende Zubereitung sorgen für ein genussvolles
 Erlebnis. Als Beispiel dient uns eine kleine, jedoch anspruchsvolle Webanwendung. Wir werden zeigen, wie effizient die

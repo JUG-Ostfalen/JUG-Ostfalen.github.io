@@ -6,6 +6,7 @@ location: "LINEAS, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Dirk Weil (GEDOPLAN GmbH)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Was macht ein Java-Nerd mit der Modellbahn im Keller? Richtig: Züge, Weichen, Signale werden von
 einem Java-EE-Server gesteuert, das Stellwerk ist eine JavaFX-Applikation und die Walk-Around-Controls sind per WLAN

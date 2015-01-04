@@ -6,6 +6,7 @@ location: "CKC Braunschweig, Am Alten Bahnhof 13,38122 Braunschweig"
 speaker: "Sven Peters (Atlassian)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 
 With Kick-Ass Software Development you actually get stuff done. Feedback cycles are short, code quality is awesome and

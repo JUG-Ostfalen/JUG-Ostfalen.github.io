@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Julia Dellnitz (Learnical GbR)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Versteckte oder emergente Anforderungen machen häufig den innovativen Charakter eines Softwareentwicklungsvorhabens aus,
 entziehen sich aber ebenso häufig dem analytischen Zugang. Wir zeigen in dem Vortrag, wie Entwickler und Stakeholder

@@ -6,6 +6,7 @@ location: "LINEAS, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Jens Schauder, (LINEAS)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Beim zweiten Coding Dojo werden wir Conways Game Of Life implementieren. Es geht wieder darum Spaß zu haben und
 programmieren zu üben. Je nach Kenntnisstand kann dies bedeuten:Java üben, TDD üben, Benutzung der IDE übenDie

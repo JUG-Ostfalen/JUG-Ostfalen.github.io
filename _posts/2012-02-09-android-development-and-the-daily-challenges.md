@@ -6,6 +6,7 @@ location: "Lineas, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Dominik Helleberg, ([inovex GmbH](http://www.inovex.de/))"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Nach den ersten Gehversuchen mit Android anhand von vorgefertigten Tutorials steht meistens die Umsetzung einer eigenen
 Idee, also die erste eigene App. Und oft stolpert man dabei über konkrete Fragen die nicht so richtig von den

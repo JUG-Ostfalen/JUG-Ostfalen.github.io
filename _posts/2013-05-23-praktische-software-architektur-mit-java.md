@@ -6,6 +6,7 @@ location: "T-Systems on site , Alessandro-Volta-Straße 11, 38440 Wolfsburg"
 speaker: "Eberhard Wolff (adesso)"
 categories: event
 organizer: JUG
+author: uwe
 ---
 Dieser Vortrag zeigt, was Software Architektur ist - und was es nicht ist. Im Mittelpunkt steht nicht nur Architektur,
 sondern auch ein pragmatischer Ansatz für das Abbilden von Architekturen in Java-Systeme.
