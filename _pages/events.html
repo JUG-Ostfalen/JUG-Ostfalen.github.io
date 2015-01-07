@@ -3,37 +3,32 @@ layout: page
 title: Alle Events
 ---
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-7">
-            <h2>Events</h2>
-            <ul class="post-list">
-                {% for post in site.categories.event %}
-                <li>
-                    <h3>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <img class="icon" src="/assets/{{ site.orgs[post.organizer].image}}"/>
-                            {{ post.title }}
-                        </a>
-                    </h3>
+<h2>Events</h2>
+<ul class="post-list">
+    {% for post in site.categories.event %}
+    <li>
+        <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <img class="icon" src="/assets/{{ site.orgs[post.organizer].image}}"/>
+                {{ post.title }}
+            </a>
+        </h3>
 
-                    <div class="alert alert-info">
-                        <div>
-                            Am {{ post.date | date: "%F" }}
-                            um {{ post.date | date: "%R" }}Uhr
-                        </div>
-                        <div>
-                            {{ post.location }}
-                        </div>
-                    </div>
-                    <div>
-                        {{ post.excerpt }}
-                    </div>
-
-                </li>
-                {% endfor %}
-            </ul>
+        <div class="alert alert-info">
+            <div>
+                Am {{ post.date | date: "%F" }}
+                um {{ post.date | date: "%R" }}Uhr
+            </div>
+            <div>
+                {{ post.location }}
+            </div>
         </div>
-    </div>
+        <div>
+            {{ post.excerpt }}
+        </div>
 
+    </li>
+    {% endfor %}
+
+                
 

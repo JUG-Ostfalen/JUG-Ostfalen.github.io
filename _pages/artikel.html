@@ -1,0 +1,17 @@
+---
+layout: page
+title: Alle Artikel
+---
+
+<h2>Artikel</h2>
+<ul class="post-list">
+    {% for post in site.categories.article %}
+    <li>
+        <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        <div>{{ post.excerpt }}</div>
+    </li>
+    {% endfor %}
+</ul>
+
