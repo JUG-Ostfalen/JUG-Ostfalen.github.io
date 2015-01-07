@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="navbar-header">
                 <a href="{{ site.baseurl }}/">
-                    <img class="icon" alt="{{ site.title }}" src="assets/logo.jpg">
+                    <img class="icon" alt="{{ site.title }}" src="{{ site.baseurl }}/assets/logo.jpg" >
                 </a>
             </div>
             <div class="collapse navbar-collapse">
@@ -15,8 +15,10 @@
                     </li>
                     {% endif %}
                     {% endfor %}
+                </ul>
             </div>
         </div>
     </nav>
 
 </header>
+
