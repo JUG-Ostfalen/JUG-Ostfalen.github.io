@@ -18,7 +18,7 @@ author: uwe
 ---
 <p>Es ist schön zu sehen, dass fast alle gemeldeten Teilnehmer gekommen sind. Das finde ich ganz toll und für unseren ersten Vortrag in Wolfsburg sind 16 Teilnehmer gar nicht schlecht! :-) Auch unsere neue Location ist toll, vielen Dank an T-Systems onsite services GmbH!</p>
 <p>Doch nun zum Vortrag von Jens Schauder. Es geht heute nicht um Scala für Anfänger sondern um das Typsystem.</p>
-<p>[caption id="attachment_891" align="alignleft" width="300"]<a href="http://www.jug-ostfalen.de/wp-content/uploads/2012/08/scala_type1.jpg"><img class="size-medium wp-image-891" title="scala_type1" src="assets/scala_type1-300x225.jpg" alt="" width="300" height="225" /></a> Jens und der Java-Scala-Dino[/caption]</p>
+<p>[caption id="attachment_891" align="alignleft" width="300"]<a href="{{site.baseurl}}/assets/wp/2012/08/scala_type1.jpg"><img class="size-medium wp-image-891" title="scala_type1" src="{{site.baseurl}}/assets/wp/scala_type1-300x225.jpg" alt="" width="300" height="225" /></a> Jens und der Java-Scala-Dino[/caption]</p>
 <p>Erster Punkt sind <em>implicit conversions</em>. Nimmt man eine Methode, die es für einen Typ nicht gibt, sucht der Compiler einen Typ, der diese Methode besitzt und wandelt den Typ um! Eine denkbare Anwendung sind DSLs.</p>
 <p>Wir kommen zu den <em>Structural Types</em>. Hier kommt das 'Duck Typing' ins Spiel. Umsetzung erfolgt mit Reflection, was relevant für Performance sein kann aber elegante Konstrukte ermöglicht.</p>
 <p><em>Path Dependent Types</em>. Ein Typ hängt an einer Objektinstanz( eine Kuh ist kein Teddy! :-) ) Diese Funktion dient beispielsweise für die Registrierung- Unregistrierung von Objekten.</p>
@@ -37,4 +37,4 @@ def fmap[A,B](r:(R,A),f: A=&gt;B) = (r._1,f(r._2))
 <li>Jespers <a href="http://jnordenberg.blogspot.com/2008/08/hlist-in-scala.html" target="_blank">HList</a> in Scala</li>
 <li><a href="http://code.google.com/p/scalaz/" target="_blank">Scalaz</a></li>
 </ul>
-<div id="blogsy_footer" style="text-align: right; font-size: small; clear: both;"><a href="http://blogsyapp.com" target="_blank"><img style="vertical-align: middle; margin-right: 5px;" src="assets/blogsy_footer_icon.png" alt="Mit Blogsy veröffentlicht" width="20" height="20" />Mit Blogsy veröffentlicht</a></div>
+<div id="blogsy_footer" style="text-align: right; font-size: small; clear: both;"><a href="http://blogsyapp.com" target="_blank"><img style="vertical-align: middle; margin-right: 5px;" src="{{site.baseurl}}/assets/wp/blogsy_footer_icon.png" alt="Mit Blogsy veröffentlicht" width="20" height="20" />Mit Blogsy veröffentlicht</a></div>
