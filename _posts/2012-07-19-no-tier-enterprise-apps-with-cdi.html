@@ -20,7 +20,7 @@ author: uwe
 ---
 <p>Zum ersten Mal schreibe ich gleich mal mit. :-) Wir sitzen im großen Raum im Haus der Wissenschaft und bei über 60 Anmeldungen hätte ich noch ein paar mehr Teilnehmer erwartet.</p>
 <p>Das Thema ist auf jeden Fall brandaktuell: CDI</p>
-<p>[caption width="300" align="alignleft" caption="Lars Röwekamp"]<a href="{{site.baseurl}}/assets/wp/2012/07/wpid-Photo-19.07.2012-1931.jpg" target="_blank" style="clear: left; float: left;  "><img src="{{site.baseurl}}/assets/wp/wpid-Photo-19.07.2012-1931.jpg" id="blogsy-1342720948492.0334" class="alignleft" alt="" width="300" height="401" /></a>[/caption]</p>
+<p><a href="{{site.baseurl}}/assets/wp/2012/07/wpid-Photo-19.07.2012-1931.jpg" target="_blank" style="clear: left; float: left;  "><img src="{{site.baseurl}}/assets/wp/wpid-Photo-19.07.2012-1931.jpg" id="blogsy-1342720948492.0334" class="alignleft" alt="" width="300" height="401" /></a></p>
 <p>Mit Lars Röwekamp ist ein Top-Experte hier vor Ort.</p>
 <p> Ein wenig Hintergrund zu den existierenden Architekturen, dem Mehrschichtenmodell. CDI wurde 2009 bereits in die Spec aufgenommen. Trotz einer kleinen Specification (JSR299) ist es inhaltlich sehr umfangreich. Ist ein leichtgewichtiges Komponentenmodell im Gegensatz zum EJB-Fullstack. Verfügt abgebraucht über Lifecycle, Scoping und es kann erweitert werden (z.B. Apache Codi).</p>
 <p>Jetzt geht es um Scopes und den Einsatz von Proxys. Dadurch kann aus einem größeren Scope in einen kleineren Scope injected werden. Weiter geht es mit &#39;loosly-coupled&#39; durch Events, Observer und Interceptors. CDI ist typesafe! Stichworte hier:</p>
@@ -29,7 +29,7 @@ author: uwe
 <li>Stereotypes</li>
 <li>Alternatives (Einsatz von Mocks)</li>
 </ul>
-<p>[caption width="300" align="alignleft" caption="CDI in Action"]<a href="{{site.baseurl}}/assets/wp/2012/07/wpid-Photo-19.07.2012-1956.jpg" target="_blank" style="clear: left; float: left;  "><img src="{{site.baseurl}}/assets/wp/wpid-Photo-19.07.2012-1956.jpg" id="blogsy-1342720948513.1528" class="alignleft" alt="" width="300" height="401" /></a>[/caption]</p>
+<p><a href="{{site.baseurl}}/assets/wp/2012/07/wpid-Photo-19.07.2012-1956.jpg" target="_blank" style="clear: left; float: left;  "><img src="{{site.baseurl}}/assets/wp/wpid-Photo-19.07.2012-1956.jpg" id="blogsy-1342720948513.1528" class="alignleft" alt="" width="300" height="401" /></a></p>
 <p>Um CDI zu aktivieren muss nur ein Marker-XML-File (beans.xml) deklariert werden. Dann wird gewährleistet, dass mit dem Start des Servers alle DIs aufgelöst werden können. Einsatz ganz klar die Ablösung der Managed Beans von JSF!</p>
 <p>Jetzt ein Beispiel - (eCustomer) mit einem CDI- Refactoring.</p>
 <p>Das Beispiel wirft jetzt doch eine Menge Fragen auf, gerade wenn es auch um die <strong>@Produces</strong> Annotation im Zusamenhang mit einem <strong>@Qualifier</strong> geht.</p>
