@@ -8,7 +8,8 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    {% for page in site.pages %}
+                    {% assign pages = site.pages | sort:"order"  %}
+                    {% for page in pages %}
                     {% if page.title %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
