@@ -17,8 +17,8 @@ order: 1
 
         <div class="alert alert-info">
             <div>
-                Am {{ post.date | date: "%F" }}
-                um {{ post.date | date: "%R" }}Uhr
+                Am {{ post.date | date: "%d %m %Y" }}
+                um {{ post.date | date: "%R" }} Uhr
             </div>
             <div>
                 {{ post.location }}
