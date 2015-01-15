@@ -16,7 +16,7 @@ layout: landing
         <div class="col-md-7">
             <h2>Events</h2>
             <ul class="post-list">
-                {% for post in site.categories.event %}
+                {% for post in site.categories.event reversed %}
                 {% if site.time < post.date %}
 
                 <li>
