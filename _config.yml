@@ -19,6 +19,9 @@ orgs:
   entwicklerstammtisch:
     description: Der Wolfsburger Entwicklerstammtisch
     image: entwicklerstammtisch.jpg
+  sandsmedia:
+    description: "S&S Media, Macher der JAX und sponsoren uns regelmässig mit Java Magazinen"
+    image: sands_logo.png
 
 #Autoren
 authors:

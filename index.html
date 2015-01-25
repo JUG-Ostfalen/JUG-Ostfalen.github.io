@@ -14,7 +14,7 @@ layout: landing
     </div>
     <div class="row">
         <div class="col-md-7">
-            <h2>Events</h2>
+            <h2><a href="_pages/events.html">Events</a></h2>
             <ul class="post-list">
                 {% for post in site.categories.event reversed %}
                 {% if site.time < post.date %}
@@ -46,7 +46,7 @@ layout: landing
             </ul>
         </div>
         <div class="col-md-5">
-            <h2>Artikel</h2>
+            <h2><a href="_pages/artikel.html">Artikel</h2>
             <ul class="post-list">
                 {% for post in site.categories.article limit:10 %}
                 <li>
