@@ -22,6 +22,9 @@ orgs:
   sandsmedia:
     description: "S&S Media, Macher der JAX und sponsoren uns regelmässig mit Java Magazinen"
     image: sands_logo.png
+  ijug:
+    description: "Die iJUG ist ein Verbund der deutschsprachigen JUGs, in der auch die JUG Ostfalen Mitglied ist"
+    image: ijug-logo.png
 
 #Autoren
 authors:
