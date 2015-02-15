@@ -36,3 +36,5 @@ Hier sind die Themen, die gewünscht wurden. Wenn euch noch weitere einfallen: I
     Benett Schulz hat einen Vortrag in Vorbereitung
 * Garbage Collection für Fortgeschrittene
 * Wie mache ich ein Architektur Review. Hier habe ich schon eine Zusage von Arno Haase als Speaker
+
+Update: Die [Folien zum Vortrag](/assets/articles/concurrency.pdf)

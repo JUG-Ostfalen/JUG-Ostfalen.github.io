@@ -9,4 +9,5 @@ organizer: sandsmedia
 author: jens
 ---
 Im April ist wieder [JAX](https://jax.de/2015/) ... muss ich noch was dazu sagen? Ich denke Nein.
+
 [![Jax Logo](/assets/jax-2015-logo-small.png)](https://jax.de/2015/)
