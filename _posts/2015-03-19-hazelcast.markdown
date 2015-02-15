@@ -2,7 +2,7 @@
 layout: post
 title:  "Hazelcast - Interaktive Einführung in In-Memory Computing"
 date:   2015-03-19 19:00
-location: "CKC Am Alten Bahnhof 13, 38122 Braunschweig"
+location: "CKC, Am Alten Bahnhof 13, 38122 Braunschweig"
 speaker: "Christoph Engelbert"
 categories: event
 organizer: JUG
@@ -25,5 +25,5 @@ zu neuen Diskussionen an.
 ![Christoph Engelbert](/assets/articles/hazelcast-devoxx_pic_800x800.jpg)
 
 Zur Anmeldung:
-[Xing](https://www.xing.com/events/)
-[Eventbrite](https://www.eventbrite.de/e/)
+[Xing](https://www.xing.com/events/hazelcast-interaktive-einfuhrung-memory-computing-1520930)
+[Eventbrite](https://www.eventbrite.de/e/hazelcast-interaktive-einfuhrung-in-in-memory-computing-tickets-15772647413)
