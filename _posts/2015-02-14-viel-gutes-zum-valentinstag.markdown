@@ -52,4 +52,3 @@ persönlich darf sich ein Abo aussuchen. Die Abos laufen nach 12 Monaten einfach
 das man anschliessend bezahlen muss.
 
 Und denkt dran: Java Land ist bald, und wer nicht hingeht verpasst was.
-Den [Rabatt Code für JUG Mitglieder findet ihr hier](/event/2015/03/26/java-code-camp-2015.html).
