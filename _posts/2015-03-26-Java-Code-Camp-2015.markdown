@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Java Code Camp 2015"
+date:   2015-03-26 9:00
+location: Courtyard by Marriot Berlin Mitte
+speaker: diverse
+categories: event
+organizer: sandsmedia
+author: jens
+---
+Vom 26. bis 27. März 2015 präsentiert das Java Magazin das neue [Java Code Camp](http://www.java-code-camp.de)
+mit vier intensiven Workshops und einer Auswahl der besten Experten aus der Java-Welt.
+Java-Entwickler erleben vor Ort Angelika Langer, Arno Haase, Kirk Pepperdine, Klaus Kreft, Thilo Frotscher,
+die in zwei Tagen geballtes Praxiswissen zu wichtigen Java-Themen vermitteln. Teilnehmer erwartet ein besonders
+hochkarätiges und code-zentriertes Event. Die Themen der Workshops sind: Effektive Concurrency, REST mit JAX-RS in der
+Praxis, Lambdas und Streams in Java 8 und Java Performance Tuning.
+
+Mitglieder der JUG bekommen 15% Rabatt mit dem Rabatt Code: **javaostfalen**
+
+[![Code Camp Logo](\assets\articles\JCC_Banner_140x140.gif)](http://www.java-code-camp.de)
