@@ -1,0 +1,27 @@
+---
+layout: post
+title: Loot
+date: 2015-03-01
+categories: article
+tags:
+- news
+- event
+- docker
+- intellij idea
+author: jens
+---
+
+Letzte Woche, hat uns Halil erzählt wie man 21 Server (Apache, App-Server und Datenbank) auf einem Blech deployt
+und dabei niemanden in den Wahnsinn treibt. Wer es noch mal nachlesen möchte, findet
+ [die Folien hier als PDF](/assets/articles/continuous-delivery-mit-docker.pdf).
+
+Natürlich steht auch schon wieder das nächste Event in den Startlöchern:
+[Hazelcast ist das Thema am 19.3.](/event/2015/03/19/hazelcast.html)
+
+Und für die ein oder zwei, die dies hier lesen, denen das Thema an sich noch nicht reicht um sich beim Gastgeber
+CKC einzufinden: Wenn wenigstens 30 Leute kommen (und davon gehe ich aus), dann darf ich eine IntelliJ IDEA
+Lizens verlosen!
+
+Und schliesslich werden wir zwei Vorschläge für ein neues Logo gezeigt bekommen und darüber abstimmen und bei
+Bedarf diskutieren, welches es werden soll, und ob es noch verändert werden soll.
+
