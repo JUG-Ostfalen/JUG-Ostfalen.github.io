@@ -33,11 +33,15 @@ layout: landing
                             um {{ post.date | date: "%R" }} Uhr
                         </div>
                         <div class="event-meta-right">
-                            <a href="{{ site.locations[post.location].url }}">
-                                {{ site.locations[post.location].name }}
-                            </a><br>
-                            {{ site.locations[post.location].street }}<br>
-                            {{ site.locations[post.location].city }}<br>
+                            {% if site.locations[post.location] %}
+                              <a href="{{ site.locations[post.location].url }}">
+                                  {{ site.locations[post.location].name }}
+                              </a><br>
+                              {{ site.locations[post.location].street }}<br>
+                              {{ site.locations[post.location].city }}<br>
+                            {% else %}
+                              {{ post.location }}
+                            {% endif %}
                         </div>
                     </div>
                     <div>
