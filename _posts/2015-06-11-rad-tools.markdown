@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Tools für Rapid Application Development - Doppelvortrag
+date:   2015-06-11 19:00
+location: "TRIOLOGY GmbH Brabandtstraße 9 – 10 38100 Braunschweig"
+speaker: "Anett Huebner; René Jahn"
+categories: event
+organizer: JUG
+author: jens
+---
+
+
+Zur Anmeldung:
+
+[Xing](https://www.xing.com/events/...)
+[Eventbrite](https://www.eventbrite.de/e/...)
