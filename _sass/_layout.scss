@@ -232,3 +232,17 @@
   line-height: 1;
 }
 
+/*
+events
+*/
+.event-meta{
+    overflow: auto;
+}
+
+.event-meta-left {
+    float: left;
+}
+
+.event-meta-right {
+    float: right
+}

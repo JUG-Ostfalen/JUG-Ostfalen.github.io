@@ -2,7 +2,7 @@
 layout: post
 title:  "Robuste Anwendungen mit Hystrix"
 date:   2015-04-16 18:00
-location: "T-Systems on site services GmbH, Alessandro-Volta-Straße 11; 38440 Wolfsburg"
+location: onsite
 speaker: "Alexander Schwartz"
 categories: event
 organizer: JUG

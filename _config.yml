@@ -26,6 +26,29 @@ orgs:
     description: "Die iJUG ist ein Verbund der deutschsprachigen JUGs, in der auch die JUG Ostfalen Mitglied ist"
     image: ijug-logo.png
 
+#Veranstaltungsorte
+locations:
+  lineas:
+    name: "LINEAS"
+    street: "Theodor-Heuss-Str. 2"
+    city: "38122 Braunschweig"
+    url: "http://www.lineas.de"
+  ckc:
+    name: "ckc group"
+    street: "Am Alten Bahnhof 13"
+    city: "38122 Braunschweig"
+    url: "http://www.ckc-group.de/"
+  triology:
+    name: "TRIOLOGY GmbH"
+    street: "Brabandtstraße 9 – 10"
+    city: "38100 Braunschweig"
+    url: "http://www.triology.de/"
+  onsite:
+    name: "T-Systems on site services GmbH"
+    street: "Alessandro-Volta-Straße 11"
+    city: "38440 Wolfsburg"
+    url: "https://www.t-systems-onsite.de/"
+
 #Autoren
 authors:
   uwe:

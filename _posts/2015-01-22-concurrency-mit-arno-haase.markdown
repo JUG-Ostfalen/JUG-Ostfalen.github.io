@@ -2,7 +2,7 @@
 layout: post
 title:  "Java Concurrency für Fortgeschrittene"
 date:   2015-01-22 19:00
-location: "Lineas, Theodor-Heuss-Str. 2, 38122 Braunschweig"
+location: "LINEAS, Theodor-Heuss-Str. 2, 38122 Braunschweig"
 speaker: "Arno Haase"
 categories: event
 organizer: JUG
