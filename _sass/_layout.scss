@@ -237,12 +237,15 @@ events
 */
 .event-meta{
     overflow: auto;
+    float: right
 }
 
 .event-meta-left {
     float: left;
+    margin-right: 5px;
 }
 
 .event-meta-right {
-    float: right
+    float: right;
+    margin-left: 5px;
 }
