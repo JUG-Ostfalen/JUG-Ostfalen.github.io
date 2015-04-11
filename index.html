@@ -27,23 +27,7 @@ layout: landing
                         </a>
                     </h3>
 
-                    <div class="alert alert-info event-meta">
-                        <div class="event-meta-left">
-                            Am {{ post.date | date: "%d.%m.%Y" }}<br>
-                            um {{ post.date | date: "%R" }} Uhr
-                        </div>
-                        <div class="event-meta-right">
-                            {% if site.locations[post.location] %}
-                              <a href="{{ site.locations[post.location].url }}">
-                                  {{ site.locations[post.location].name }}
-                              </a><br>
-                              {{ site.locations[post.location].street }}<br>
-                              {{ site.locations[post.location].city }}<br>
-                            {% else %}
-                              {{ post.location }}
-                            {% endif %}
-                        </div>
-                    </div>
+                 {% include event-metadata.html %}
                     <div>
                         {{ post.excerpt }}
                     </div>
