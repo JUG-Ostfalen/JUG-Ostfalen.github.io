@@ -38,5 +38,6 @@ Achtung: Der Termin ist an einem **Montag**!
 
 Zur Anmeldung:
 
-[Xing](https://www.xing.com/events/...)
-[Eventbrite](https://www.eventbrite.de/e/...)
+[Xing](https://www.xing.com/events/catch-me-if-you-can-java-on-wearables-1546039)
+
+[Eventbrite](https://www.eventbrite.de/e/catch-me-if-you-can-java-on-wearables-tickets-16550618345)

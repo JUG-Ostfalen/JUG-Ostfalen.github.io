@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Akka Grundlagen und Überblick
-date:   2015-05-17 19:00
+date:   2015-05-07 19:00
 location: lineas
 speaker: "Roland Kuhn"
 categories: event
@@ -39,5 +39,6 @@ arbeitete mehrere Jahre in der Raumfahrtbranche. Siehe auch rolandkuhn.com.
 
 Zur Anmeldung:
 
-[Xing](https://www.xing.com/events/...)
-[Eventbrite](https://www.eventbrite.de/e/...)
+[Xing](https://www.xing.com/events/akka-grundlagen-uberblick-1546037)
+
+[Eventbrite](https://www.eventbrite.de/e/akka-grundlagen-und-uberblick-tickets-16550609318)
