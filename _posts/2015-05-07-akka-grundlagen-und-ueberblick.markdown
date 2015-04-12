@@ -14,7 +14,11 @@ Zentraler Baustein ist eine Umsetzung des Aktorenmodells,
 welches basierend auf Nachrichtenübermittlung zwischen asynchron 
 entkoppelten Komponenten die Grundlage darstellt für zuverlässige Behandlung 
 von Fehlern und Ausfällen sowie ortsunabhängige Verteilung einer Applikation 
-über einen Cluster. Dieser Vortrag bietet eine Einführung in das Aktorenmodell 
+über einen Cluster. 
+
+<img src="/assets/articles/2015/kuhn.jpg" class="speaker" />
+
+Dieser Vortrag bietet eine Einführung in das Aktorenmodell 
 sowie eine Übersicht über die weiteren Bausteine von Akka: persistente Aktoren, 
 Datenstromverarbeitung, Integration vermittels HTTP/REST oder Apache Camel.
 

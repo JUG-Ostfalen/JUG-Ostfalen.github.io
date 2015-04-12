@@ -12,6 +12,8 @@ Anwendungen benötigen meist mehr als nur Daten aus ihrer eigenen Datenbank. Mit
 Diensten steigt jedoch die Gefahr von Ausfällen der eigenen Anwendung, wenn diese Dienste gar nicht, falsch oder zu
 langsam antworten. Schnell wird die eigene Anwendung unbedienbar, sobald ein Dienst ausfällt.
 
+<img src="/assets/articles/alexanderschwartz.jpg" class="speaker" />
+
 Hystrix, das von Netflix 2012 als Open Source Projekt bereitgestellt wurde, ermöglicht einfach und konsistent
 Sollbruchstellen und Backupstrategien zu implementieren. Alle wichtigen Informationen zum Zustand der Schnittstellen zu
 den Diensten können komfortabel überwacht, zur Laufzeit rekonfiguriert und in Echtzeit als Dashboard dargestellt werden.
@@ -19,7 +21,6 @@ den Diensten können komfortabel überwacht, zur Laufzeit rekonfiguriert und in 
 Hystrix kann auch in bestehenden Software-Projekten mit wenigen Schritten Schnittstelle für Schnittstelle integriert
 werden. Bestehende Bibliotheken können gekapselt werden, um nachträglich eine Absicherung hinzuzufügen.
 
-<img src="/assets/articles/alexanderschwartz.jpg" width="200" />
 
 Zur Anmeldung:
 [Xing](https://www.xing.com/events/robuste-anwendungen-hystrix-1538404)

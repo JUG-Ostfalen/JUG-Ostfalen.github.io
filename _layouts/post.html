@@ -33,6 +33,10 @@ layout: default
     </header>
 
     <article class="post-content">
+        {% if page.categories contains "event" %}
+            {% assign post = page %}
+            {% include event-metadata.html %}
+        {% endif %}
         {{ content }}
     </article>
 

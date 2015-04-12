@@ -13,6 +13,8 @@ Wearable computers are one of the next big things. But at the moment, one can on
 specialized systems such as motion trackers, GPS watches, and the like. So why not use 
 existing cheap technology to build your own wearable Java-powered device? 
 
+<img src="/assets/articles/2015/grunwald.jpg" class="speaker" />
+
 This session 
 shows what you can do with affordable technology and Java today. It uses an Odroid-W in 
 combination with a heart rate sensor, a GPS sensor and a BMP180 to track the heart rate 
