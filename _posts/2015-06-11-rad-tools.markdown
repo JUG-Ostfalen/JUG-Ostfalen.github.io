@@ -9,6 +9,7 @@ organizer: JUG
 author: jens
 ---
 
+Wir werden einen Doppelvortrag über zwei verschiedene RAD Tools haben. Details folgen ... 
 
 Zur Anmeldung:
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Akka Grundlagen und Überblick
 date:   2015-05-17 19:00
-location: "Lineas, Theodor-Heuss-Str. 2, 38122 Braunschweig"
+location: lineas
 speaker: "Roland Kuhn"
 categories: event
 organizer: JUG
