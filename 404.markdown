@@ -1,0 +1,19 @@
+---
+permalink: /404.html
+layout: landing
+---
+
+## Tschuldigung, diese Seite gibt es hier nicht. 
+
+Es gibt zwei Möglichkeiten wie es dazu kommt:
+ 
+* Entweder bist du einem Link gefolgt der nie auf etwas existierendes verwisen hat. Dann können wir dir nicht wirklich 
+weiterhelfen, es sei denn wir haben auch den Link gebaut. In diesem Platz [leg bitte ein Issue an](https://github.com/JUG-Ostfalen/JUG-Ostfalen.github.io/issues/new), damit wir den Link 
+reparieren können. 
+
+* Wir haben diese Seite von Wordpress auf Jekyll bzw. GitHub Pages umgestellt. Dabei haben wir leider eine Menge Links 
+kaputt gemacht, die früher einmal funktioniert haben. Falls du meinst, dass dies der Fall ist, [lass uns bitte ebenfalls
+ mit einem Issue wissen](https://github.com/JUG-Ostfalen/JUG-Ostfalen.github.io/issues/new).
+ 
+In jedem Fall kannst du einfach [Google](https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Ahttp%3A%2F%2Fwww.jug-ostfalen.de) oder die Suchmaschine deiner Wahl bemühen um diese Seiten durchsuchen, und so 
+vielleicht doch noch zu der Seite kommen, die du gesucht hast.
