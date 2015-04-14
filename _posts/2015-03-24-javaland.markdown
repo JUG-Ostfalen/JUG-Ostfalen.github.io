@@ -10,7 +10,7 @@ author: jens
 ---
 Im März ist die vielleicht beste Java Konferenz Deutschlands: [JavaLand](http://www.javaland.eu/javaland-2015/).
 
-[![JavaLand Logo](/images/logo_javaland.gif)](http://www.javaland.eu/javaland-2015/)
+[![JavaLand Logo](/assets/articles/2015/logo_javaland.gif)](http://www.javaland.eu/javaland-2015/)
 
 Hier könnt ihr euch die Speaker anschauen, die es vielleicht nicht alle zu unsere JUG schaffen. Und zwischendurch in
  den Achterbahnen entspannen.

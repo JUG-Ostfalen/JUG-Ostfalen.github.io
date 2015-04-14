@@ -17,4 +17,4 @@ Praxis, Lambdas und Streams in Java 8 und Java Performance Tuning.
 
 Mitglieder der JUG bekommen 15% Rabatt mit dem Rabatt Code: **javaostfalen**
 
-[![Code Camp Logo](\assets\articles\JCC_Banner_140x140.gif)](http://www.java-code-camp.de)
+[![Code Camp Logo](\assets\articles\2015\JCC_Banner_140x140.gif)](http://www.java-code-camp.de)

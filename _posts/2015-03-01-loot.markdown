@@ -13,7 +13,7 @@ author: jens
 
 Letzte Woche, hat uns Halil erzählt wie man 21 Server (Apache, App-Server und Datenbank) auf einem Blech deployt
 und dabei niemanden in den Wahnsinn treibt. Wer es noch mal nachlesen möchte, findet
- [die Folien hier als PDF](/assets/articles/continuous-delivery-mit-docker.pdf).
+ [die Folien hier als PDF](/assets/articles/2015/continuous-delivery-mit-docker.pdf).
 
 Natürlich steht auch schon wieder das nächste Event in den Startlöchern:
 [Hazelcast ist das Thema am 19.3.](/event/2015/03/19/hazelcast.html)

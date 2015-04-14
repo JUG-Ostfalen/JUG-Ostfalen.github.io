@@ -12,7 +12,7 @@ Anwendungen benötigen meist mehr als nur Daten aus ihrer eigenen Datenbank. Mit
 Diensten steigt jedoch die Gefahr von Ausfällen der eigenen Anwendung, wenn diese Dienste gar nicht, falsch oder zu
 langsam antworten. Schnell wird die eigene Anwendung unbedienbar, sobald ein Dienst ausfällt.
 
-<img src="/assets/articles/alexanderschwartz.jpg" class="speaker" />
+<img src="/assets/articles/2015/alexanderschwartz.jpg" class="speaker" />
 
 Hystrix, das von Netflix 2012 als Open Source Projekt bereitgestellt wurde, ermöglicht einfach und konsistent
 Sollbruchstellen und Backupstrategien zu implementieren. Alle wichtigen Informationen zum Zustand der Schnittstellen zu

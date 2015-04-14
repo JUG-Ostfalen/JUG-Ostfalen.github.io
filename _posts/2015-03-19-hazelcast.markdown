@@ -22,7 +22,7 @@ Er liebt Software an ihre Grenzen zu bringen und tiefe Einblicke mit Profilern u
 Sein ständig wachsendes Interesse gegenüber neuen Ideen, Technologien oder Lösungsansätzen stachelt ihn immer wieder
 zu neuen Diskussionen an.
 
-![Christoph Engelbert](/assets/articles/hazelcast-devoxx_pic_800x800.jpg)
+![Christoph Engelbert](/assets/articles/2015/hazelcast-devoxx_pic_800x800.jpg)
 
 Zur Anmeldung:
 [Xing](https://www.xing.com/events/hazelcast-interaktive-einfuhrung-memory-computing-1520930)

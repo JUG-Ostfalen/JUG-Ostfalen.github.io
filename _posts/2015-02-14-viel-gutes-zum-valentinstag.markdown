@@ -34,7 +34,7 @@ Brotsuppe für die JUG abgestimmt habe. Da sich bisher niemand beschwert hat, w�
 lasse ich mir bewusst immer etwa einen Tag Zeit, damit andere eine Chance haben sich zu Wort zu melden.
 
 Apropos Zeit lassen. Erst war Arno krank und dann kam ich einfach nicht dazu, aber jetzt könnt ihr sie endlich haben:
-Die [Folien zu seinem Vortrag über Concurrency](/assets/articles/concurrency.pdf).
+Die [Folien zu seinem Vortrag über Concurrency](/assets/articles/2015/concurrency.pdf).
 
 Da wir kurz vorm nächsten Vortrag sind, ist es an der Zeit Werbung für den übernächsten zu machen.
 [Hazelcast - Interaktive Einführung in In-Memory Computing](/event/2015/03/19/hazelcast.html). Diesmal geht es um
