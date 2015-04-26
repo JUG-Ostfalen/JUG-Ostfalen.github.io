@@ -7,9 +7,60 @@ speaker: "Anett Huebner; René Jahn"
 categories: event
 organizer: JUG
 author: jens
+excerpt: Diesmal gibt es Vorträge zu zwei Tools, die versprechen die Entwicklung von Standardanwendungen deutlich zu beschleunigen.
+ 
 ---
 
-Wir werden einen Doppelvortrag über zwei verschiedene RAD Tools haben. Details folgen ... 
+Diesmal gibt es Vorträge zu zwei Tools, die versprechen die Entwicklung von 
+Standardanwendungen deutlich zu beschleunigen.
+ 
+### Lirejarp
+
+<img src="/assets/articles/2015/huebner.png" class="speaker" />
+ Beim Erstellen von modernen Webanwendungen müssen immer wiederkehrende Aufgaben gelöst werden. 
+Eine dieser Aufgaben ist das Speichern und der Zugriff auf Daten in Datenbanken. 
+Der JEE-Technologiestack ermöglicht es heute sehr leicht Daten repräsentiert durch Java-Objekte in 
+Datenbanken abzulegen. Der nächste Schritt ist der Zugriff per Schnittstelle beispielsweise durch 
+RESTful-Webservices. Die nötigen APIs stehen spätestens seit Version fünf von JEE in jedem Container 
+zur Verfügung. Trotz alledem muss noch immer etliches an Code geschrieben werden bis die Strecke 
+zwischen REST-Schnittstelle bis zur Datenbank benutzt werden kann. Das schnelle Aufsetzen von 
+JEE-Anwendungen bleibt daher eine Herausforderung. Die hier vorgestellte Architektur stellt daher 
+einen Ansatz dar, um mit Hilfe von generischen Datentypen, Vererbung und abstrakten 
+Datenzugriffsobjekten (DAOs) schnell aus der Idee weniger Domain-Objekte ein lauffähiges Projekt zu 
+erstellen. Dieses Generic Domain Pattern wird für die Persistenzschicht, für die REST-Implementierung 
+und die Unit-Tests verwendet. Der hier vorgestellte Ansatz liegt als lauffähiges Beispiel in GitHub 
+und umfasst ein funktionsfähiges Backend und eine beispielhafte Implementierung eines Webfrontends 
+basierend auf AngularJS. Dabei wird ein grafisches Frontend vollständig durch die REST-Schnittstelle 
+vom Backend separiert. Genutzte Technologien:Generics, Arquillian, AngularJS, TomEE. 
+
+Anett Hübner entwickelt und entwirft seit acht Jahren Softwaresysteme. Dabei hat sie in vielen Branchen 
+(Telekommunikation, eCommerce, Automobilbau) individuelle Softwarelösungen realisiert. Sie kennt die 
+immer wiederkehrenden Aufgabenstellungen und Probleme in Softwareentwicklungsprojekten. Daher hat sie 
+sich die Optimierung des Entwurfsprozesses und auf Architekturtemplates für Java-Enterprise-Anwendungen 
+zum Thema gemacht.
+
+### JVx stellt sich vor. Zurück zur Effizienz!
+
+<img src="/assets/articles/2015/hoermann.jpg" class="speaker" />
+Es wird wieder wichtig, flexibel, schnell und kosteneffizient Software zu entwickeln. Dies wurde in 
+der Vergangenheit vernachlässigt und der Fokus lag auf Methoden und Architekturen, aber nicht auf 
+dem Endergebnis für Kunden und Nutzer.
+
+Dieser Talk zeigt wie Sie mit Java und dem Open Source Framework JVx eine Kundenanwendung, schnell und 
+effizient umsetzen können, ohne dabei Methoden und Architekturen zu vernachlässigen.
+
+Es werden typische Anforderungen an moderne (Web) Applikationen herangezogen, um zu zeigen, wie 
+diese in kurzer Zeit, painless umgesetzt werden können.
+
+Um die Effizienz zu unterstreichen, wird die entwickelte Applikation – ohne Code Änderung – als Desktop, 
+Web und native mobile App, Live, gezeigt.
+ 
+Roland Hörmann ist Gründer und CEO der SIB Visions GmbH sowie Lektor auf der FH Technikum Wien. 
+Er verfügt über langjährige Erfahrung in der Entwicklung von Enterprise Lösungen. Sein 
+Interessenschwerpunkt liegt auf effizienter Softwareentwicklung und Framework Entwicklung im Umfeld 
+von klassischen Business-Applikationen. Er ist regelmäßig Speaker auf Oracle User Group 
+Veranstaltungen (DOAG, AOUG), als auch bei Java User Groups Events, sowie bei der W-JAX. 
+
 
 Zur Anmeldung:
 
