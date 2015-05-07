@@ -31,7 +31,7 @@ erstellen. Dieses Generic Domain Pattern wird für die Persistenzschicht, für d
 und die Unit-Tests verwendet. Der hier vorgestellte Ansatz liegt als lauffähiges Beispiel in GitHub 
 und umfasst ein funktionsfähiges Backend und eine beispielhafte Implementierung eines Webfrontends 
 basierend auf AngularJS. Dabei wird ein grafisches Frontend vollständig durch die REST-Schnittstelle 
-vom Backend separiert. Genutzte Technologien:Generics, Arquillian, AngularJS, TomEE. 
+vom Backend separiert. Genutzte Technologien: Generics, Arquillian, AngularJS, TomEE. 
 
 Anett Hübner entwickelt und entwirft seit acht Jahren Softwaresysteme. Dabei hat sie in vielen Branchen 
 (Telekommunikation, eCommerce, Automobilbau) individuelle Softwarelösungen realisiert. Sie kennt die 
@@ -64,5 +64,5 @@ Veranstaltungen (DOAG, AOUG), als auch bei Java User Groups Events, sowie bei de
 
 Zur Anmeldung:
 
-[Xing](https://www.xing.com/events/...)
-[Eventbrite](https://www.eventbrite.de/e/...)
+[Xing](https://www.xing.com/events/tools-rapid-application-development-doppelvortrag-1555938)
+[Eventbrite](https://www.eventbrite.de/e/tools-fur-rapid-application-development-doppelvortrag-tickets-16891579168)
