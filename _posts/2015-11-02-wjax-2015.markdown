@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "W-JAX 2015"
+date:   2015-11-2
+location: München
+speaker: diverse
+categories: event
+organizer: sandsmedia
+author: jens
+---
+Im November ist wieder [W-JAX](https://jax.de/wjax2015/) und wir haben einen Rabattcode!
+
+<a href="https://jax.de/wjax2015/"><img src="/assets/articles/2015/wjax.png" class="speaker" /></a>
+
+Wenn ihr **javaostfalen** bei der Anmeldung angebt, bekommt ihr 15% Rabatt auf das Ticket. Viel Spass 
+damit.
+
+Und dies sagt der Veranstalter zu W-Jax, falls jemand noch nicht weiss, was einen erwartet:
+
+Die W-JAX bildet gemeinsam mit der JAX Europas führende Konferenz-Serie für Enterprise-Technologien, 
+agile Methoden und Software-Architekturen. Gemeinsam mit den begleitenden Business Technology Days 
+verleiht sie IT-Professionals aus führenden Unternehmen aller Branchen die entscheidenden Impulse 
+für digitale Wertschöpfung und Innovation – zwei Mal im Jahr.
+
+Mehr als 160 international renommierte Speaker geben in rund 180 Vorträgen ihr Erfahrungswissen an 
+die Teilnehmer weiter. Verständlich, praxisnah und erfolgsorientiert. Dabei thematisiert die W-JAX 
+eine große Bandbreite aktueller und zukunftsorientierter Technologien von Java über Scala, Android 
+und Web-Technologien bis hin agilen Entwicklungsmodellen und dem modernen, effizienten Betrieb von 
+IT-Systemen (DevOps).
+
+Der einzigartige Themenmix der Konferenzen verleiht Ihnen den entscheidenden Wissensvorsprung für 
+laufende und zukünftige IT-Projekte. Die professionelle Organisation, hohe technische Kompetenz 
+sowie das besondere Ambiente machen die W-JAX und JAX zu einem einzigartigen Erlebnis, bei dem auch 
+das Networking mit Kollegen und internationalen Experten nicht zu kurz kommt.
+
