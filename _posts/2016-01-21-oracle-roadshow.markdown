@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oracle Roadshow JAX-RS und Java Caching API
+title: Microservices Technologie-Enabler von Oracle: Jersey und Java Caching API
 date:   2016-01-21 18:00
 location: onsite
 speaker: Peter Doschkinow, Michael Bräuer 
