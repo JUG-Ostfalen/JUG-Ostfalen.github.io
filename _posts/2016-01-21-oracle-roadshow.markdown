@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Microservices Technologie-Enabler von Oracle: Jersey und Java Caching API
+title: "Microservices Technologie-Enabler von Oracle: Jersey und Java Caching API"
 date:   2016-01-21 18:00
 location: onsite
-speaker: Peter Doschkinow, Michael Bräuer 
+speaker: "Peter Doschkinow, Michael Bräuer" 
 categories: event
 organizer: JUG
 author: jens
