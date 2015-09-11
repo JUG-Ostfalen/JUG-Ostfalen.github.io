@@ -2,11 +2,16 @@
     <nav class="navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
                 <a href="{{ site.baseurl }}/">
                     <img class="icon" alt="{{ site.title }}" src="{{ site.baseurl }}/assets/main/logo.jpg" >
                 </a>
             </div>
-            <div class="collapse navbar-collapse">
+            <div class="collapse navbar-collapse" id="mainNavbar">
                 <ul class="nav navbar-nav navbar-right">
                     {% assign pages = site.pages | sort:"order"  %}
                     {% for page in pages %}
@@ -22,4 +27,3 @@
     </nav>
 
 </header>
-
