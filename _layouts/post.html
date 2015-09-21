@@ -35,7 +35,7 @@ layout: default
     <article class="post-content">
         {% if page.categories contains "event" %}
             {% assign post = page %}
-            {% include event-metadata.html %}
+            {% include event-metadata-inline.html %}
         {% endif %}
         {{ content }}
     </article>

@@ -1,0 +1,17 @@
+<div class="alert alert-info event-meta">
+    <div >
+        Am {{ post.date | date: "%d.%m.%Y" }} um {{ post.date | date: "%R" }} Uhr
+    </div>
+    <div >
+        {% if site.locations[post.location] %}
+        <a href="{{ site.locations[post.location].url }}">
+            {{ site.locations[post.location].name }} &middot;
+        </a><a href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
+        {{ site.locations[post.location].street }} &middot;
+        {{ site.locations[post.location].city }}
+        </a>
+        {% else %}
+        {{ post.location }}
+        {% endif %}
+    </div>
+</div>

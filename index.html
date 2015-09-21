@@ -6,7 +6,6 @@ layout: landing
 
     <div class="row">
         <div class="col-md-8">
-            <h2><a href="_pages/artikel.html">Artikel</h2>
             <ul class="post-list">
                 {% for post in site.categories.article limit:10 %}
                 <li>
@@ -19,9 +18,9 @@ layout: landing
                 </li>
                 {% endfor %}
             </ul>
+            <h4><a href="_pages/artikel.html">weitere Artikel</h4>
         </div>
         <div class="col-md-4">
-            <h2><a href="_pages/events.html">Events</a></h2>
             <ul class="post-list">
                 {% for post in site.categories.event reversed %}
                 {% if site.time < post.date %}
@@ -35,13 +34,11 @@ layout: landing
                     </h3>
 
                  {% include event-metadata.html %}
-                    <!--<div>-->
-                        <!--{{ post.excerpt }}-->
-                    <!--</div>-->
 
                 </li>
                 {% endif %}
                 {% endfor %}
+                <h4><a href="_pages/events.html" class="pull-right">alle Events</a></h4>
             </ul>
         </div>
 

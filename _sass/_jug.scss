@@ -11,17 +11,23 @@
 /*
 events
 */
-.event-meta{
+.event-meta {
   overflow: auto;
 }
 
-img.speaker{
+.post-list img.icon {
+  display: block;
+  max-height: 32px;
+  float: none;
+}
+
+img.speaker {
   float: left;
   width: 200px;
   margin: 10px;
 }
 
-img.speaker.right{
+img.speaker.right {
   float: right;
 }
 
@@ -31,6 +37,6 @@ img.speaker.right{
   height: 48px;
 }
 
-.navbar-brand, .navbar > .container-fluid .navbar-brand {
+#brand.navbar-brand {
   margin-left: 0;
 }
