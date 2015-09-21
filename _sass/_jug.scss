@@ -1,6 +1,9 @@
-@media only screen and (max-width: 480px) {
-  .desktop-image {
-    display: none;
-  }
+.navbar-image {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 48px;
+}
 
+.navbar-brand, .navbar > .container-fluid .navbar-brand {
+  margin-left: 0;
 }
