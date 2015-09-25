@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Javaland im Phantasialand Brühl"
+date:   2016-03-08 9:30
+location: Brühl
+speaker: "Diverse" 
+categories: event
+organizer: JUG
+author: jens
+---
+<img src="/assets/articles/2015/logo_javaland.gif" class="speaker" />
+Zum driten Mal öffnet das Javaland 2016 seine Tore! Wer noch nicht da war, sollte
+das ändern. Tagsüber jede Menge hervorragende Talks und Abends werden dann einige
+der Phantasialand Attraktionen geöffnet. 
+
+Ich persönlich werde mit zwei Kollegen dabei sein und freu mich schon riesig. Ich 
+hoffe ich werde dort den einen oder anderen von euch ebenfalls sehen.
+
+[Hier könnt ihr euch anmelden](https://www.javaland.eu/tickets-hotelzimmer/preise/) 
+und [das Programm ist auch da](http://dukecon.org/javaland/) 
+(ich verpasse schon im ersten Slot 3 Vorträge die ich gerne sehen würde). 
