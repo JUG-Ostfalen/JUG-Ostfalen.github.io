@@ -1,6 +1,42 @@
-@media only screen and (max-width: 480px) {
-  .desktop-image {
-    display: none;
-  }
+/*
+* pages
+*/
 
+.page-title {
+  font-size: 36px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+/*
+events
+*/
+.event-meta {
+  overflow: auto;
+}
+
+.post-list img.icon {
+  display: block;
+  max-height: 32px;
+  float: none;
+}
+
+img.speaker {
+  float: left;
+  width: 200px;
+  margin: 10px;
+}
+
+img.speaker.right {
+  float: right;
+}
+
+.navbar-image {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 48px;
+}
+
+#brand.navbar-brand {
+  margin-left: 0;
 }

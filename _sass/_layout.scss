@@ -221,31 +221,3 @@
         }
     }
 }
-
-/*
-* pages
-*/
-
-.page-title {
-  font-size: 36px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
-/*
-events
-*/
-.event-meta{
-    overflow: auto;
-    float: right
-}
-
-img.speaker{
-    float: left;
-    width: 200px;
-    margin: 10px;
-}
-
-img.speaker.right{
-    float: right;
-}
