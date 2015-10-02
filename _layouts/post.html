@@ -41,3 +41,23 @@ layout: default
     </article>
 
 </div>
+{% if page.categories contains "event" %}
+{% assign post = page %}
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "EducationEvent",
+  "name": "{{ post.title }}",
+  "startDate" : "{{ post.date | date_to_xmlschema }}"{% if site.locations[post.location] %},
+  "location" : {
+    "@type" : "Place",
+    "sameAs" : "{{ site.locations[post.location].url }}",
+    "name" : "{{ site.locations[post.location].name }}",
+    "address" : "{{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}"
+  }
+  {% endif %}
+}
+</script>
+
+{% endif %}
