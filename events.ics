@@ -1,0 +1,18 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:{{site.baseurl}}
+METHOD:PUBLISH
+{% for post in site.categories.event limit:10 %}{% if site.time < post.date %}{% if post.organizer == "JUG" %}BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d" }}@jug-ostfalen.de
+ORGANIZER;CN="JUG Ostfalen":MAILTO:info@jug-ostfalen.de
+LOCATION:{% if site.locations[post.location] %}{{ site.locations[post.location].name }}; {{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}{% else %}{{ post.location }}{% endif %}
+SUMMARY:{{ post.title }}
+CLASS:PUBLIC
+DTSTART:{{ post.date | date: "%Y%m%dT%H%M" }}00Z
+DTEND:{{ post.date   | date: "%Y%m%dT" }}2100Z
+DTSTAMP:{{ post.date | date: "%Y%m%dT%H%M" }}00Z
+END:VEVENT
+{% endif %}{% endif %}{% endfor %}END:VCALENDAR

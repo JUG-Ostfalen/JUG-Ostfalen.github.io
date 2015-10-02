@@ -5,7 +5,7 @@ date:   2016-03-08 9:30
 location: Brühl
 speaker: "Diverse" 
 categories: event
-organizer: JUG
+organizer: ijug
 author: jens
 ---
 <img src="/assets/articles/2015/logo_javaland.gif" class="speaker" />

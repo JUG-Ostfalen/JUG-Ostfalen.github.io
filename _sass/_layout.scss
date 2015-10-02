@@ -182,6 +182,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    float: left;
 }
 
 .post-title {
@@ -221,3 +222,15 @@
         }
     }
 }
+
+
+// make this class go right from the header
+.right-of-header {
+    float: right;
+}
+
+// make everything else go under the header
+.post-header+* :not(.right-of-header):first-of-type {
+    clear: both;
+}
+
