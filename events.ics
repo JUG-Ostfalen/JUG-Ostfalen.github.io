@@ -12,7 +12,7 @@ LOCATION:{% if site.locations[post.location] %}{{ site.locations[post.location].
 SUMMARY:{{ post.title }}
 CLASS:PUBLIC
 DTSTART:{{ post.date | date: "%Y%m%dT%H%M" }}00Z
-DTEND:{{ post.date   | date: "%Y%m%dT" }}2100Z
+DTEND:{{ post.date   | date: "%Y%m%dT" }}210000Z
 DTSTAMP:{{ post.date | date: "%Y%m%dT%H%M" }}00Z
 END:VEVENT
 {% endif %}{% endif %}{% endfor %}END:VCALENDAR
