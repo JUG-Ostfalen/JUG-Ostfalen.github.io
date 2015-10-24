@@ -8,9 +8,8 @@
                 <span class="icon-bar"></span>
               </button>
               <a href="{{ site.baseurl }}/">
-                <img class="icon navbar-image" alt="{{ site.title }}" src="{{ site.baseurl }}/assets/main/Brunswick_Coat_of_Arms.png" />
-                <span id="brand" class="navbar-brand">JUG-Ostfalen</span>
-                <img class="icon navbar-image" alt="{{ site.title }}" src="{{ site.baseurl }}/assets/main/Wappen_Wolfsburg.svg" />
+                <img class="navbar-image" alt="{{ site.title }}" src="{{ site.baseurl }}/assets/main/jug_final_small.png" />
+                <span id="brand" class="navbar-brand">JUG Ostfalen</span>
               </a>
             </div>
             <div class="collapse navbar-collapse" id="mainNavbar">
@@ -19,7 +18,7 @@
                     {% for page in pages %}
                     {% if page.title %}
                     <li>
-                        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                        <a href="{{ page.url | prepend: site.baseurl }}" class="navbar-menu-item">{{ page.title }}</a>
                     </li>
                     {% endif %}
                     {% endfor %}

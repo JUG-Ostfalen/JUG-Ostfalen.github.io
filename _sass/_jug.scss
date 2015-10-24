@@ -32,11 +32,15 @@ img.speaker.right {
 }
 
 .navbar-image {
-  padding-top: 10px;
-  padding-bottom: 10px;
   height: 48px;
+  float: left;
 }
 
 #brand.navbar-brand {
   margin-left: 0;
+  font-size: x-large;
+}
+
+.navbar-menu-item {
+  font-size: large;
 }
