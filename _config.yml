@@ -17,7 +17,7 @@ orgs:
     image: logo.png
   entwicklerstammtisch:
     description: Der Wolfsburger Entwicklerstammtisch
-    image: entwicklerstammtisch.jpg
+    image: hacktalk.png
   sandsmedia:
     description: "S&S Media, Macher der JAX und sponsoren uns regelmässig mit Java Magazinen"
     image: sands_logo.png
@@ -47,7 +47,11 @@ locations:
     street: "Alessandro-Volta-Straße 11"
     city: "38440 Wolfsburg"
     url: "https://www.t-systems-onsite.de/"
-
+  schiller40:
+    name: "Schiller40 Coworkingspace"
+    street: "Schillerstr. 40"
+    city: "38440 Wolfsburg"
+    url: "http://www.wolfsburg.de/kultur/kulturwerk/schiller40-coworking-space"
 #Autoren
 authors:
   uwe:
@@ -58,6 +62,10 @@ authors:
     display_name: "Jens Schauder"
     blurb: "Organisator der JUG seit Herbst 2014"
     url: http://blog.schauderhaft.de/uber-jens-schauder/
+  steven-schwenke:
+    display_name: "Steven Schwenke"
+    blurb: "Organisator des HackTalks Wolfsburg und des Entwicklerstammtisches"
+    url: http://stevenschwenke.de/
 
 # no code highlighting for now, since it does not work on windows. see for example http://stackoverflow.com/questions/17364028/jekyll-on-windows-pygments-not-working/17404260#17404260 
 highlighter: false
