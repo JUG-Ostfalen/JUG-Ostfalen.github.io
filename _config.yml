@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "include:"
 include: ['_pages']
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jug-ostfalen.de" # the base hostname & protocol for your site
-twitter_username: jensschauder
+twitter_username: JUG_Ostfalen
 github_username:  JUG-Ostfalen
 
 # organizations
