@@ -2,15 +2,15 @@
 layout: post
 title: "HackTalk November 2015"
 date:   2015-12-03 17:00
-location: Wolfsburg, Schiller40 Coworkingspace, Schillerstr. 40
+location: schiller40
 speaker: "Diverse" 
 categories: event
-organizer: Steven Schwenke
-author: Steven Schwenke
+organizer: entwicklerstammtisch
+author: steven-schwenke
 ---
-<img src="/assets/HackTalk_logo_small.png" class="speaker" />
+<img src="/assets/partners/hacktalk-gross.png" class="speaker" />
 Hinweis: Da es an diesem Tag den Weihnachtsdoppelvortrag der JUG gibt, werden wir pünktlich in Wolfsburg Schluss machen, sodass noch jeder nach Braunschweig wechseln kann.
 
 Der HackTalk ist eine monatliche After-Work Veranstaltung, in deren Zentrum ein gemütliches Miteinander UND technischer Austausch steht. Neben dem Besprechen aktueller Themen gibt es Lightning Talks zu allen möglichen sehr technischen bis gar nicht technischen Themen. Neuankömmlinge können hier Kontakt finden und alte Hasen können "Kriegsgeschichten" austauschen. Natürlich sind Entwickler aller Stilrichtungen willkommen. Es werden einige Kaltgetränke bereit gestellt, die ihr zum Einkaufspreis und per Kasse des Vertrauens bezahlen könnt. Wir werden gemeinsam entscheiden, welchen Pizzadienst wir dann konsultieren. Eine Liste der Themen vergangener Veranstaltungen gibt es [hier](http://hackcamp-wolfsburg.de/vergangeneVeranstaltungen).
 
-[Anmeldung über Xing](https://www.xing.com/events/hacktalk-wolfsburg-1607083) oder [über die HackTalk-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung) 
+**[Anmeldung über Xing](https://www.xing.com/events/hacktalk-wolfsburg-1607083) oder [über die HackTalk-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung)** 

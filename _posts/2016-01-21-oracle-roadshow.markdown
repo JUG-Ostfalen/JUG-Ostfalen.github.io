@@ -29,4 +29,6 @@ Caches in Microservices-Architekturen eingegangen.
 
 Zur Anmeldung:
 
-**Eine Anmeldung ist nocht nicht möglich**
+**[Xing](https://www.xing.com/events/microservices-technologie-enabler-jersey-java-caching-1633611)**
+
+**[Eventbrite](https://www.eventbrite.de/e/microservices-technologie-enabler-von-oracle-jersey-und-java-caching-api-tickets-19795793752)**

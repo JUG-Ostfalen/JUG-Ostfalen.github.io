@@ -32,3 +32,6 @@ Zur Anmeldung:
 **[Xing](https://www.xing.com/events/docker-revisited-docker-orchestrierung-java-entwickler-1614964)**
 
 **[Eventbrite](https://www.eventbrite.de/e/docker-revisited-docker-orchestrierung-fur-java-entwickler-tickets-19235472817)**
+
+
+**[Zum Download der Folien](/assets/articles/2015/docker-orchestrierung.pdf)**
