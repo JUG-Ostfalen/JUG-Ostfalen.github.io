@@ -8,23 +8,7 @@ layout: default
         <h1 class="post-title">{{ page.title }}</h1>
 
         <p class="post-meta">
-            {{ page.date | date: "%-d." }}
-            {% assign m = page.date | date: "%-m" %}
-            {% case m %}
-            {% when '1' %}Januar
-            {% when '2' %}Februar
-            {% when '3' %}M&auml;rz
-            {% when '4' %}April
-            {% when '5' %}Mai
-            {% when '6' %}Juni
-            {% when '7' %}Juli
-            {% when '8' %}August
-            {% when '9' %}September
-            {% when '10' %}Oktober
-            {% when '11' %}November
-            {% when '12' %}Dezember
-            {% endcase %}
-            {{ page.date | date: " %Y" }}
+            {% include date_ger.html date=page.date %}
             {% if page.author %} •
             {% assign author = site.authors[page.author] %}
             <a data-toggle="tooltip" data-placement="top" title="{{ author.blurb }}"
