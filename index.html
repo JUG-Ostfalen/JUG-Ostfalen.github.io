@@ -4,7 +4,7 @@ layout: landing
 
 <div class="container-fluid">
 
-    <div class="row">
+    <div class="row overview">
         <div class="col-md-8">
             <ul class="post-list">
                 {% for post in site.categories.article limit:10 %}
@@ -12,6 +12,7 @@ layout: landing
                     <h3>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h3>
+                    <h5>{% include date_ger.html date=post.date %}</h5>
                     <div>
                         {{ post.excerpt }}
                     </div>
