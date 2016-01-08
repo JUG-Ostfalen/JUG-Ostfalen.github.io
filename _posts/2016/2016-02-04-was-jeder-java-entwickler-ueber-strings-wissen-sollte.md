@@ -28,6 +28,6 @@ Speaker auf nationalen und internationalen Konferenzen.
 
 Zur Anmeldung:
 
-**[Xing](https://www.xing.com/events/)**
+**[Xing](https://www.xing.com/events/java-entwickler-strings-wissen-1637988)**
 
-**[Eventbrite](https://www.eventbrite.de/e/)**
+**[Eventbrite](https://www.eventbrite.de/e/was-jeder-java-entwickler-uber-strings-wissen-sollte-tickets-20595954053)**
