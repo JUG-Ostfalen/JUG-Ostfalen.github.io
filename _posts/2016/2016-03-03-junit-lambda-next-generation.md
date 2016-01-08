@@ -50,6 +50,6 @@ In seiner Freizeit arbeitet er an [Degraph](http://schauder.github.io/degraph) e
 
 Zur Anmeldung:
 
-# **[Xing](https://www.xing.com/events/)**
+**[Xing](https://www.xing.com/events/junit-lambda-the-next-generation-1637990)**
 
-# **[Eventbrite](https://www.eventbrite.de/e/)**
+**[Eventbrite](https://www.eventbrite.de/e/junit-lambda-the-next-generation-tickets-20596583937)**
