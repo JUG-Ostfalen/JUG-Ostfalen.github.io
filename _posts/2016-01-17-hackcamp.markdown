@@ -1,0 +1,29 @@
+---
+layout: post
+title: "5. HackCamp Wolfsburg"
+date:   2016-01-17 09:00
+location: neosIT
+speaker: "Diverse" 
+categories: event
+organizer: hackcamp
+author: steven-schwenke
+---
+<img src="/assets/partners/hackcamp-gross.png" class="speaker" />
+
+Das Hackcamp ist eine eintägige Veranstaltung, auf der technisch-orientierte Menschen sich treffen und sich gegenseitig Dinge beibringen. Nach einer kurzen Vorstellung der Teilnehmer stellen einige Teilnehmer Themen vor, die sie den anderen gern zeigen möchten. Über diese Themen wird abgestimmt und gemeinsam der Zeitplan für den Tag festgelegt. Anschließend lernen wir gemeinsam und "Hands on", also mit sehr hohem praktischen Anteil.
+
+In diesem HackCamp werden wir die Hälfte der Zeit ein Coderetreat durchführen, Details siehe [hier] (http://coderetreat.org/about).
+
+Inhaltliche und organisatorische Details siehe [hackcamp-wolfsburg.de] (http://hackcamp-wolfsburg.de) - bisher gibt es folgende Themenvorschläge:
+
+- EmotionML (Gerhard)
+- Web 3.0 / Semantic Web (Gerhard)
+- Java 8 (Steven. Kann von "für Einsteiger" bis "fortgeschritten" skaliert werden)
+- JavaFX (Steven. Kann von "für Einsteiger" bis "fortgeschritten" skaliert werden)
+- Git mit IntelliJ IDEA (Steven. Einsteiger-Niveau sowohl in Git, als auch IDEA)
+- Rancher (Oberfläche Docker)
+- ( Gradle (Jens) )
+- AngularJS (Schakko)
+
+
+**[Anmeldung über Xing](https://www.xing.com/events/5-hackcamp-wolfsburg-1639502) oder [über die HackCamp-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung)** 
