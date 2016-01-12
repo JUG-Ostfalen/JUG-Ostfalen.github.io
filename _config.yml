@@ -18,6 +18,9 @@ orgs:
   entwicklerstammtisch:
     description: Der Wolfsburger Entwicklerstammtisch
     image: hacktalk.png
+  hackcamp:
+    description: Das Barcamp-ähnliche Hacking-Event in Wolfsburg
+    image: hackcamp-gross.png
   sandsmedia:
     description: "S&S Media, Macher der JAX und sponsoren uns regelmässig mit Java Magazinen"
     image: sands_logo.png
@@ -52,6 +55,11 @@ locations:
     street: "Schillerstr. 40"
     city: "38440 Wolfsburg"
     url: "http://www.wolfsburg.de/kultur/kulturwerk/schiller40-coworking-space"
+  neosIT:
+    name: "NeosIT GmbH"
+    street: "Schachtweg 1"
+    city: "38440 Wolfsburg"
+    url: "https://neos-it.de/"
 #Autoren
 authors:
   uwe:
