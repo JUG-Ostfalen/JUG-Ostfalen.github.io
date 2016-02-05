@@ -75,8 +75,7 @@ authors:
     blurb: "Organisator des HackTalks Wolfsburg und des Entwicklerstammtisches"
     url: http://stevenschwenke.de/
 
-# no code highlighting for now, since it does not work on windows. see for example http://stackoverflow.com/questions/17364028/jekyll-on-windows-pygments-not-working/17404260#17404260 
-highlighter: false
-
 # Build settings
 markdown: kramdown
+future: true
+
