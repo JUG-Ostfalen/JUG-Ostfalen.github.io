@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software Architecture Summit 2016"
-date:   2016-03-08 9:00
+date:   2016-03-16 9:00
 location: München
 speaker: "Diverse"
 categories: event
