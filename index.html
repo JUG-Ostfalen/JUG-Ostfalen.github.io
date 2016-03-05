@@ -14,7 +14,10 @@ layout: landing
                     </h3>
                     <h5>{% include date_ger.html date=post.date %}</h5>
                     <div>
-                        {{ post.excerpt }}
+                        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+                        {% if post.excerpt != post.content %}
+                        <a href="{{ post.url | prepend: site.baseurl }}">(weiterlesen...)</a>
+                        {% endif %}
                     </div>
                 </li>
                 {% endfor %}
