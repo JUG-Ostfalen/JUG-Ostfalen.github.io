@@ -74,8 +74,10 @@ authors:
     display_name: "Steven Schwenke"
     blurb: "Organisator des HackTalks Wolfsburg und des Entwicklerstammtisches"
     url: http://stevenschwenke.de/
+  gerrit:
+    display_name: "Gerrit Meier"
+    blurb: "Irgendwie mit im Boot der JUG-Ostfalen"
 
 # Build settings
 markdown: kramdown
 future: true
-
