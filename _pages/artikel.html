@@ -9,8 +9,12 @@ order: 2
         <h3>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
-        <div>{{ post.excerpt }}</div>
+        <div>
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+          {% if post.excerpt != post.content %}
+          <a href="{{ post.url | prepend: site.baseurl }}">(weiterlesen...)</a>
+          {% endif %}
+        </div>
     </li>
     {% endfor %}
 </ul>
-

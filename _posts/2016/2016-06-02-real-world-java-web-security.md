@@ -3,13 +3,12 @@ layout: post
 title: "Real World Java Web Security"
 date:   2016-06-02 19:00
 location: lineas
-speaker: "Dominik Schadow" 
+speaker: "Dominik Schadow"
 categories: event
 organizer: JUG
 author: jens
 ---
 <img src="/assets/articles/2016/dominik-schadow.jpg" class="speaker" />
-
 In einer perfekten Welt sind alle Java Webanwendungen sicher. Entwickler
 haben ausreichend Zeit, sich neben der Entwicklung neuer Features
 Gedanken über die Sicherheit der Webanwendung zu machen. Die Plattform
@@ -29,7 +28,7 @@ Punkte, die Entwickler möglichst problemlos in ihre tägliche
 Entwicklungsarbeit einfließen lassen können und so ihren Teil zur
 Entwicklung einer sicherer Webanwendung beitragen können.
 
-Dominik Schadow ([@dschadow](https://twitter.com/dschadow), [Blog](http://www.dominikschadow.de)) 
+Dominik Schadow ([@dschadow](https://twitter.com/dschadow), [Blog](http://www.dominikschadow.de))
 besitzt über 10 Jahre Erfahrung in der Java-Entwicklung
 und -Beratung und arbeitet als Senior Consultant beim
 [IT-Beratungsunternehmen bridgingIT](www.bridging-it.de). Er ist spezialisiert auf die
