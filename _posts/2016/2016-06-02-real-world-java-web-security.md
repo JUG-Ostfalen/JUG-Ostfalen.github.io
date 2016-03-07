@@ -10,7 +10,7 @@ author: jens
 ---
 <img src="/assets/articles/2016/dominik-schadow.jpg" class="speaker" />
 In einer perfekten Welt sind alle Java Webanwendungen sicher. Entwickler
-haben ausreichend Zeit, sich neben der Entwicklung neuer Features
+haben ausreichend Zeit, sich neben der Entwicklung neuer Features 
 Gedanken über die Sicherheit der Webanwendung zu machen. Die Plattform
 und die eingesetzten Frameworks unterstützen bei dieser kritischen
 Mission, am Ende entsteht völlig automatisch eine vollkommen sichere
