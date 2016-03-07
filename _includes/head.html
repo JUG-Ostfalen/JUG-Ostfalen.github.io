@@ -3,11 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width initial-scale=1">
 
+{% if page.twitter_description && page.twitter_title %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@jug_ostfalen">
-  <meta name="twitter:title" content="JUG Ostfalen">
-  <meta name="twitter:description" content="Java User Group für die Region Braunschweig / Wolfsburg.">
-  <meta name="twitter:image:src" content="http://www.jug-ostfalen.de/assets/main/jug_final_small.png">
+  <meta name="twitter:title" content="{{ page.twitter_title }}">
+  <meta name="twitter:description" content="{{ page.twitter_description }}">
+  <meta name="twitter:image:src" content="{% if page.twitter_image %}{{page.twitter_image}}{% else %}{{twitter_image}}{% endif %}">
+{% endif %}
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
