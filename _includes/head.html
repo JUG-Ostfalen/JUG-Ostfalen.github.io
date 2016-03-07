@@ -6,6 +6,7 @@
 {% if page.twitter_description && page.twitter_title %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@jug_ostfalen">
+  <meta property="og:type" content="website">
   <meta name="og:title" content="{{ page.twitter_title }}">
   <meta name="og:description" content="{{ page.twitter_description }}">
   <meta name="og:image" content="{% if page.twitter_image %}{{page.twitter_image}}{% else %}{{twitter_image}}{% endif %}">
