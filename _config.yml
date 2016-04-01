@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jug-ostfalen.de" # the base hostname & protocol for your site
 twitter_username: JUG_Ostfalen
 github_username:  JUG-Ostfalen
+twitter_image: http://www.jug-ostfalen.de/assets/main/jug_twitter.png
 
 # organizations
 orgs:
@@ -74,8 +75,10 @@ authors:
     display_name: "Steven Schwenke"
     blurb: "Organisator des HackTalks Wolfsburg und des Entwicklerstammtisches"
     url: http://stevenschwenke.de/
+  gerrit:
+    display_name: "Gerrit Meier"
+    blurb: "Irgendwie mit im Boot der JUG-Ostfalen"
 
 # Build settings
 markdown: kramdown
 future: true
-
