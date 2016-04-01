@@ -44,3 +44,5 @@ Fachartikel. In seiner Freizeit leitet er das Open-Source-Projekt
 ihre eigenen Krypto-Plug-ins entwickeln können.
 
 **Die Anmeldung ist noch nicht möglich**
+
+Die Einladung erfolgt im Namen des iJUG
