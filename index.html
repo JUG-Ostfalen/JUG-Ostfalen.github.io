@@ -38,7 +38,25 @@ layout: landing
                     </h3>
 
                  {% include event-metadata.html %}
+                 {% if post.categories contains "event" and post.organizer contains "JUG" %}
 
+                 <script type="application/ld+json">
+                 {
+                   "@context": "http://schema.org",
+                   "@type": "EducationEvent",
+                   "name": "{{ post.title }}",
+                   "startDate" : "{{ post.date | date_to_xmlschema }}"{% if site.locations[post.location] %},
+                   "location" : {
+                     "@type" : "Place",
+                     "sameAs" : "{{ site.locations[post.location].url }}",
+                     "name" : "{{ site.locations[post.location].name }}",
+                     "address" : "{{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}"
+                   }
+                   {% endif %}
+                 }
+                 </script>
+
+                 {% endif %}
                 </li>
                 {% endif %}
                 {% endfor %}
