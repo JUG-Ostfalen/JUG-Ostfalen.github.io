@@ -25,7 +25,7 @@ layout: default
     </article>
 
 </div>
-{% if page.categories contains "event" %}
+{% if post.categories contains "event" and post.organizer contains "JUG" %}
 {% assign post = page %}
 
 <script type="application/ld+json">
