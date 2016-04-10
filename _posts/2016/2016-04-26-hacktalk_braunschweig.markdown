@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HackTalk Braunschweig März 2016"
+title: "HackTalk Braunschweig April 2016"
 date:   2016-04-26 17:00
 location: triology
 speaker: "Diverse" 
