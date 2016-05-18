@@ -45,7 +45,7 @@ ihre eigenen Krypto-Plug-ins entwickeln können.
 
 **Zur Anmeldung:**
 
-[Eventbrite](https://www.eventbrite.de/publish?crumb=f3e991a7640140&eid=25533139307)
+[Eventbrite](https://www.eventbrite.de/e/real-world-java-web-security-tickets-25533139307)
 
 [Xing](https://www.xing.com/events/real-world-java-web-security-1689062)
 
