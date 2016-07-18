@@ -43,6 +43,11 @@ Fachartikel. In seiner Freizeit leitet er das Open-Source-Projekt
 [JCrypTool](https://github.com/jcryptool), mit dem Anwender für die Kryptografie begeistert werden und
 ihre eigenen Krypto-Plug-ins entwickeln können.
 
-**Die Anmeldung ist noch nicht möglich**
+**Zur Anmeldung:**
+
+[Eventbrite](https://www.eventbrite.de/e/real-world-java-web-security-tickets-25533139307)
+
+[Xing](https://www.xing.com/events/real-world-java-web-security-1689062)
+
 
 Die Einladung erfolgt im Namen des iJUG
