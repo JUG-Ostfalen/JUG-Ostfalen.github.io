@@ -28,6 +28,9 @@ orgs:
   ijug:
     description: "Die iJUG ist ein Verbund der deutschsprachigen JUGs, in der auch die JUG Ostfalen Mitglied ist"
     image: ijug-logo.png
+  jug-und-net:
+    description: "Die JUG Ostfalen in Kooperation mit der .NET User Group Braunschweig"
+    image: jug-net.png
 
 #Veranstaltungsorte
 locations:
