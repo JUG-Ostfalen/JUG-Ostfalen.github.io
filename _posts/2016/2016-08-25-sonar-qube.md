@@ -34,4 +34,8 @@ Motoradfahrer unter anderem ein Projekt voran, bei dem Daten wie Navigationsinfo
 Smartphone an einen Bordcomputer des Zweirades übertragen werden. Der nächste 
 Entwicklungsschritt soll die Kommunikation zwischen mehreren Fahrern sein.
 
-**Die Anmeldung ist noch nicht möglich**
+**Anmeldung**
+
+[Eventbrite](https://www.eventbrite.de/e/codequalitatskontrolle-mit-sonarqube-tickets-26739482512)
+
+[Xing](https://www.xing.com/events/codequalitatskontrolle-sonarqube-1711270)
