@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auf die Plätze, fertig, Crash – „Definition of Done“ und QS in agilen Szenarien"
-date:   2016-08-25 18:30
+date:   2016-08-23 18:30
 location: ckc
 speaker: "Adriana Ardelean" 
 categories: event
