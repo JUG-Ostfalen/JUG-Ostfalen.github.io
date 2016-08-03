@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HackTalk Wolfsburg August 2016"
+title: "HackTalk Wolfsburg September 2016"
 date:   2016-09-06 17:00
 location: schiller40
 speaker: "Diverse"
