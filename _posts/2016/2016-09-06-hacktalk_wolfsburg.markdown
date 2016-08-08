@@ -19,4 +19,5 @@ Es werden einige Kaltgetränke bereit gestellt, die ihr zum Einkaufspreis und
 per Kasse des Vertrauens bezahlen könnt. Eine Liste der Themen vergangener Veranstaltungen
 gibt es [hier](http://hackcamp-wolfsburg.de/vergangeneVeranstaltungen).
 
-**Anmeldung über Xing (kommt noch) oder [über die HackTalk-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung)**
+**[Anmeldung über Xing](https://www.xing.com/events/hacktalk-wolfsburg-1715186) oder [über die HackTalk-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung)**
+
