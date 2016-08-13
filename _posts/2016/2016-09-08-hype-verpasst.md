@@ -2,7 +2,7 @@
 layout: post
 title: "Hype Verpasst? Java 8 und JavaFX"
 date:   2016-09-08 19:00
-location: CKC
+location: ckc
 speaker: "Steven Schwenke" 
 categories: event
 organizer: JUG
@@ -21,4 +21,12 @@ Es geht unter anderem um
 * Wie binde ich DataModels an meine Komponenten an?
 * Wie helfen mir Transitions und Timelines, coole Effekte zu bauen?
 
-**Die Anmeldung ist noch nicht möglich**
+**Steven Schwenke** ist Software Craftsman und liebt seinen Beruf. Deshalb organisiert er auch außerhalb der alltäglichen 
+(Java-)Entwicklungsarbeit Veranstaltungen und hält Vorträge. Er teilt seine Erfahrung gern mit anderen und freut sich 
+auf spannende Gespräche.
+
+**Anmeldung**
+
+[Eventbrite](https://www.eventbrite.de/e/hype-verpasst-java-8-und-javafx-tickets-27105165279)
+
+[Xing](https://www.xing.com/events/hype-verpasst-java-8-javafx-1717329)
