@@ -10,7 +10,7 @@ author: gerrit
 In der letzen Woche kamen wir in den Genuss von sogar gleich zwei Vorträgen.
  Am Dienstag, den 23.08. haben wir im Namen der .NET-Usergroup Braunschweig mit eingeladen und einen Vortrag über die Definition of Done hören können.
  Dabei durften sich alle interaktiv daran beteiligen, eine DoD nach ihren Vorstellungen zu definieren.
- Am Ende der Tages haben wir beschlossen, dass die JUG und die .NET-UG auch zukünftig versuchen werden,
+ Am Ende des Tages haben wir beschlossen, dass die JUG und die .NET-UG auch zukünftig versuchen werden,
   bei interessanten evtl. technologisch unabhängigen Themen, öfters gemeinsame Veranstaltungen zu organisieren.
   
 
