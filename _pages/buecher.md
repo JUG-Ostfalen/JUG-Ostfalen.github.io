@@ -16,7 +16,7 @@ Java
 * **"Hardcore Java"** (03/2004) - Robert Simmons, O'Reilly, ISBN: 978-0596005689
 * **"Thinking in Java"** (02/2006) - Bruce Eckel, Prentice Hall International,ISBN: 978-0131872486
 
-JEE
+JavaEE
 ---
 
 * **"Beginning Java EE6 Plattform with GlassFish 3"** (08/2010) - Antonio Goncalves, apress , ISBN: 978-1430228899
@@ -24,6 +24,7 @@ JEE
 * **"Core JavaServer Faces"** (05/2010) - David Geary, Cay S. Horstmann, Prentice Hall, ISBN: 978-0-13-701289-3
 * **"Pro JPA2"** (11/2009) - Mike Keith, Merrick Schincariol, APress, ISBN 978-1-4302-1956-9
 * **"Real World Java EE Patterns - Rethinking best practices"** (06/2009) - Adam Bien, press.adam-bien.com, ISBN 978-0-557-07832-5
+* ["Java EE 7 Platform"](http://www.oracle.com/technetwork/java/javaee/documentation/tutorials-137605.html) *FREE*
 * ["The Java EE 6 Tutorial, Volume I"](http://java.sun.com/javaee/6/docs/tutorial/doc/) *FREE*
 
 Groovy
