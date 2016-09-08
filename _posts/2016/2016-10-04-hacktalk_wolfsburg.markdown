@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "HackTalk Wolfsburg Oktober 2016"
-date:   2016-10-04 17:00
-location: schiller40
+date:   2016-10-18 17:00
+location: NeosIT
 speaker: "Diverse"
 categories: event
 organizer: entwicklerstammtisch
@@ -19,5 +19,5 @@ Es werden einige Kaltgetränke bereit gestellt, die ihr zum Einkaufspreis und
 per Kasse des Vertrauens bezahlen könnt. Eine Liste der Themen vergangener Veranstaltungen
 gibt es [hier](http://hackcamp-wolfsburg.de/vergangeneVeranstaltungen).
 
-**[Anmeldung über Xing](folgt später) oder [über die HackTalk-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung)**
+**[Anmeldung über Xing](https://www.xing.com/events/hacktalk-wolfsburg-1725109) oder [über die HackTalk-Seite per Mail](http://hackcamp-wolfsburg.de/kontaktUndAnmeldung)**
 
