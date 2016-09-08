@@ -2,7 +2,7 @@
 layout: post
 title: "HackTalk Wolfsburg Oktober 2016"
 date:   2016-10-18 17:00
-location: NeosIT
+location: neosIT
 speaker: "Diverse"
 categories: event
 organizer: entwicklerstammtisch
