@@ -3,6 +3,7 @@ layout: post
 title: "Virtual Reality programmieren auf Android, iPhone und Hololens mit Hilfe des Unity-Frameworks"
 location: lineas
 speaker: "Thomas Michael" 
+date:   2016-11-03 19:00
 categories: event
 organizer: jug-und-net
 author: jens
