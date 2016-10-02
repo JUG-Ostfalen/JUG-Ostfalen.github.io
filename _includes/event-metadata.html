@@ -24,6 +24,22 @@
           {{ site.locations[post.location].street }}<br>
           {{ site.locations[post.location].city }}<br>
           </a>
+        {% elsif post.location.name %}
+          {% if post.location.url %}
+          <a href="{{ post.location.url }}">
+            {{ post.location.name }}
+          </a>
+          {% else %}
+            {{ post.location.name }}
+          {% endif %}
+          <br>
+          {% if post.location.room %}
+            {{ post.location.room }}<br>
+          {% endif %}
+          <a href="https://www.google.de/maps/place/{{ post.location.street }}+{{ post.location.city }}">
+            {{ post.location.street }}<br>
+            {{ post.location.city }}<br>
+          </a>
         {% else %}
           {{ post.location }}
         {% endif %}

@@ -24,6 +24,22 @@
           {{ site.locations[post.location].street }}{{ location_divider }}
           {{ site.locations[post.location].city }}
           </a>
+          {% elsif post.location.name %}
+            {% if post.location.url %}
+              <a href="{{ post.location.url }}">
+                {{ post.location.name }}
+              </a>
+            {% else %}
+            {{ post.location.name }}
+          {% endif %}
+           {{ location_divider }}
+          {% if post.location.room %}
+            {{ post.location.room }}{{ location_divider }}
+          {% endif %}
+          <a href="https://www.google.de/maps/place/{{ post.location.street }}+{{ post.location.city }}">
+            {{ post.location.street }}{{ location_divider }}
+            {{ post.location.city }}
+          </a>
         {% else %}
           {{ post.location }}
         {% endif %}
