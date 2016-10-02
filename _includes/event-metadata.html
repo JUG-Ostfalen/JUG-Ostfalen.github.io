@@ -1,7 +1,11 @@
 <div class="alert alert-info event-meta">
-    <div >
-        Am {{ post.date | date: "%d.%m.%Y" }}<br>
+  {% capture hour_of_day %}{{post.date | date: "%H"}}{% endcapture %}
+    <div>
+        Am {{ post.date | date: "%d.%m.%Y" }}
+      {% if hour_of_day != "00" %}
+        <br>
         um {{ post.date | date: "%R" }} Uhr
+      {% endif %}
     </div>
     <div >
         {% if site.locations[post.location] %}
