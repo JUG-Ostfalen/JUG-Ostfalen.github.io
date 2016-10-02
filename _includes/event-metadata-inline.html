@@ -1,4 +1,5 @@
 <div class="alert alert-info event-meta">
+    {% capture location_divider %}&nbsp;&middot;&nbsp;{% endcapture %}
     {% capture hour_of_day %}{{post.date | date: "%H"}}{% endcapture %}
     <div >
         Am {{ post.date | date: "%d.%m.%Y" }}
@@ -8,14 +9,23 @@
     </div>
     <div >
         {% if site.locations[post.location] %}
-        <a href="{{ site.locations[post.location].url }}">
-            {{ site.locations[post.location].name }} &middot;
-        </a><a href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
-        {{ site.locations[post.location].street }} &middot;
-        {{ site.locations[post.location].city }}
-        </a>
+          {% if site.locations[post.location].url %}
+          <a href="{{ site.locations[post.location].url }}">
+              {{ site.locations[post.location].name }}
+          </a>
+          {% else %}
+            {{ site.locations[post.location].name }}
+          {% endif %}
+          {{ location_divider }}
+          {% if post.room %}
+            {{ post.room }}{{ location_divider }}
+          {% endif %}
+          <a href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
+          {{ site.locations[post.location].street }}{{ location_divider }}
+          {{ site.locations[post.location].city }}
+          </a>
         {% else %}
-        {{ post.location }}
+          {{ post.location }}
         {% endif %}
     </div>
     {% if post.speaker %}

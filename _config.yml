@@ -64,6 +64,10 @@ locations:
     street: "Schachtweg 1"
     city: "38440 Wolfsburg"
     url: "https://neos-it.de/"
+  mlc:
+    name: "Mobile Life Campus (MLC)"
+    street: "Hermann-Münch-Straße 1"
+    city: "38440 Wolfsburg"
 #Autoren
 authors:
   uwe:

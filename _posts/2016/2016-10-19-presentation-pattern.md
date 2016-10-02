@@ -2,7 +2,8 @@
 layout: post
 title: "Effizienz und Flexibilität mit dem Projektor Pattern"
 date:   2016-10-19 18:00
-location: Mobile Life Campus (MLC) Wolfsburg 3.OG Raum Amarok
+location: mlc
+room: 3.OG Raum Amarok
 speaker: "Dierk König" 
 categories: event
 organizer: JUG

@@ -9,14 +9,23 @@
     </div>
     <div >
         {% if site.locations[post.location] %}
-        <a href="{{ site.locations[post.location].url }}">
+          {% if site.locations[post.location].url %}
+            <a href="{{ site.locations[post.location].url }}">
+                {{ site.locations[post.location].name }}
+            </a>
+          {% else %}
             {{ site.locations[post.location].name }}
-        </a><br><a href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
-        {{ site.locations[post.location].street }}<br>
-        {{ site.locations[post.location].city }}<br>
-        </a>
+          {% endif %}
+          <br>
+          {% if post.room %}
+            {{ post.room }}<br>
+          {% endif %}
+          <a href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
+          {{ site.locations[post.location].street }}<br>
+          {{ site.locations[post.location].city }}<br>
+          </a>
         {% else %}
-        {{ post.location }}
+          {{ post.location }}
         {% endif %}
     </div>
     {% if post.speaker %}
