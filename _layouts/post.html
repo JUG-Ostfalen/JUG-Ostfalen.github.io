@@ -22,10 +22,15 @@ layout: default
             {% include event-metadata-inline.html %}
         {% endif %}
         {{ content }}
+        {% if page.categories contains "event" %}
+          {% if page.organizer contains "JUG" or page.organizer contains "jug-und-net" %}
+            <i>Eine Veranstaltung des iJUG e.V., organisiert durch die JUG Ostfalen.</i>
+          {% endif %}
+        {% endif %}
     </article>
 
 </div>
-{% if post.categories contains "event" and post.organizer contains "JUG" %}
+{% if page.categories contains "event" and page.organizer contains "JUG" %}
 {% assign post = page %}
 
 <script type="application/ld+json">

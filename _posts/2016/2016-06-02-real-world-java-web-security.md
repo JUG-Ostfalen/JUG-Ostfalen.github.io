@@ -10,7 +10,7 @@ author: jens
 ---
 <img src="/assets/articles/2016/dominik-schadow.jpg" class="speaker" />
 In einer perfekten Welt sind alle Java Webanwendungen sicher. Entwickler
-haben ausreichend Zeit, sich neben der Entwicklung neuer Features 
+haben ausreichend Zeit, sich neben der Entwicklung neuer Features
 Gedanken über die Sicherheit der Webanwendung zu machen. Die Plattform
 und die eingesetzten Frameworks unterstützen bei dieser kritischen
 Mission, am Ende entsteht völlig automatisch eine vollkommen sichere
@@ -48,6 +48,3 @@ ihre eigenen Krypto-Plug-ins entwickeln können.
 [Eventbrite](https://www.eventbrite.de/e/real-world-java-web-security-tickets-25533139307)
 
 [Xing](https://www.xing.com/events/real-world-java-web-security-1689062)
-
-
-Die Einladung erfolgt im Namen des iJUG

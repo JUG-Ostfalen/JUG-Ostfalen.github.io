@@ -68,6 +68,8 @@ Anschrift\: JUG Ostfalen, Schiebeweg 42, 38116 Braunschweig<br />
 Telefon\: 015117406924<br />
 E-Mail\: [jens@jug-ostfalen.de](mailto:jens@jug-ostfalen.de)<br />
 Vertreter und inhaltlich Verantwortlicher gem. § 55 RStV\: Jens Schauder<br />
+Hinweis\: Alle Veranstaltungen sind Veranstaltungen des iJUG e.V. und werden
+durch die JUG Ostfalen organisiert.<br />
 
 Haftungshinweis\: *Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.
 Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.*
