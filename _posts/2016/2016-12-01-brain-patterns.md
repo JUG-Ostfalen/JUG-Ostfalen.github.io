@@ -8,6 +8,7 @@ categories: event
 organizer: jug-und-net
 author: jens
 ---
+<img src="/assets/articles/2016/julia-dellnitz.jpg" class="speaker" />
 
 Unser Gehirn ist ein tolles Organ! Es bewältigt mühelos die vielfältigsten Aufgaben, 
 ohne dass wir im Normalfall viel davon mitbekommen. Es ermöglicht uns komplexe Fähigkeiten 
@@ -29,8 +30,8 @@ IT-Konferenzen zu Agilität und Vielfalt.
 
 **Anmeldung**
 
-[Eventbrite]()
+**[Eventbrite](https://www.eventbrite.de/e/brain-patterns-in-der-softwareentwicklung-tickets-29202927743)**
 
-[Xing]()
+**[Xing](https://www.xing.com/events/brain-patterns-softwareentwicklung-1746546)**
 
 *Diese Einladung erfolgt im Namen der iJUG*
