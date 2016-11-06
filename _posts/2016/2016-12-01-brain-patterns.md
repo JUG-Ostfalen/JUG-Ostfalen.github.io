@@ -33,5 +33,3 @@ IT-Konferenzen zu Agilität und Vielfalt.
 **[Eventbrite](https://www.eventbrite.de/e/brain-patterns-in-der-softwareentwicklung-tickets-29202927743)**
 
 **[Xing](https://www.xing.com/events/brain-patterns-softwareentwicklung-1746546)**
-
-*Diese Einladung erfolgt im Namen der iJUG*
