@@ -16,7 +16,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     {% assign pages = site.pages | sort:"order"  %}
                     {% for page in pages %}
-                    {% if page.title && page.order %}
+                    {% if page.title and page.order %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}" class="navbar-menu-item">{{ page.title }}</a>
                     </li>
