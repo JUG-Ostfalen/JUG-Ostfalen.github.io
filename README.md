@@ -1,3 +1,4 @@
+![jug logo](assets/main/jug_final_small.png)
 JUG-Ostfalen
 ============
 
