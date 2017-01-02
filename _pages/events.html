@@ -18,6 +18,9 @@ order: 1
 
         <div style="overflow: auto">
             {% include event-metadata-inline.html %}
+            {% if post.twitter_image %}
+            <img src="{{ post.twitter_image }}" class="speaker" />
+            {% endif %}
             {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
             {% if post.excerpt != post.content %}
             <a href="{{ post.url | prepend: site.baseurl }}">(weiterlesen...)</a>
