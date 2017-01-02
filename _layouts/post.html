@@ -21,6 +21,9 @@ layout: default
             {% assign post = page %}
             {% include event-metadata-inline.html %}
         {% endif %}
+        {% if page.image %}
+        <p><img src="{{ page.image }}" class="speaker" /></p>
+        {% endif %}
         {{ content }}
         {% if page.categories contains "event" %}
           {% if page.organizer contains "JUG" or page.organizer contains "jug-und-net" %}

@@ -20,10 +20,10 @@
   {% else %}
   <meta property="og:description" content="{{ site.description }}">
   {% endif %}
-  {% if page.twitter_image %}
-  <meta property="og:image" content="{{page.twitter_image}}">
+  {% if page.image %}
+  <meta property="og:image" content="{{page.image}}">
   {% else %}
-  <meta property="og:image" content="{{site.twitter_image}}">
+  <meta property="og:image" content="{{site.image}}">
   {% endif %}
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>

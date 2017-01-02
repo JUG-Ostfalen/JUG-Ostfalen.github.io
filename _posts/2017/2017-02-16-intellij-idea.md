@@ -7,8 +7,9 @@ date:   2017-02-16 18:00
 categories: event
 organizer: JUG
 author: jens
+image: "/assets/articles/2017/yann-cebron.png"
 ---
-<img src="/assets/articles/2017/yann-cebron.png" class="speaker" /> Die Leistungsfähigkeit moderner IDEs ist Segen und Fluch zugleich. Arbeite ich wirklich effizient damit? Kenne ich alle notwendigen Kniffe?
+Die Leistungsfähigkeit moderner IDEs ist Segen und Fluch zugleich. Arbeite ich wirklich effizient damit? Kenne ich alle notwendigen Kniffe?
 
 Im Rahmen einer Live-Demonstration möchte ich zumindest einige - auch unbekanntere - Features und Techniken aufzeigen, die einem in der täglichen Arbeit weiterhelfen. An einigen Stellen werden wir auch einen kurzen Blick hinter die Kulissen wagen...
 
