@@ -8,9 +8,7 @@ categories: event
 organizer: JUG
 author: jens
 ---
-<img src="/assets/articles/2017/carola-lilienthal.png" class="speaker" />
-
-Fast jedes Softwaresystem wird mit guten Vorsätzen aber unter schwierigen
+<img src="/assets/articles/2017/carola-lilienthal.png" class="speaker" /> Fast jedes Softwaresystem wird mit guten Vorsätzen aber unter schwierigen
 Bedingungen entwickelt. Die typische Schwierigkeiten, die im Lebens eines
 Softwaresystems auftreten, sind: Deadlines, die uns zwingen, Hacks zu programmieren;
 unterschiedliche Qualifikationen im Entwicklungsteam, die zu Code und verschiedener

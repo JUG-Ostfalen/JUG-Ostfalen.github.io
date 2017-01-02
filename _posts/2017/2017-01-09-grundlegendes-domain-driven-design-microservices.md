@@ -8,9 +8,7 @@ categories: event
 organizer: JUG
 author: jens
 ---
-<img src="/assets/articles/2017/oliver-gierke.png" class="speaker" />
-
-Der Trend zu kleineren Softwaresystemen stellt Entwickler beim Design dieser System vor neue Herausforderungen: in welche Teile separiere ich meine Domäne? Wie referenziere ich logisch gleiche Artefakte eines Gesamtsystems in den einzelnen Teilsystemen. Domain Driven Design definiert verschiedene Konzepte um Komplexität in Software beherrschbarer zu machen. Der Vortrag stellt die im Kontext von Microservices grundlegendsten und wichtigsten vor und erläutert, warum gerade diese es sind die in einer Landschaft kleiner Systeme so wichtig sind.
+<img src="/assets/articles/2017/oliver-gierke.png" class="speaker" /> Der Trend zu kleineren Softwaresystemen stellt Entwickler beim Design dieser System vor neue Herausforderungen: in welche Teile separiere ich meine Domäne? Wie referenziere ich logisch gleiche Artefakte eines Gesamtsystems in den einzelnen Teilsystemen. Domain Driven Design definiert verschiedene Konzepte um Komplexität in Software beherrschbarer zu machen. Der Vortrag stellt die im Kontext von Microservices grundlegendsten und wichtigsten vor und erläutert, warum gerade diese es sind die in einer Landschaft kleiner Systeme so wichtig sind.
 
 Der Vortrag zeigt auf, wie sehr Konzepte aus DDD gerade im Kontext von Microservices von höchster Wichtigkeit sind: Bounded Contexts, Aggregates, Context Maps. Er zeigt auf, welch enge Beziehung zwischen beiden Themen besteht und wie sie sich gegenseitig beeinflussen.
 
