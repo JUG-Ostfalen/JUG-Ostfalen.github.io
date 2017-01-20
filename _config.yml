@@ -31,6 +31,9 @@ orgs:
   jug-und-net:
     description: "Die JUG Ostfalen in Kooperation mit der .NET User Group Braunschweig"
     image: jug-net.png
+  doag:
+    description: "Deutscher Oracle Anwender Gruppe"
+    image: doag.jpg
 
 #Veranstaltungsorte
 locations:
