@@ -19,4 +19,4 @@ Beim DevCamp sind Eigenschaften gefragt, die auf Konferenzen seltener in Erschei
 
 Jens Schauder ist begeisterter Softwareentwickler und überzeugter „Clean Coder“. Als diesjähriger Keynote-Speaker zeigt er euch Möglichkeiten, wie ihr in der Praxis sauberen Code etablieren könnt und warum das so wichtig ist. Dabei beleuchtet er auch die Herausforderungen im Arbeitsalltag und Wege, um die Zusammenarbeit im Team zu verbessern.
 
-[https://devcamp.doag.org/de/home/]
+[https://devcamp.doag.org/de/home/](https://devcamp.doag.org/de/home/)
