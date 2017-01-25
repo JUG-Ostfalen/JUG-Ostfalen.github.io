@@ -21,7 +21,7 @@
   <meta property="og:description" content="{{ site.description }}">
   {% endif %}
   {% if page.image %}
-  <meta property="og:image" content="{{ page.image | prepend: site.baseurl }}">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl  | prepend: site.url }}">
   {% else %}
   <meta property="og:image" content="{{site.image}}">
   {% endif %}
