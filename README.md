@@ -8,3 +8,4 @@ Die Homepage der JUG-Ostfalen. http://www.jug-ostfalen.de/
 
 * [Deutsches Datumsformat](https://github.com/JUG-Ostfalen/JUG-Ostfalen.github.io/wiki/Tipps-zum-Editieren-von-Seiten#deutsches-datumsformat)
 * [Einmalige locations definieren](https://github.com/JUG-Ostfalen/JUG-Ostfalen.github.io/wiki/Tipps-zum-Editieren-von-Seiten#location-am-post-definieren)
+
