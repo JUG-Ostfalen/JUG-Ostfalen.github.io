@@ -1,6 +1,6 @@
 ---
 layout: hacktalk
-title: "HackTalk Braunschweig Januar 2017"
+title: "HackTalk Braunschweig Februar 2017"
 date:   2017-02-28 17:00
 location: triology
 categories: event
