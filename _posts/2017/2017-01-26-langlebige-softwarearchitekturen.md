@@ -36,5 +36,5 @@ ein Buch zum Thema „Langlebige Softwarearchitekturen“ veröffentlicht.
 
 **[Xing](https://www.xing.com/events/langlebige-softwarearchitekturen-1754275)**
 
-Es gibt eine [Video von dem Event](https://www.youtube.com/watch?v=j--FJmbb3P4) und auch [die Folien könnt ihr euch herunter laden](assets/articles/2017/langlebige-software-architekturen.pdf).
-)
+Es gibt eine [Video von dem Event](https://www.youtube.com/watch?v=j--FJmbb3P4) und auch [die Folien könnt ihr euch herunter laden](/assets/articles/2017/langlebige-software-architekturen.pdf).
+
