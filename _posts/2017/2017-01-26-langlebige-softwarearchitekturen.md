@@ -35,3 +35,6 @@ ein Buch zum Thema „Langlebige Softwarearchitekturen“ veröffentlicht.
 **[Eventbrite](https://www.eventbrite.de/e/langlebige-softwarearchitekturen-der-weg-aus-den-technischen-schulden-tickets-29242821065)**
 
 **[Xing](https://www.xing.com/events/langlebige-softwarearchitekturen-1754275)**
+
+Es gibt eine [Video von dem Event](https://www.youtube.com/watch?v=j--FJmbb3P4) und auch [die Folien könnt ihr euch herunter laden](Es gibt eine [Video von dem Event](https://www.youtube.com/watch?v=j--FJmbb3P4) und auch [die Folien könnt ihr euch herunter laden](/assets/articles/2017/langlebige-software-architekturen.pdf)
+)
