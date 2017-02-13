@@ -27,7 +27,7 @@ Für Anregungen, Hinweise, Unterstützung, Raum-  und Vortragsangebote könnt i
 ### Zu meiner Person
 <div>
   <img src="{{ '/assets/contacts/jens.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
-  <p>Ich bin Jens Schauder, begeisterter Softwareentwickler und arbeite für die T-Systems on Site Services GmbH.
+  <p>Ich bin Jens Schauder, begeisterter Softwareentwickler und arbeite für Pivotal im Spring Data Team.
   Ich habe die Organisation der JUG-Ostfalen von Uwe Sauerbrei übernommen, der sie gegründet und über 5 Jahre hinweg aufgebaut hat.</p>
 </div>
 
