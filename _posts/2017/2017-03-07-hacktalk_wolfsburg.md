@@ -1,6 +1,6 @@
 ---
 layout: hacktalk
-title: "HackTalk Wolfsburg Februar 2017"
+title: "HackTalk Wolfsburg März 2017"
 date:   2017-03-07 17:00
 location: neosIT
 categories: event
