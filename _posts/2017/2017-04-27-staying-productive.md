@@ -58,6 +58,6 @@ the power of a fully integrated Microservices development environment.
 
 **Anmeldung**
 
-**[Eventbrite]()**
+**[Eventbrite](https://jug-ostfalen-stay-productive.eventbrite.de)**
 
-**[Xing]()**
+**[Xing](https://www.xing.com/events/stay-productive-while-slicing-up-the-monolith-1797267)**
