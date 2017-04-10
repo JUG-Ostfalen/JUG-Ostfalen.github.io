@@ -10,6 +10,7 @@ UID:{{ post.date | date: "%Y%m%d" }}@jug-ostfalen.de
 ORGANIZER;CN="JUG Ostfalen":MAILTO:info@jug-ostfalen.de
 LOCATION:{% if site.locations[post.location] %}{{ site.locations[post.location].name }}; {{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}{% else %}{{ post.location }}{% endif %}
 SUMMARY:{{ post.title }} ({{ post.speaker }})
+DESCRIPTION:{{ post.url | prepend: site.url }}
 CLASS:PUBLIC
 DTSTART:{{ post.date | date: "%Y%m%dT%H%M" }}00
 DTEND:{{ post.date   | date: "%Y%m%dT" }}210000
