@@ -88,6 +88,8 @@ authors:
   gerrit:
     display_name: "Gerrit Meier"
     blurb: "Irgendwie mit im Boot der JUG-Ostfalen"
+  ijug:
+    display_name: "iJUG e.V."
 
 # Build settings
 markdown: kramdown
