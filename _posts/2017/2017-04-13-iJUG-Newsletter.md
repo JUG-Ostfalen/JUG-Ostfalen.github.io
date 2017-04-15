@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Neues vom Interessenverbund der Java User Groups (iJUG)"
+title: "iJUG-Newsletter April 2017"
 date:   2017-04-13
 categories: article
 author: ijug
 ---
+Dies ist der monatliche Newsletter des iJUG mit Informationen zu Konferenzen und Veranstaltungen.
+
 **Anmeldung fuer das Java Forum Nord online**
 Wer sich den Fruehbucherrabatt und ein Ticket fuer das Java Forum Nord
 sichern will, kann sich noch bis zum 19. Mai. anmelden. Der Call for
