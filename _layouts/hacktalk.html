@@ -20,11 +20,15 @@ layout: default
         {% assign post = page %}
         {% include event-metadata-inline.html %}
         <p>
+            {% if page.city== "wob" %}
+            <img src="/assets/partners/hacktalk-wob-gross.png" class="speaker"/>
+            {% else %}
             <img src="/assets/partners/hacktalk-gross.png" class="speaker"/>
+            {% endif %}
             Der HackTalk findet jeden ersten Dienstag (in Wolfsburg) und jeden letzen Dienstag (in Braunschweig) im Monat um 17:00 statt.
 
-            Obwohl in Wolfsburg viele Entwickler arbeiten, bildet sich nur langsam eine aktive Entwickler-Community. Neben JUG-Veranstaltungen und gelegentlichen Vorträgen soll der Entwicklerstammtisch der Versuch sein, eine weitere Plattform zum Austauschen zu bieten. 
-            
+            Obwohl in Wolfsburg viele Entwickler arbeiten, bildet sich nur langsam eine aktive Entwickler-Community. Neben JUG-Veranstaltungen und gelegentlichen Vorträgen soll der Entwicklerstammtisch der Versuch sein, eine weitere Plattform zum Austauschen zu bieten.
+
             Welchen Anspruch an technische Themen hat diese Veranstaltung?
 
             Die Veranstaltung soll ein gemütliches Miteinander UND technischer Austausch sein. Es wird deshalb Lightning Talks zu technischen Themen geben.

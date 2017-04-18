@@ -17,8 +17,8 @@ orgs:
     description: Die JUG Ostfalen selbst
     image: logo.png
   entwicklerstammtisch:
-    description: Der Wolfsburger Entwicklerstammtisch
-    image: hacktalk.png
+    description: HackTalk
+    image: hacktalk-gross.png
   hackcamp:
     description: Das Barcamp-ähnliche Hacking-Event in Wolfsburg
     image: hackcamp-gross.png

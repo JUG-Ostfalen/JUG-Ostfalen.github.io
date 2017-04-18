@@ -3,6 +3,7 @@ layout: hacktalk
 title: "HackTalk Braunschweig April 2017"
 date:   2017-04-25 17:00
 location: triology
+city: bs
 categories: event
 organizer: entwicklerstammtisch
 author: steven-schwenke

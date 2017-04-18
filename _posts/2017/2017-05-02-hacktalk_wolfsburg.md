@@ -3,6 +3,7 @@ layout: hacktalk
 title: "HackTalk Wolfsburg Mai 2017"
 date:   2017-05-02 17:00
 location: neosIT
+city: wob
 categories: event
 organizer: entwicklerstammtisch
 author: steven-schwenke
