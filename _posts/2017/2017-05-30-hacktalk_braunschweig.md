@@ -1,7 +1,7 @@
 ---
 layout: hacktalk
 title: "HackTalk Braunschweig Mai 2017"
-date:   2017-04-25 17:00
+date:   2017-05-30 17:00
 location: triology
 city: bs
 categories: event
