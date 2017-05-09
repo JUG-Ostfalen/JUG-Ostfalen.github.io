@@ -2,7 +2,7 @@
 layout: post
 title: "Stay productive while slicing up the monolith"
 location: triology
-speaker: "Markus Eisele" 
+speaker: "Markus Eisele"
 date:   2017-04-27 19:00
 categories: event
 organizer: JUG
@@ -37,8 +37,8 @@ During this talk you'll experience first hand how much fun it can be
 to develop large-scale Microservices-based systems. You will learn a
 lot about what it takes to fail fast and recover and truly understand
 the power of a fully integrated Microservices development environment.
- 
-**Markus Eisele** 
+
+**Markus Eisele**
  is a Java Champion, former Java EE Expert Group member,
  Java community leader of German DOAG, founder of JavaLand, reputed
  speaker at Java conferences around the world, and a very well known
