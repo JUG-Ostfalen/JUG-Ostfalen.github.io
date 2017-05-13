@@ -18,6 +18,6 @@ Templates in Java-Webanwendungen sind bis jetzt immer stark an die Daten aus dem
 
 **Anmeldung**
 
-**[Eventbrite]()**
+**[Eventbrite](https://www.eventbrite.de/e/spring-rest-docs-und-thymeleaf-tickets-34591971518)**
 
-**[Xing]()**
+**[Xing](https://www.xing.com/events/spring-rest-docs-thymeleaf-1817881)**
