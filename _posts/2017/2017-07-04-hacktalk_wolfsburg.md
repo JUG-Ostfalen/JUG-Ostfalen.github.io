@@ -1,6 +1,6 @@
 ---
 layout: hacktalk
-title: "HackTalk Wolfsburg Juli 2017"
+title: "HackTalk: Management 3.0, Magic"
 date:   2017-07-04 17:00
 location: neosIT
 city: wob
