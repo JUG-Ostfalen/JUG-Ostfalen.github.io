@@ -1,6 +1,11 @@
-Neues vom Interessenverbund der Java User Groups (iJUG)
--------------------------------------------------------
-http://www.ijug.eu/fileadmin/Daten/Newsletter/iJUG/2017/2017-06-iJUG-der-Newsletter.html
+---
+layout: post
+title: "iJUG-Newsletter Juli 2017"
+date:   2017-07-01
+categories: article
+author: ijug
+---
+Dies ist der monatliche Newsletter des iJUG mit Informationen zu Konferenzen und Veranstaltungen.
 
         Keine Zeit fuers Testen? Gute Gruende, es trotzdem zu tun
 
@@ -30,8 +35,7 @@ Radebeul bei Dresden statt. Es erwartet euch eine spannende Keynote mit
 Stefan Zoerner, 25 interessante Vortraege in 5 Tracks, namhafte
 Aussteller und eine entspannte Abendveranstaltung. http://go.ijug.eu/go/ijugnewsletter/170614/news3
 
-iJUG aktiv
--------------------------------------------------------
+### iJUG aktiv
 
         Talklet: Javaslang, aehm Vavr - Der Monad schlaegt zurueck
 
@@ -56,7 +60,7 @@ Mark Paluch: Mi., den 5. Jul., in Mannheim http://go.ijug.eu/go/ijugnewsletter/1
         Workshop-Tag "Java fuer Entscheider"
 
 Roman Seibold: Mi., den 5. Jul. 2017, Stuttgart
-http://go.ijug.eu/go/ijugnewsletter/170614/aktiv9
+[weitere Informationen](http://go.ijug.eu/go/ijugnewsletter/170614/aktiv9)
 
         20. Java Forum Stuttgart
 
@@ -82,3 +86,4 @@ Kevin Kekule: Mi., den 26. Jul. 2017, Nuernberg http://go.ijug.eu/go/ijugnewslet
         Serverless Computing
 
 Niko Koebler: Do., den 27. Jul. 2017, Mannheim http://go.ijug.eu/go/ijugnewsletter/170614/aktiv15
+[Link zum Newsletter](http://www.ijug.eu/fileadmin/Daten/Newsletter/iJUG/2017/2017-06-iJUG-der-Newsletter.html)
