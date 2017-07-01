@@ -34,7 +34,6 @@ orgs:
   doag:
     description: "Deutscher Oracle Anwender Gruppe"
     image: doag.jpg
-
 #Veranstaltungsorte
 locations:
   lineas:
@@ -71,6 +70,10 @@ locations:
     name: "Mobile Life Campus (MLC)"
     street: "Hermann-Münch-Straße 1"
     city: "38440 Wolfsburg"
+  god:
+    name: "GOD Gesellschaft für Organisation und Datenverarbeitung mbH"
+    strett: Mittelweg 7
+    city: 38106 Braunschweig
 #Autoren
 authors:
   uwe:
