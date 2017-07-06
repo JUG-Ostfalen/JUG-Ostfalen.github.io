@@ -72,8 +72,12 @@ locations:
     city: "38440 Wolfsburg"
   god:
     name: "GOD Gesellschaft für Organisation und Datenverarbeitung mbH"
-    strett: Mittelweg 7
-    city: 38106 Braunschweig
+    street: "Mittelweg 7"
+    city: "38106 Braunschweig"
+  bredex:
+    name: "BREDEX GmbH"
+    street: "Lindentwete 1"
+    city: "38100 Braunschweig"
 #Autoren
 authors:
   uwe:
