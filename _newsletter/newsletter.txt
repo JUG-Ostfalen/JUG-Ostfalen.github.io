@@ -1,84 +1,91 @@
 Neues vom Interessenverbund der Java User Groups (iJUG)
 -------------------------------------------------------
-http://www.ijug.eu/fileadmin/Daten/Newsletter/iJUG/2017/2017-06-iJUG-der-Newsletter.html
+http://www.ijug.eu/fileadmin/Daten/Newsletter/iJUG/2017/2017-07-iJUG-der-Newsletter.html
 
-        Keine Zeit fuers Testen? Gute Gruende, es trotzdem zu tun
+>> Jigsaw nimmt im zweiten Anlauf die Huerde
+Im zweiten Anlauf, dem "Public Review Reconsideration Ballot", wurde
+der Java Specification Request (JSR) zum "Jigsaw" genannten
+Plattform-Modulsystem vom Exekutiv-Komitee fast einstimmig akzeptiert.
+Nur RedHat enthielt sich. Das wichtige Feature von Java 9 kann damit
+erscheinen. Allerdings wurde das Release-Datum fuer das JDK 9 von Jul.
+auf Sep. verschoben, wie aus dem OpenJDK hervorgeht.
+http://go.ijug.eu/go/ijugnewsletter/170712/news0
 
-Viele Developer behandeln das Thema "Testen" eher stiefmuetterlich.
-Haeufig wird neu entwickelte Software erst am Ende eines Projekts
-getestet - viel zu spaet, findet Sebastian Daschner, freiberuflicher
-Java Consultant und Java Champion. Im Interview erklaert er, warum das
-Testen schon waehrend der Entwicklung viele Vorteile bringt, und stellt
-geeignete Moeglichkeiten zum Testen von Java-EE-Applikationen und
-Business-Logiken vor. http://go.ijug.eu/go/ijugnewsletter/170614/news1
+>> Agile Nacht Stuttgart
+Du kennst das: Du hoerst einen Vortrag und hast nur am Ende einige
+Minuten, um Fragen zu stellen. Anders laeuft es bei der Agilen Nacht
+Stuttgart am 17. Jul. 2017. Es gibt keine Vortraege, sondern
+Podiumsgespraeche - in Ermangelung eines Podiums eher "Tresengespraeche"
+- zwischen Moderator und Gaesten zu Themen ueber das agile
+Projektmanagement. Unterbrechungen und kritische Fragen aus dem
+Publikum sind ausdruecklich erwuenscht.
+http://go.ijug.eu/go/ijugnewsletter/170712/news1
 
-        Das Programm fuer Java Forum Nord 2017 ist online!
-
-Das Programm des Java Forum Nord 2017 ist online. Neben Vortraegen zu
-aktuellen technischen Themen werden auch Talks angeboten, die die
-zukuenftige Arbeitssituation und Kommuikation der Entwickler beleuchten.
-Die Verteilung auf die Raeume und die Reihenfolge der Talks wird im
-Aug. nach einer Umfrage unter den TeilnehmerInnen festgelegt. Am
-Di., den 12. Sep., bleibt in Hannover dann nur noch die Qual
-der Wahl. http://go.ijug.eu/go/ijugnewsletter/170614/news2
-
-        JUG Saxony Day 2017: Early Bird Tickets
-
-Bis zum 15. Jul. 2017 koennt ihr euch Early Bird Tickets fuer den 4. JUG
-Saxony Day sichern. Der JUG Saxony Day 2017 findet am 29. Sep. in
-Radebeul bei Dresden statt. Es erwartet euch eine spannende Keynote mit
-Stefan Zoerner, 25 interessante Vortraege in 5 Tracks, namhafte
-Aussteller und eine entspannte Abendveranstaltung. http://go.ijug.eu/go/ijugnewsletter/170614/news3
+>> JUG Saxony Day 2017: Kostenfreie Studententickets
+Studenten koennen sich kostenfrei zum JUG Saxony Day 2017 am 29.
+Sep. in Radebeul bei Dresden anmelden. Nutzt die Chance zum
+Wissensaustausch und Networking. Die regulaeren Early-Bird-Tickets
+koennen nur noch bis 15. Jul. erworben werden. Es erwartet euch eine
+spannende Keynote von Stefan Zoerner, 25 interessante Vortraege in fuenf
+Tracks, namhafte Aussteller und eine entspannte Abendveranstaltung.
+Tickets fuer Studenten nur solange der Vorrat reicht.
+http://go.ijug.eu/go/ijugnewsletter/170712/news2
 
 iJUG aktiv
 -------------------------------------------------------
+>> Software Teams Debuggen
+Dr. Elmar Juergens: Do., den 13. Jul. 2017, Darmstadt 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv2
 
-        Talklet: Javaslang, aehm Vavr - Der Monad schlaegt zurueck
+>> Strategisches Design
+Michael Ploed: Do., den 13. Jul. 2017, Duesseldorf 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv3
 
-David Schmitz: Di., den 27. Jun. 2017, Erfurt http://go.ijug.eu/go/ijugnewsletter/170614/aktiv4
+>> LibGDX Java Spiele Entwicklung
+Kevin Kekule: Mi., den 26. Jul. 2017, Nuernberg 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv5
 
-        Node-RED, Programmanpassungen mit der Maus
+>> Serverless Computing
+Niko Koebler: Do., den 27. Jul. 2017, Mannheim 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv6
 
-Sandro Kock: Mi., den 28. Jun., in Goettingen http://go.ijug.eu/go/ijugnewsletter/170614/aktiv5
+>> Vom Monolithen zu Microservices
+Andreas Weigel, Jakob Fels: Mi., den 2. Aug. 2017, Karlsruhe 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv7
 
-        Dokumentation schreiben kann Spass machen!
+>> Das Netzwerk von Docker
+Stefan Koospal: Mi., den 16. Aug. 2017, Goettingen 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv8
 
-Sebastian Hempel: Mi., den 28. Jun. 2017, Nuernberg http://go.ijug.eu/go/ijugnewsletter/170614/aktiv6
+>> Effiziente Datenpersistierung mit JPA und Hibernate
+Thorben Jansse: Mi., den 16. Aug. 2017, Paderborn 
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv81
 
-        Was ist Serverless Computing?
+>> Funktional Programmieren mit Vavr (Javaslang) und Resilience4j
+Robert Winkler: Do., den 24. Aug. 2017, Darmstadt
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv9
 
-Frank Pientka: Do., den 29. Jun. 2017, Paderborn http://go.ijug.eu/go/ijugnewsletter/170614/aktiv7
+>> Vavr previously known as Javaslang - Functional Java the Easy Way
+David Schmitz: Do., den 7. Sep. 2017, Mannheim
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv10
 
-        Spring Data MongoDB Deep Dive
+>> ObjektForum Stuttgart: Expert Java Eight
+Nicolai Parlog: Mo., den 18. Sep. 2017, Stuttgart
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv11
 
-Mark Paluch: Mi., den 5. Jul., in Mannheim http://go.ijug.eu/go/ijugnewsletter/170614/aktiv8
+>> Everything-as-code. Eine vielsprachige Reise.
+Mario-Leander Reimer: Do., den 21. Sep. 2017, Darmstadt
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv12
 
-        Workshop-Tag "Java fuer Entscheider"
+>> JUnit 5
+Reinhard Prechtl: Mi., den 27. Sep. 2017, Nuernberg
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv13
 
-Roman Seibold: Mi., den 5. Jul. 2017, Stuttgart
-http://go.ijug.eu/go/ijugnewsletter/170614/aktiv9
+>> Talklets IT-Automation fuer Java-Entwickler
+Sandra Parsick, Jonas Hecht: Do., den 28. Sep. 2017, Nuernberg
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv15
 
-        20. Java Forum Stuttgart
+>> Datenbankzentrische Anwendungen mit Spring Boot und jOOQ
+Michael Simons: Do., den 28. Sep. 2017, Mannheim
+http://go.ijug.eu/go/ijugnewsletter/170712/aktiv14
 
-Java als Leitmotiv: 49 Vortraege in 7 parallelen Tracks!
-Do., den 6. Jul. 2017, Stuttgart http://go.ijug.eu/go/ijugnewsletter/170614/aktiv10
-
-        Talklets: Hibernate 5 - Tips + Tricks & Effiziente Persistenz
-
-Thorben Janssen: Di., den 11. Jul. 2017, Jena http://go.ijug.eu/go/ijugnewsletter/170614/aktiv11
-
-        Software Teams Debuggen
-
-Dr. Elmar Juergens: Do., den 13. Jul. 2017, Darmstadt http://go.ijug.eu/go/ijugnewsletter/170614/aktiv12
-
-        Das Netzwerk von Docker
-
-Stefan Koospal: Mi., den 19. Jul. 2017, Goettingen http://go.ijug.eu/go/ijugnewsletter/170614/aktiv13
-
-        LibGDX Java Spiele Entwicklung
-
-Kevin Kekule: Mi., den 26. Jul. 2017, Nuernberg http://go.ijug.eu/go/ijugnewsletter/170614/aktiv14
-
-        Serverless Computing
-
-Niko Koebler: Do., den 27. Jul. 2017, Mannheim http://go.ijug.eu/go/ijugnewsletter/170614/aktiv15
