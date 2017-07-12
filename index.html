@@ -32,7 +32,9 @@ layout: landing
                 <li>
                     <h3>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                          {% if site.orgs[post.organizer].image %}
                             <img class="icon" src="/assets/partners/{{ site.orgs[post.organizer].image}}"/>
+                          {% endif %}
                             {{ post.title }}
                         </a>
                     </h3>
