@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ach, wenn Einhorn-Entwickler auf Bäume wachsen würden!"
-location: ckc
+location: triology
 speaker: "Tim Bourguignon"
 date:   2017-09-21 19:00
 categories: event
