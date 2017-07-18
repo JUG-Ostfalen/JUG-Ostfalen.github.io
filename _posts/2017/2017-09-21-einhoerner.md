@@ -18,8 +18,6 @@ Euch den Anfang einer Karte zu skizzieren und auf Wanderschaft zu schicken ist d
 
 **Tim** ist ein Alltags-Geek, agiler Entwickler, Bullshit-Jäger, International-Speaker und vieles mehr. Er ist neugierig, anspruchsvoll und ein Verfechter verrückter Ziele… für sich selbst. Tagsüber arbeitet er als Agile-Coach. Aber wenn die Nacht kommt und seine kleine Familie schläft, kümmert er sich lieber um die Umwandlung seiner Kollegen in mythische Wesen. Nicht dass sich beides widersprechen würden.
 
-**Anmeldung ist noch nicht Möglich**
-
-**[Eventbrite](https://www.eventbrite.de/e/)**
+**[Eventbrite](https://www.eventbrite.de/e/ach-wenn-einhorn-entwickler-auf-baume-wachsen-wurden-tickets-36283644357)**
 
 **[Xing](https://www.xing.com/events/einhorn-entwickler-baume-wachsen-1837945/)**
