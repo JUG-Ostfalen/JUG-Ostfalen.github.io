@@ -22,4 +22,4 @@ Euch den Anfang einer Karte zu skizzieren und auf Wanderschaft zu schicken ist d
 
 **[Eventbrite](https://www.eventbrite.de/e/)**
 
-**[Xing](https://www.xing.com/events/)**
+**[Xing](https://www.xing.com/events/einhorn-entwickler-baume-wachsen-1837945/)**
