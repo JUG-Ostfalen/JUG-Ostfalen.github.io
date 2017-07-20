@@ -78,6 +78,12 @@ locations:
     name: "BREDEX GmbH"
     street: "Lindentwete 1"
     city: "38100 Braunschweig"
+  quartier:
+    name: "Quartier Braunschweig"
+    street: "Bültenweg 89"
+    city: "38106 Braunschweig"
+    url: "http://quartier-bs.de/"
+
 #Autoren
 authors:
   uwe:
