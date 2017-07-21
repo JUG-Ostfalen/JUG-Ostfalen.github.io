@@ -9,9 +9,9 @@ organizer: JUG
 author: olli
 ---
 
-Ein gemütliches Zusammentreffen um gemeinsam Geschichten auszutauschen.
+Ein gemütliches Zusammentreffen, um gemeinsam Geschichten auszutauschen.
 
 
 **Anmeldung**
 
-Wenn ihr auch noch kommen wollt, dann könnt ihr euch ganz unter [olli@jug-ostfalen.de](mailto:olli@jug-ostfalen.de) anmelden
+Wenn ihr auch noch kommen wollt, dann könnt ihr euch ganz einfach unter [olli@jug-ostfalen.de](mailto:olli@jug-ostfalen.de) anmelden
