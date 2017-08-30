@@ -83,6 +83,10 @@ locations:
     street: "Bültenweg 89"
     city: "38106 Braunschweig"
     url: "http://quartier-bs.de/"
+  wsn:
+    name: "WSN Technologies AG"
+    street: "Frankfurter Str. 3A"
+    city: "38122 Braunschweig"
 
 #Autoren
 authors:
