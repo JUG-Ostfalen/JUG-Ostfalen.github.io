@@ -32,6 +32,6 @@ und neben einer Beschreibung des Projektverlaufs wird auch ein Ausblick auf das 
 
 
 
-**[Eventbrite](https://www.eventbrite.de)**
+**[Eventbrite](https://www.eventbrite.de/e/umgekehrte-architekturanalyse-im-datastore-umfeld-tickets-38054238251)**
 
-**[Xing](https://www.xing.com/events/)**
+**[Xing](https://www.xing.com/events/umgekehrte-architekturanalyse-datastore-umfeld-1859759)**
