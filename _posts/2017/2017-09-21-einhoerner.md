@@ -18,4 +18,4 @@ Euch den Anfang einer Karte zu skizzieren und auf Wanderschaft zu schicken ist d
 
 **[Tim](https://twitter.com/timothep)** ist ein Alltags-Geek, agiler Entwickler, Bullshit-Jäger, International-Speaker und vieles mehr. Er ist neugierig, anspruchsvoll und ein Verfechter verrückter Ziele… für sich selbst. Tagsüber arbeitet er als Agile-Coach. Aber wenn die Nacht kommt und seine kleine Familie schläft, kümmert er sich lieber um die Umwandlung seiner Kollegen in mythische Wesen. Nicht dass sich beides widersprechen würden.
 
-**[Die Folien findet ihr unter](https://speakerdeck.com/timothep/ach-wenn-einhorn-entwickler-auf-baumen-wachsen-wurden)**
+**[Die Folien findet ihr auf Speakerdeck](https://speakerdeck.com/timothep/ach-wenn-einhorn-entwickler-auf-baumen-wachsen-wurden)**
