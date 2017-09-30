@@ -14,4 +14,11 @@ Das erste HackCamp Braunschweigs ist eine ganztägige Veranstaltung, in der mehr
 
 Da am 18.11. der Global Global Day of Coderetreat ist , werden wir am Vormittag auf jeden Fall einen Coderetreat durchführen. Die Themen am Nachmittag werden dann frei gewählt.
 
+## Themen 
+
+1. Code Retreat (am Vormittag)
+1. (Dimitrij) (optional) JUnit 5
+1. (Olli) (optional) Domain Driven Design
+1. (Jens) (optional) Spring Data Reactive
+
 Anmeldung über [Xing](https://www.xing.com/events/hackcamp-braunschweig-coderetreat-themen-1861932)
