@@ -1,139 +1,149 @@
 Neues vom Interessenverbund der Java User Groups (iJUG)
 -------------------------------------------------------
-http://www.ijug.eu/fileadmin/Daten/Newsletter/iJUG/2017/2017-08-iJUG-der-Newsletter.html
+http://www.ijug.eu/fileadmin/Daten/Newsletter/iJUG/2017/2017-10-iJUG-der-Newsletter.html
 
->> Neuer JavaLand-Rekord: Mehr als 500 eingereichte Vortraege
-Ueber 500 Vortragsvorschlaege wurden zum Abschluss des Call for Papers
-fuer die JavaLand 2018 eingereicht - das ist ein neuer Rekord und etwa
-20 Prozent mehr als im Vergleich zum Vorjahr. Das Programmkomitee hat
-bis zur Veroeffentlichung des Programms Mitte Sep. nun alle Haende
-voll mit der Bewertung der Vortraege zu tun. Mit zwoelf Streams
-verspricht die JavaLand damit wieder eine der spannendsten
-Java-Konferenzen in Europa zu werden.
-http://go.ijug.eu/go/ijugnewsletter/170816/news1
+>> Java 9 veroeffentlicht
+Java 9 ist endlich da, und das Java Development Kit (JDK) steht fuer
+Entwickler zum Download bereit. Java SE 9 wurde fast drei Jahre nach
+der Einfuehrung von Java SE 8 eingefuehrt und bringt einige wichtige
+Aenderungen in der Architektur sowie eine Vielzahl von Verbesserungen
+mit. Die neuen, umstrittenen Modularitaets-Faehigkeiten, die auf Project
+Jigsaw basieren, sind sicherlich eines der interessanteren Features.
+http://go.ijug.eu/go/ijugnewsletter/171011/news1
 
->> JUG Saxony Day 2017: Ausverkauft
-Bereits sieben Wochen vor dem 4. JUG Saxony Day sind alle Tickets
-verkauft. Damit wurde das Ziel von 450 Teilnehmern deutlich
-uebertroffen. Der JUG Saxony Day 2017 findet am 29. Sep. in
-Radebeul bei Dresden statt.
-http://go.ijug.eu/go/ijugnewsletter/170816/news2
+>> Fuer nur 200 Euro zum Java-Tag der DOAG 2017 Konferenz + Ausstellung
+Fuer alle Mitglieder der Java User Groups gilt am dritten Tag der
+DOAG-Konferenz in Nuernberg ein Aktionspreis: Sie zahlen nur 200 Euro
+(zzgl. Umsatzsteuer) und koennen dabei den ganzen Tag ueber Vortraege aus
+dem Java-Stream besuchen. Interessierte waehlen in der Ticket-Auswahl
+"DOAG17 Java-Tag 23.11.2017" und geben im Freitext-Feld darunter den
+Namen ihrer Java User Group an. 
+http://go.ijug.eu/go/ijugnewsletter/171011/news2
 
->> DOAG 2017 Konferenz + Ausstellung: Programm mit Java-Stream online!
-Das Programm der DOAG 2017 Konferenz + Ausstellung ist ab sofort
-online. Die Teilnehmer erwartet wieder ein erstklassiges Programm mit
-450 informativen Fachvortraegen. Auch Java ist wieder mit zahlreichen
-Vortraegen und einem eigenen Java-Stream vertreten. Die Konferenz
-findet vom 21. bis 24. Nov. 2017 in Nuernberg statt. 
-http://go.ijug.eu/go/ijugnewsletter/170816/news3
+iJUG Mitgliederversammlung am 24. Nov. in Nuernberg
+Die naechste iJUG-Mitgliederversammlung findet am Fr., den 24.
+Nov. 2017, Nuernberg statt, parallel zum Schulungstag der DOAG
+2017 Konferenz + Ausstellung.
 
->> WebLogic JMS als zentrale Enterprise-Messaging-Plattform: Ein
-Erfahrungsbericht
-DB Schenker hat eine zentrale JMS-Plattform basierend auf Oracle
-WebLogic etabliert. Thomas Stoermer, Solution Architect bei der Schenker
-AG, geht im Video-Interview mit Andr Sept, Leiter der DOAG Java
-Community, auf die Gruende fuer deren Einfuehrung ein und beschreibt, vor
-welchen Herausforderungen das Team bei der Einfuehrung der JMS-Plattform
-stand. 
-http://go.ijug.eu/go/ijugnewsletter/170816/news4
+>> JavaOne Keynote: Viel Positives aber ohne Ueberraschungen
+Der Eindruck, dass nicht nur die Oracle OpenWorld, sondern auch die
+JavaOne etwas weniger Besucher hat als letztes Jahr, scheint sich zu
+bestaetigen. Der grosse Saal im Moscone North Center wirkte bei der
+diesjaehrigen Keynote etwas leerer. Dabei gab es jede Menge zu erzaehlen
+und zu zeigen.
+http://go.ijug.eu/go/ijugnewsletter/171011/news4
+
+>> JavaOne: Die Highlights der Developer Keynote und Neues zum
+Dauerthema Java EE
+Die knapp zweistuendige, streckenweise langatmige Developer Keynote der
+JavaOne hatte zunaechst Oracles neue Aktivitaeten zur Einbindung der
+Community zum Thema. Bruno Borges und Stephen Chin redeten ueber die
+Oracle Code Events, die letztes Jahr ins Leben gerufen wurden. In einer
+Podiumsdiskussion ging es dann um das Dauerthema Java EE. 
+http://go.ijug.eu/go/ijugnewsletter/171011/news5
+
+>> Java EE Schwerpunkt des JavaOne Community Days
+Parallel zur Oracle OpenWorld fand die JavaOne-Konferenz statt. Der
+So. ist hier traditionell der Community-Tag mit einer Mischung aus
+technischen Vortraegen von und fuer Java User Groups. Andreas Badelt
+berichtete vor Ort ueber das Schwerpunktthema Java EE.
+http://go.ijug.eu/go/ijugnewsletter/171011/news6
+
+>> Passender Abschluss der JavaOne mit der Community Keynote
+Am letzten Tag der JavaOne findet traditionell die Community Keynote
+statt. Dieses Jahr bestand sie aus einem informativen Teil und einer
+Art Komoedie, aufgefuehrt von Laiendarstellern aus den JUGs. 
+http://go.ijug.eu/go/ijugnewsletter/171011/news7
 
 iJUG aktiv
 -------------------------------------------------------
->> It's all about the domain, honey
-Henning Schwentner: Do., den 17. Aug. 2017, Bremen 
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv3
+>> Restrukturierung der Code Basis mit Java 9
+Rabea Gransberger: Mi., den 11. Okt. 2017, Hannover
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv1
 
->> Blockchain - die langsamste (und spannendste) Datenbank der Welt
-Stefan Tilkov: Mi., den 23. Aug. 2017, Hamburg 
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv4
-
->> Funktional Programmieren mit Vavr (Javaslang) und Resilience4j
-Robert Winkler: Do., den 24. Aug. 2017, Darmstadt
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv5
-
->> Advanced Java 9 Modularity
-Mo., den 28. Aug. 2017, Muenchen 
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv6
-
->> Spracherkennung mit Alexa
-Andre Tepper, Mai.k Wagner: Mi., den 30. Aug. 2017, Goerlitz 
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv61
-
->> Aus Minuten werden Sekunden - Inkrementelle Builds im Detail
-Ren Groeschke: Do., den 31. Aug. 2017, Braunschweig 
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv7
-
->> Java Microservices auf Basis von Docker Containern umgesetzt mit
-Spring
-Mo., den 4. Sep. 2017, Muenchen 
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv8
-
->> What's new in CDI 2.0 (JSR 365)
-Mark Paluch: Do., den 7. Sep. 2017, Braunschweig
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv9
-
->> Vavr previously known as Javaslang - Functional Java the Easy Way
-David Schmitz: Do., den 7. Sep. 2017, Mannheim
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv10
-
->> Natural Language Processing
-Gefei Zhang: Mo., den 11. Sep. 2017, Muenchen
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv11
-
->> When, why and how to CQRS
-Sebastian Daschner: Mo., den 11. Sep. 2017, Karlsruhe
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv12
-
->> Clean Code
-Sven Strittmatter: Do., den 14. Sep. 2017, Stuttgart
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv13
-
->> Java EE 8: Am Weg in die Cloud
-Werner Keil: Do., den 14. Sep. 2017, Duesseldorf
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv131
-
->> ObjektForum Stuttgart: Expert Java Eight
-Nicolai Parlog: Mo., den 18. Sep. 2017, Stuttgart
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv14
-
->> Everything-as-code. Eine vielsprachige Reise.
-Mario-Leander Reimer: Do., den 21. Sep. 2017, Darmstadt
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv15
-
->> Ach, wenn Einhorn-Entwickler auf Baeume wachsen wuerden!
-Tim Bourguignon: Do., den 21. Sep. 2017, Braunschweig
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv151
-
->> JUnit 5
-Reinhard Prechtl: Mi., den 27. Sep. 2017, Nuernberg
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv16
-
->> Talklets IT-Automation fuer Java-Entwickler
-Sandra Parsick, Jonas Hecht: Do., den 28. Sep. 2017, Jena (genauer Ort noch nicht
-festgelegt)
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv17
-
->> Datenbankzentrische Anwendungen mit Spring Boot und jOOQ
-Michael Simons: Do., den 28. Sep. 2017, Mannheim
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv18
-
->> 360 Monitoring of your Microservices
-Philipp Krenn: Mi., den 4. Okt. 2017, Aachen
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv19
-
->> Java Libraries You Cant Afford to Miss
+>> Java Libraries You Can't Afford to Miss
 Andres Almiray: Do., den 12. Okt. 2017, Mannheim
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv20
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv2
 
->> JUG Saxony Reactive Streams im Web
+>> Talklet Domain-driven Design Renaissance & Event Storming
+Christoph Baudson: Mi., den 18. Okt. 2017, Ilmenau
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv3
+
+>> Vom Monolithen zu Microservices, ein Erfahrungsbericht
+Andreas Weigel und Jakob Fels: Mi., den 18. Okt. 2017, Stuttgart
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv4
+
+>> Reactive Streams im Web
 Florian Stefan: Do., den 19. Okt. 2017, Chemnitz
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv21
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv5
 
 >> Die Magie hinter Spring-Boot-Startern
 Michael Simons: Do., den 19. Okt. 2017, Darmstadt
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv22
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv6
 
->> JavaScript fuer Java-Developers brauchen wir das wirklich?
-Robert Rohm: Mi., den 25. Okt. 2017, Nuernberg
-http://go.ijug.eu/go/ijugnewsletter/170816/aktiv24
+>> Umgekehrte Architekturanalyse im Datastore-Umfeld
+Christian Mennerich & Joachim Arrasz: Do., den 19. Okt. 2017, Braunschweig
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv7
+
+>> Conference JCON 2017
+Kostenlos fuer iJUG Mitglieder
+Di., den 24. Okt. 2017, Duesseldorf
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv8
+
+>> vJUG24 2017
+Kirk Pepperdine: Mi., den 25. Okt. 2017, Wuerselen
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv9
+
+>> JavaScript fuer Java-Developers - brauchen wir das wirklich?
+Robert Rohm: Do., den 26. Okt. 2017, Nuernberg
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv10
+
+>> Serverless Application - Who the heck needs a Server?
+Lars Roewekamp: Mi., den 25. Okt. 2017, Nuernberg
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv11
+
+>> Bauen und Verteilen hybrider Docker Images fuer Linux und Windows
+Stefan Scherer: Do., den 9. Nov. 2017, Dresden
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv12
+
+>> Openshift Container Platform - Enterprise Kubernetes ++
+Juergen Hoffmann: Do., den 9. Nov. 2017, Darmstadt
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv13
+
+>> Agile Nacht Stuttgart
+Mo., den 13. Nov. 2017, Stuttgart
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv14
+
+>> Datenbankzentrische Anwendungen mit Spring Boot und jOOQ
+Michael Simons: Mi., den 15. Nov. 2017, Muenster
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv15
+
+>> JDK 9 Das neue Java Platform Module System
+Wolfgang Weigend: Mi., den 15. Nov. 2017, Leipzig
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv16
+
+>> Vavr - Functional Java the Easy Way
+David Schmitz: Mi., den 15. Nov. 2017, Mannheim-Lindenhof
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv17
+
+>> ObjektForum Stuttgart: Argumentativ zur besten Designentscheidung
+Christian Rehn und Matthias Wittum: Mo., den 20. Nov. 2017, Stuttgart
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv18
+
+>> Talklets How GitHub develops GitHub & Git Internals
+Johannes Nicolai und Christoph Haefner: Di., den 28. Nov. 2017, Duesseldorf
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv19
+
+>> 2. Kunterbunter Abend mit 3 Vortraegen
+Niko Koebler, Ralf D. Mueller, Alexander Schwartz, Falk: Sippach
+Do., den 7. Dez. 2017, Darmstadt
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv20
+
+>> Reactive Stream processing with Microprofile and Apache Kafka
+Matthias Wessendorf: Do., den 14. Dez. 2017, Aachen
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv21
+
+>> Talklet Javaslang, aehm Vavr - Der Monad schlaegt zurueck
+David Schmitz: So., den 31. Dez. 2017, Duesseldorf
+http://go.ijug.eu/go/ijugnewsletter/171011/aktiv22
 
