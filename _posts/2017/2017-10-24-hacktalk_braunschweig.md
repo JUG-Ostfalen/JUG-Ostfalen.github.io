@@ -1,6 +1,6 @@
 ---
 layout: hacktalk
-title: "HackTalk: Grundlagen funktionaler Programmierung"
+title: "HackTalk: Cloudogu"
 date:   2017-10-24 17:00
 location: triology
 city: bs
