@@ -31,6 +31,8 @@ Als Technical Teamlead leitet er ein verteiltes Team an und führt regelmäßig 
 Zusätzlich organisiert er Veranstaltungen wie den HackTalk und hält Vorträge bei Konferenzen. 
 Er teilt seine Erfahrung gern mit anderen und freut sich auf spannende Gespräche.
 
+**Anmeldung:**
+
 **[Eventbrite](https://www.eventbrite.de/e/coden-auf-der-dachterrasse-tickets-39141868382)**
 
 **[Xing](https://www.xing.com/events/coden-dachterrasse-1872271)**
