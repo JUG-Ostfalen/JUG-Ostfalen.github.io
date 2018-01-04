@@ -31,6 +31,8 @@ orgs:
   jug-und-net:
     description: "Die JUG Ostfalen in Kooperation mit der .NET User Group Braunschweig"
     image: jug-net.png
+  jsug:
+    description: "RoyalJS: die JavaScript User Group Braunschweig"
   kids4it:
     description: "Kids4IT - IT ausprobieren und erleben für Kinder"
     image: kids4it.png
@@ -55,6 +57,11 @@ locations:
     street: "Brabandtstraße 9 – 10"
     city: "38100 Braunschweig"
     url: "http://www.triology.de/"
+  cloudogu:
+    name: "Cloudogu GmbH"
+    street: "Brabandtstraße 9 – 10"
+    city: "38100 Braunschweig"
+    url: "https://cloudogu.com"
   onsite:
     name: "T-Systems on site services GmbH"
     street: "Alessandro-Volta-Straße 11"
