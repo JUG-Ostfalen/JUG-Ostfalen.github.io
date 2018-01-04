@@ -36,7 +36,7 @@
           {% if post.location.room %}
             {{ post.location.room }}{{ location_divider }}
           {% endif %}
-          <a href="https://www.google.de/maps/place/{{ post.location.street }}+{{ post.location.city }}">
+          <a href="https://www.google.de/maps/place/{{ post.location.street }}+{{ post.location.city }}" target="_blank">
             {{ post.location.street }}{{ location_divider }}
             {{ post.location.city }}
           </a>
