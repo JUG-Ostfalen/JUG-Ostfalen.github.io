@@ -1,7 +1,7 @@
 ---
 layout: hacktalk
 title: "HackTalk: OAuth"
-date:   2018-06-02 17:00
+date:   2018-02-06 17:00
 location: neosIT
 city: wob
 categories: event
