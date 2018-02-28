@@ -38,7 +38,7 @@ Er ist ebenfalls einer der Organisatoren der MAJUG (Mannheim Java User Group).
 
 **Anmeldung:**
 
-[**Eventbrite**](https://www.eventbrite.de)
+[**Eventbrite**](https://www.eventbrite.de/e/shenandoah-ultra-low-pause-time-garbage-collector-tickets-43645946200)
 
-[**Xing**](https://www.xing.com/events/)
+[**Xing**](https://www.xing.com/events/shenandoah-ultra-low-pause-time-garbage-collector-1920028)
 
