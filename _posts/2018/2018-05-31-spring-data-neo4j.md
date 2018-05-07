@@ -19,5 +19,7 @@ Ein kleiner Ausflug in die Welt der Paradise Papers zeigt die Vorteile der Techn
 
 **Anmeldung:**
 
-(kommt)
+[**Eventbrite**](https://www.eventbrite.de/e/beziehungsmanagement-mit-spring-data-neo4j-tickets-45851657542)
+
+[**Xing**](https://www.xing.com/events/beziehungsmanagement-spring-data-neo4j-1944846)
 
