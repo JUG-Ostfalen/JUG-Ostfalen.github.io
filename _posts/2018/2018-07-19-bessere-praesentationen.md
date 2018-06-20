@@ -29,7 +29,7 @@ Seine aktuellen Interessengebiete sind Microservices, CQRS, polyglotte Persisten
 
 **Anmeldung:**
 
-[**Eventbrite**](https://www.eventbrite.de/e/)
+[**Eventbrite**](https://www.eventbrite.de/e/bessere-prasentationen-fur-entwickler-und-architekten-tickets-47253072211)
 
-[**Xing**](https://www.xing.com/events/)
+[**Xing**](https://www.xing.com/events/bessere-prasentationen-entwickler-architekten-1958799)
 
