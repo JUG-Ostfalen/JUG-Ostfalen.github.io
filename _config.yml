@@ -39,6 +39,8 @@ orgs:
   doag:
     description: "Deutscher Oracle Anwender Gruppe"
     image: doag.jpg
+  informatik-aktuell:
+    description: "Informatik Aktuell / Alkmene Verlags- und Mediengesellschaft mbH"
 
 #Veranstaltungsorte
 locations:
