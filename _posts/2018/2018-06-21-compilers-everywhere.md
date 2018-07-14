@@ -40,3 +40,6 @@ Er ist Geschäftsführer und Professor, Autor mehrerer Bücher zu den Themen JSF
 
 [**Xing**](https://www.xing.com/events/compilers-everywhere-1950419)
 
+**Folien**
+
+Die Folien sind [hier verfügbar](/assets/articles/2018/compilers.pdf).
