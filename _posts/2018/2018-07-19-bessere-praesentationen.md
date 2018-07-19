@@ -29,3 +29,6 @@ Amitai's ideas, prose, music, and puns have manifested at Agile Roots, Agile for
 
 [**Xing**](https://www.xing.com/events/bessere-prasentationen-entwickler-architekten-1958799)
 
+**Folien**
+
+Die Folien sind [hier verfügbar](https://schmonz.com/2018/07/19/jug-ostfalen-braunschweig-july-2018-when-to-stop-kata/slides/).
