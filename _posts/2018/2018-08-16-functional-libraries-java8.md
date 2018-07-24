@@ -20,7 +20,7 @@ This will cover among others: Javaslang, JUnit 5, jOOL and other nice libraries 
 
 **Anmeldung:**
 
-[**Eventbrite folgt**](folgt)
+[**Eventbrite**](https://www.eventbrite.de/e/functional-libraries-for-java-tickets-48373785294)
 
 [**Xing**](https://www.xing.com/events/functional-libraries-for-java-1969751)
 
