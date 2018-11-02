@@ -65,7 +65,7 @@ Für Anregungen, Hinweise, Unterstützung, Raum-  und Vortragsangebote könnt i
 
 ### Impressum der Java User Group Ostfalen
 Anschrift\: JUG Ostfalen, Schiebeweg 42, 38116 Braunschweig<br />
-Telefon\: 015117406924<br />
+Telefon\: 0160 90 96 12 23<br />
 E-Mail\: [jens@jug-ostfalen.de](mailto:jens@jug-ostfalen.de)<br />
 Vertreter und inhaltlich Verantwortlicher gem. § 55 RStV\: Jens Schauder<br />
 Hinweis\: Alle Veranstaltungen sind Veranstaltungen des iJUG e.V. und werden
