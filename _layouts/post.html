@@ -25,7 +25,7 @@ layout: default
         <p><img src="{{ page.image }}" class="speaker" /></p>
         {% endif %}
         {{ content }}
-        {% if page.categories contains "event" %}
+        {% if page.categories contains "event" and page.organizer contains "JUG" %}
           {% if page.organizer contains "JUG" or page.organizer contains "jug-und-net" %}
             <i>Eine Veranstaltung des iJUG e.V., organisiert durch die JUG Ostfalen.</i>
           {% endif %}
