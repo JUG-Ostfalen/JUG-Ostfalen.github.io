@@ -2,7 +2,7 @@
 layout: post
 title: "Hibernate Tips ‘n’ Tricks - Schnelle Lösungen für typische Probleme und Anwendungsfälle."
 location: god
-speaker: "Jens Schauder"
+speaker: "Thorben Janssen"
 date:   2019-02-07 19:00
 categories: event
 organizer: JUG
