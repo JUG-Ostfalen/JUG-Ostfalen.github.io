@@ -73,6 +73,10 @@ locations:
     name: "GOD Gesellschaft für Organisation und Datenverarbeitung mbH"
     street: "Mittelweg 7"
     city: "38106 Braunschweig"
+  fme:
+    name: "fme AG"
+    street: "Wolfenbütteler Strße 33"
+    city: "38102 Braunschweig"
   msg:
     name: "msg DAVID GmbH"
     street: "Mittelweg 7"
