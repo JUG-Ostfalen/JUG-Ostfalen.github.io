@@ -54,6 +54,11 @@ locations:
     street: "Am Alten Bahnhof 13"
     city: "38122 Braunschweig"
     url: "http://www.ckc-group.de/"
+  cgi:
+    name: "CGI"
+    street: "Am Alten Bahnhof 13"
+    city: "38122 Braunschweig"
+    url: "http://www.ckc-group.de/"
   triology:
     name: "TRIOLOGY GmbH"
     street: "Brabandtstraße 9 – 10"
