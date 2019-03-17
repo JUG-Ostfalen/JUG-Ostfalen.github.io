@@ -21,7 +21,7 @@ He is author of papers, articles, and books on various topics including agile so
 
 **Anmeldung:**
 
-[**Eventbrite**]()
+[**Eventbrite**](https://www.eventbrite.de/e/spring-tools-4-bootiful-spring-tools-fur-eclipse-und-visual-studio-code-tickets-58948374174)
 
-[**Xing**]()
+[**Xing**](https://www.xing.com/events/spring-tools-4-eclipse-visual-studio-code-2077388)
 
