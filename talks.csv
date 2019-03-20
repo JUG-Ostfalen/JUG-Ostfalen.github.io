@@ -1,0 +1,5 @@
+---
+layout: none
+---
+{% for post in site.categories.event %}{% if post.organizer == "JUG" %}{{ post.date | date: "%Y%m%d" }}|{{ post.speaker }}|{{ post.title }}
+{% endif %}{% endfor %}
