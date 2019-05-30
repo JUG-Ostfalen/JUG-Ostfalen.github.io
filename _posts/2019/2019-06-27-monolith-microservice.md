@@ -19,7 +19,7 @@ Dabei gehen wir darauf ein, wie wir auf die gestiegene Komplexität einer vertei
 
 **Anmeldung:**
 
-[**Eventbrite**](folgt)
+[**Eventbrite**](https://www.eventbrite.de/e/vom-monolithen-zu-microservices-ein-erfahrungsbericht-tickets-62642657876)
 
 [**Xing**](https://www.xing.com/events/monolithen-microservices-erfahrungsbericht-2106980)
 
