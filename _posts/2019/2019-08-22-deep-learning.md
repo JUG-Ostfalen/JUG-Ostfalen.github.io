@@ -19,6 +19,10 @@ Und zusammen mit dem OpenAI Gym bringt man so eine eigene KI schnell zu ersten E
 In diesem Vortrag werde ich die Grundlagen Neuronaler Netze vermitteln und Zeigen wie man leicht mit Deeplearning4J in Java eine KI-Anwendung bauen kann. 
 Außerdem stelle ich kurz das OpenAI Gym vor, dass als Trainingswiese für Künstliche Intelligenzen dient und sowohl einfache als auch komplexere Szenarien zum Austesten der eigenen KIs bereitstellt.
 
+**Jochen Schmücking** ist Software Engineer bei PRODYNA SE und dort seit 3 Jahren als Berater tätig. 
+Hauptsächlich ist er in der Frontend Entwicklung unterwegs, beschäftigt sich aber auch mit Machine Learning und Graphdatenbanken. 
+Sein Studium der Informatik hat er mit den Schwerpunkten Big Data und Theoretische Informatik an der RWTH Aachen abgeschlossen.
+
 
 **Anmeldung:**
 
