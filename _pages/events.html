@@ -40,7 +40,8 @@ order: 1
             "@type" : "Place",
             "sameAs" : "{{ site.locations[post.location].url }}",
             "name" : "{{ site.locations[post.location].name }}",
-            "address" : "{{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}"
+            "address" : "{{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}",
+            "poiUuid": "{% if site.locations[post.location] and site.locations[post.location].poi %}{{ site.locations[post.location].poi }}{% endif %}"
           }
           {% endif %}
         }

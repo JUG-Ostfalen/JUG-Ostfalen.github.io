@@ -49,70 +49,85 @@ locations:
     street: "Theodor-Heuss-Str. 2"
     city: "38122 Braunschweig"
     url: "http://www.lineas.de"
+    poi: "feb8a730-d30c-408f-86a5-49fe5996ef1b"
   ckc:
     name: "CKC Group"
     street: "Am Alten Bahnhof 13"
     city: "38122 Braunschweig"
     url: "http://www.ckc-group.de/"
+    poi: "b65ae4d6-0053-46c1-9edd-fb40921dc75c"
   cgi:
     name: "CGI"
     street: "Am Alten Bahnhof 13"
     city: "38122 Braunschweig"
     url: "http://www.ckc-group.de/"
+    poi: "b65ae4d6-0053-46c1-9edd-fb40921dc75c"
   triology:
     name: "TRIOLOGY GmbH"
     street: "Brabandtstraße 9 – 10"
     city: "38100 Braunschweig"
     url: "http://www.triology.de/"
+    poi: "f92d05ee-a7ee-4707-b745-d57f70a2583b"
   cloudogu:
     name: "Cloudogu GmbH"
     street: "Brabandtstraße 9 – 10"
     city: "38100 Braunschweig"
     url: "https://cloudogu.com"
+    poi: "f6452b02-798c-4531-8c75-aafc1d417d44"
   onsite:
     name: "T-Systems on site services GmbH"
     street: "Alessandro-Volta-Straße 11"
     city: "38440 Wolfsburg"
     url: "https://www.t-systems-onsite.de/"
+    poi: "456e084e-4b66-4638-acff-2bf843c5e569"
   god:
     name: "GOD Gesellschaft für Organisation und Datenverarbeitung mbH"
     street: "Mittelweg 7"
     city: "38106 Braunschweig"
+    poi: "55af3284-34f2-4b7b-9aa8-809bad1a0ee0"
   fme:
     name: "fme AG"
     street: "Wolfenbütteler Strße 33"
     city: "38102 Braunschweig"
+    poi: "d4b6d9b5-7961-4300-8394-9f6b001a480"
   msg:
     name: "msg DAVID GmbH"
     street: "Mittelweg 7"
     city: "38106 Braunschweig"
+    poi: "6652a02d-2271-4e88-bd36-bcd196af1b3e"
   schiller40:
     name: "Schiller40 Coworkingspace"
     street: "Schillerstr. 40"
     city: "38440 Wolfsburg"
     url: "http://www.wolfsburg.de/kultur/kulturwerk/schiller40-coworking-space"
+    poi: "890e8f19-9454-4615-8098-d864374323b1"
   neosIT:
     name: "NeosIT GmbH"
     street: "Schachtweg 1"
     city: "38440 Wolfsburg"
     url: "https://neos-it.de/"
+    poi: "7bd6740c-7735-4a4e-89c1-af7b75dcebff"
   mlc:
     name: "Mobile Life Campus (MLC)"
     street: "Hermann-Münch-Straße 1"
     city: "38440 Wolfsburg"
+    poi: "b94a0f35-923b-45bb-8237-b1ed45f96b96"
   bredex:
     name: "BREDEX GmbH"
     street: "Lindentwete 1"
     city: "38100 Braunschweig"
+    poi: "ad7dd140-f595-4ff6-9bc7-edb258c586e1"
   quartier:
     name: "Quartier Braunschweig"
     street: "Bültenweg 89"
     city: "38106 Braunschweig"
     url: "http://quartier-bs.de/"
+    poi: "2368ccc4-c1ed-4358-bcae-62f1d616ff14"
   wsn:
     name: "WSN Technologies AG"
     street: "Frankfurter Str. 3A"
     city: "38122 Braunschweig"
+    poi: "69a405ff-ebaa-4f75-8ee2-b8e7e4067275"
 
 #Autoren
 authors:
