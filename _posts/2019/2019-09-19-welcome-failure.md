@@ -19,7 +19,7 @@ Als Enthusiastic Agile & DevOps Enabler bei getNext IT führt **Sabine Wojciesza
 
 **Anmeldung:**
 
-[**Eventbrite**](folgt)
+[**Eventbrite**](https://www.eventbrite.de/e/welcome-failure-leichter-gesagt-als-getan-tickets-68958662215)
 
 [**Xing**](https://www.xing.com/events/welcome-failure-leichter-getan-2131839)
 
