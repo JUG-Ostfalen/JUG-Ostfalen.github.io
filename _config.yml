@@ -41,6 +41,9 @@ orgs:
     image: doag.jpg
   informatik-aktuell:
     description: "Informatik Aktuell / Alkmene Verlags- und Mediengesellschaft mbH"
+  gdg:
+    description: "GDG Braunschweig"
+
 
 #Veranstaltungsorte
 locations:
