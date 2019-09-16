@@ -43,7 +43,9 @@ orgs:
     description: "Informatik Aktuell / Alkmene Verlags- und Mediengesellschaft mbH"
   gdg:
     description: "GDG Braunschweig"
-
+  it-hub:
+    description: "Das IT-Hub Braunschweig unterstützt die aktive Entwickler-Community im lebendigen, sich entwickelnden IT-Zentrum Braunschweig."
+    image: logo_ithubbs.png
 
 #Veranstaltungsorte
 locations:
