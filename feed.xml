@@ -2,7 +2,8 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:poi="http://things.nerdhood.de/ns/poi">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -24,6 +25,7 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
+        <poi:uuid>{% if site.locations[post.location] and site.locations[post.location].poi %}{{ site.locations[post.location].poi }}{% endif %}</poi:uuid>
       </item>
     {% endfor %}
   </channel>
