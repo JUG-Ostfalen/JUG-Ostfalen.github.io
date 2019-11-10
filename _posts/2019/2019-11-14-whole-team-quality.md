@@ -3,7 +3,7 @@ layout: post
 title: "Whole Team Quality"
 location: onsite
 speaker: "Alex Schladebeck"
-date:   2019-11-14 18:00
+date:   2019-11-14 18:30
 categories: event
 organizer: JUG
 author: jens
