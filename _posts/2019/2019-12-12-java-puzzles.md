@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weihnachts Java Quiz"
+title: "Java-Weihnachtsquiz"
 location: lineas
 speaker: "Bernd Müller"
 date:   2019-12-12 19:00
