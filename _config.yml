@@ -118,6 +118,11 @@ locations:
     name: "WSN Technologies AG"
     street: "Frankfurter Str. 3A"
     city: "38122 Braunschweig"
+  hup:
+    name: "HUP AG"
+    street: "Am Alten Bahnhof 4B"
+    city: "38122 Braunschweig"
+    url: "https://hup.de"
 
 #Autoren
 authors:
