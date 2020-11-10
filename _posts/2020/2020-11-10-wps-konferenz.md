@@ -4,7 +4,7 @@ title: "software@work 2020 Konferenz"
 location: Internet
 speaker: "Diverse"
 date:   2020-11-26 14:00
-categories: event
+categories: article
 organizer: WPS
 author: gerrit
 ---
