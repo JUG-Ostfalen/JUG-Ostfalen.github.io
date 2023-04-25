@@ -26,14 +26,15 @@ Für Anregungen, Hinweise, Unterstützung, Raum-  und Vortragsangebote könnt i
 
 ### Zu meiner Person
 <div>
-  <img src="{{ '/assets/contacts/jens.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
-  <p>Ich bin Jens Schauder, begeisterter Softwareentwickler und arbeite für Pivotal im Spring Data Team.
-  Ich habe die Organisation der JUG-Ostfalen von Uwe Sauerbrei übernommen, der sie gegründet und über 5 Jahre hinweg aufgebaut hat.</p>
+  <img src="{{ '/assets/contacts/gerrit.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
+  <p>Hallo, ich bin Gerrit Meier.
+    Ich habe die Organisation der JUG-Ostfalen von Jens Schauder in 2022 übernommen<br />
+    Gegründet wurde die JUG von Uwe Sauerbrei, der sie über 5 Jahre hinweg aufgebaut hat.</p>
 </div>
 
 ### Vertreter
 <div style="text-align: center;">
-  <div style="display: inline-block; text-align: center; width: 300px;">
+  <div style="display: inline-block; text-align: center; width: 250px;">
     <img src="{{ '/assets/contacts/bernd.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
     <p>
     Bernd Müller<br/>
@@ -41,19 +42,27 @@ Für Anregungen, Hinweise, Unterstützung, Raum-  und Vortragsangebote könnt i
     </p>
   </div>
 
-  <div style="display: inline-block; text-align: center; width: 300px;">
-    <img src="{{ '/assets/contacts/gerrit.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
+  <div style="display: inline-block; text-align: center; width: 250px;">
+    <img src="{{ '/assets/contacts/sandra.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
     <p>
-    Gerrit Meier<br/>
-    <a href="mailto:gerrit@jug-ostfalen.de">gerrit@jug-ostfalen.de</a>
+    Sandra Warmbrunn<br/>
+    <a href="mailto:sandra@jug-ostfalen.de">sandra@jug-ostfalen.de</a>
     </p>
   </div>
 
-  <div style="display: inline-block; text-align: center; width: 300px;">
+  <div style="display: inline-block; text-align: center; width: 250px;">
     <img src="{{ '/assets/contacts/olli.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
     <p>
     Oliver Milke<br/>
     <a href="mailto:olli@jug-ostfalen.de">olli@jug-ostfalen.de</a>
+    </p>
+  </div>
+
+  <div style="display: inline-block; text-align: center; width: 250px;">
+    <img src="{{ '/assets/contacts/jens.jpg' | prepend: site.baseurl }}" style="border-radius: 50%;"/>
+    <p>
+      Jens Schauder<br/>
+      <a href="mailto:jens@jug-ostfalen.de">jens@jug-ostfalen.de</a>
     </p>
   </div>
 </div>
@@ -64,10 +73,10 @@ Für Anregungen, Hinweise, Unterstützung, Raum-  und Vortragsangebote könnt i
 [Danielcakici](http://Danielcakici.deviantart.com): Free for personal non-commercial use, Includes a link back to author site.
 
 ### Impressum der Java User Group Ostfalen
-Anschrift\: JUG Ostfalen, Schiebeweg 42, 38116 Braunschweig<br />
-Telefon\: 0160 90 96 12 23<br />
-E-Mail\: [jens@jug-ostfalen.de](mailto:jens@jug-ostfalen.de)<br />
-Vertreter und inhaltlich Verantwortlicher gem. § 55 RStV\: Jens Schauder<br />
+Anschrift\: JUG Ostfalen, Hohenstaufenstr. 24, 38126 Braunschweig<br />
+Telefon\: 0531 2098959<br />
+E-Mail\: [gerrit@jug-ostfalen.de](mailto:gerrit@jug-ostfalen.de)<br />
+Vertreter und inhaltlich Verantwortlicher gem. § 55 RStV\: Gerrit Meier<br />
 Hinweis\: Alle Veranstaltungen sind Veranstaltungen des iJUG e.V. und werden
 durch die JUG Ostfalen organisiert.<br />
 
