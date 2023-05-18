@@ -123,6 +123,11 @@ locations:
     street: "Am Alten Bahnhof 4B"
     city: "38122 Braunschweig"
     url: "https://hup.de"
+  eckcellent:
+    name: "eck*cellent IT GmbH"
+    street: "Theodor-Heuss-Straße 2"
+    city: "38122 Braunschweig"
+    url: "https://eckcellent-it.de"
 
 #Autoren
 authors:
