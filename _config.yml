@@ -119,7 +119,7 @@ locations:
     street: "Frankfurter Str. 3A"
     city: "38122 Braunschweig"
   hup:
-    name: "HUP AG"
+    name: "HUP GmbH"
     street: "Am Alten Bahnhof 4B"
     city: "38122 Braunschweig"
     url: "https://hup.de"
