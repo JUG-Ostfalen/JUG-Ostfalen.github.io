@@ -23,7 +23,7 @@ Natürlich kann man Personen und Hobbies mit einem Join verbinden, aber was wann
 So funktioniert das nicht.
 
 Aber SQL ist Turing complete. 
-Also sollte es möglich sein alle gewünschten Daten in einem Query zu laden.
+Also sollte es möglich sein, alle gewünschten Daten in einem Query zu laden.
 Ich werde euch zeigen, wie das geht.
 
 In dem Vortrag geht es praktisch ausschließlich um SQL, ziemlich fortgeschrittenes SQL.
