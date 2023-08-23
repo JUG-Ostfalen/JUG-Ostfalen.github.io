@@ -151,6 +151,9 @@ authors:
     display_name: "Oliver Milke"
     blurb: "Irgendwie mit im Boot der JUG-Ostfalen"
     url: http://oliver-milke.de
+  sandra:
+    display_name: "Sandra Warmbrunn"
+    blurb: "Mitorganisation JUG-Ostfalen"
   ijug:
     display_name: "iJUG e.V."
 
