@@ -49,11 +49,11 @@ orgs:
 
 #Veranstaltungsorte
 locations:
-  lineas:
-    name: "LINEAS"
+  novobit:
+    name: "novobit"
     street: "Theodor-Heuss-Str. 2"
     city: "38122 Braunschweig"
-    url: "http://www.lineas.de"
+    url: "https://www.novobit.eu/"
   ckc:
     name: "CKC Group"
     street: "Am Alten Bahnhof 13"
