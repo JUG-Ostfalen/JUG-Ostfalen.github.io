@@ -25,4 +25,5 @@ Spoiler: Ziemlich gut.
 
 **Anmeldung:**
 
-Kommt bald...
+[**Eventbrite**](https://www.eventbrite.de/e/project-loom-virtual-threads-structured-concurrency-scoped-values-tickets-777309582887?aff=oddtdtcreator)
+
