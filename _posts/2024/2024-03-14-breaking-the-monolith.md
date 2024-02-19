@@ -22,5 +22,5 @@ Dieser Vortrag richtet sich nicht nur an Betroffene, sondern auch an architektur
 
 **Anmeldung:**
 
-Wird bald freigeschaltet.
+[**Eventbrite**](https://www.eventbrite.de/e/breaking-the-monolith-wie-man-einen-riesigen-java-monolithen-modularisiert-tickets-844610732437?aff=oddtdtcreator)
 
