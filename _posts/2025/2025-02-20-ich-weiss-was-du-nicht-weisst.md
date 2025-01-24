@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ich weiß was, was du nicht weißt"
-#location: hup
+location: hup
 speaker: "Benjamin Garbers"
 date:   2025-02-20 19:00
 categories: event
@@ -16,5 +16,5 @@ In diesem Vortrag schildere ich Herausforderungen und Erfahrungen aus der Arbeit
 
 **Anmeldung:**
 
-(kommt noch)
+[**Eventbrite**](https://www.eventbrite.de/e/ich-wei-was-was-du-nicht-weit-tickets-1220609990339?aff=oddtdtcreator)
 
