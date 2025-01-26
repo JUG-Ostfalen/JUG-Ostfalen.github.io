@@ -8,6 +8,8 @@ order: 1
 </a>
 <ul class="post-list">
     {% for post in site.categories.event %}
+    {% if site.time < post.date %}
+
     <li>
         <h3>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -48,4 +50,51 @@ order: 1
 
         {% endif %}
     </li>
+    {% endif %}
     {% endfor %}
+    <hr style="border: none; height: 3px; color: #222; background-color: #222;"/><br/>
+    {% for post in site.categories.event %}
+    {% if site.time >= post.date %}
+    <li>
+        <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              {% if site.orgs[post.organizer].image %}
+                <img class="icon" src="/assets/partners/{{ site.orgs[post.organizer].image}}"/>
+              {% endif %}
+              {{ post.title }}
+            </a>
+        </h3>
+
+        <div style="overflow: auto">
+            {% include event-metadata-inline.html %}
+            {% if post.image %}
+            <img src="{{ post.image }}" class="speaker" />
+            {% endif %}
+            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+            {% if post.excerpt != post.content %}
+            <a href="{{ post.url | prepend: site.baseurl }}">(weiterlesen...)</a>
+            {% endif %}
+        </div>
+        {% if post.categories contains "event" and post.organizer contains "JUG" %}
+
+        <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "EducationEvent",
+          "name": "{{ post.title }}",
+          "startDate" : "{{ post.date | date_to_xmlschema }}"{% if site.locations[post.location] %},
+          "location" : {
+            "@type" : "Place",
+            "sameAs" : "{{ site.locations[post.location].url }}",
+            "name" : "{{ site.locations[post.location].name }}",
+            "address" : "{{ site.locations[post.location].street }}; {{ site.locations[post.location].city }}"
+          }
+          {% endif %}
+        }
+        </script>
+
+        {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
