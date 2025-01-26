@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bücher und Tutorial
-order: 3
+#order: 3
 ---
 Handwerk
 --------
