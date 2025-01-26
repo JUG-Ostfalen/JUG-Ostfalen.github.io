@@ -53,6 +53,7 @@ order: 1
     {% endif %}
     {% endfor %}
     <hr style="border: none; height: 3px; color: #222; background-color: #222;"/><br/>
+    <h2>Vorherige Events</h2>
     {% for post in site.categories.event %}
     {% if site.time >= post.date %}
     <li>
