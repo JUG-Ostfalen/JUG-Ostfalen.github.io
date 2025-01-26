@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Folien zu Invoke Dynamics"
-date:   2025-01-26
+date:   2025-01-25
 categories: article
 author: gerrit
 ---
