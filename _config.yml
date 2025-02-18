@@ -129,6 +129,11 @@ locations:
     street: "Theodor-Heuss-Straße 2"
     city: "38122 Braunschweig"
     url: "https://eckcellent-it.de"
+  oeffentliche:
+    name: "Öffentliche Versicherung Braunschweig"
+    street: "Theodor-Heuss-Straße 10"
+    city: "38122 Braunschweig"
+    url: "https://www.oeffentliche.de"
 
 #Autoren
 authors:
