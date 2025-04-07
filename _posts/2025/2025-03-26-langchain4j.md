@@ -4,7 +4,7 @@ title: "Java and AI with LangChain4j"
 location: oeffentliche
 speaker: "Ed Burns"
 date:   2025-03-26 19:00
-create_date: 2025-02-18 00:00
+createdate: 2025-02-18 00:00
 categories: event
 organizer: JUG
 author: gerrit

@@ -15,8 +15,8 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
 	<description>{{ post.content | xml_escape }}</description>
-	{% if post.create_date %} 
-        <pubDate>{{ post.create_date | date_to_rfc822 }}</pubDate>
+	{% if post.createdate %} 
+        <pubDate>{{ post.createdate | date_to_rfc822 }}</pubDate>
 	{% else %} 
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 	{% endif %} 
