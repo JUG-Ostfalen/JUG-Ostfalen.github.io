@@ -8,7 +8,7 @@ createdate: 2025-04-08 17:00
 categories: event
 organizer: JUG
 author: gerrit
-image: “/assets/articles/2025/SophieK.jpg”
+image: "/assets/articles/2025/SophieK.jpg"
 ---
 
 I’m the odd-man-out. Or rather odd-woman-out, that’s the point. I’m a woman in tech. By the reactions I sometimes get to that simple statement, you’d think I had just said that I’m a talking dog or a flying monkey. Why is that? Why, after all these years of discussing, campaigning and fighting, are women still underrepresented in tech? What can we do to change that?
