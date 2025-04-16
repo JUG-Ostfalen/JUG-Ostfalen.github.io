@@ -77,7 +77,7 @@ Anschrift\: JUG Ostfalen, Hohenstaufenstr. 24, 38126 Braunschweig<br />
 Telefon\: 0531 2098959<br />
 E-Mail\: [gerrit@jug-ostfalen.de](mailto:gerrit@jug-ostfalen.de)<br />
 Vertreter und inhaltlich Verantwortlicher gem. § 55 RStV\: Gerrit Meier<br />
-Hinweis\: Alle Veranstaltungen sind Veranstaltungen des iJUG e.V. und werden
+Hinweis\: Wenn nicht anderes beschreiben, sind alle Veranstaltungen dieser Java User Group Veranstaltungen des iJUG e.V. und werden
 durch die JUG Ostfalen organisiert.<br />
 
 Haftungshinweis\: *Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.

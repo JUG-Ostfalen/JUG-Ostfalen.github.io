@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Alle Events
+title: Events
 order: 1
 ---
-<a class="right-of-header" href="/events.ics">
-    <img class="icon" src="/assets/main/ics-graphite.png" alt="Kommende JUG Events als ICS" />
-</a>
-<ul class="post-list">
+<div class="right-of-header">
+<img class="icon" src="/assets/main/ics-graphite.png" alt="Kommende JUG Events als ICS" />
+<ul style="list-style:none;margin-left:0;">
+	<li><a class="right-of-header" href="/events.ics">JUG Events</a></li>
+	<li><a class="right-of-header" href="/all_events.ics">Alle Events</a></li>
+</ul>
+</div>
+<ul class="post-list all-events">
     {% for post in site.categories.event %}
     {% if site.time < post.date %}
 
@@ -23,9 +27,9 @@ order: 1
         <div style="overflow: auto">
             {% include event-metadata-inline.html %}
             {% if post.image %}
-            <img src="{{ post.image }}" class="speaker" />
+            <img src="{{ post.image }}" class="speaker" style="display:inline;" />
             {% endif %}
-            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+            {{ post.excerpt }}
             {% if post.excerpt != post.content %}
             <a href="{{ post.url | prepend: site.baseurl }}">(weiterlesen...)</a>
             {% endif %}
@@ -69,9 +73,9 @@ order: 1
         <div style="overflow: auto">
             {% include event-metadata-inline.html %}
             {% if post.image %}
-            <img src="{{ post.image }}" class="speaker" />
+            <img src="{{ post.image }}" class="speaker" style="display:inline;"/>
             {% endif %}
-            {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+            {{ post.excerpt }}
             {% if post.excerpt != post.content %}
             <a href="{{ post.url | prepend: site.baseurl }}">(weiterlesen...)</a>
             {% endif %}

@@ -6,7 +6,7 @@ speaker: "Fin Labusch / Lisa Rosenberg"
 date:   2025-04-26 10:30
 createdate: 2025-04-09 20:00
 categories: event
-organizer: Kids4IT
+organizer: kids4it
 author: olli
 ---
 
