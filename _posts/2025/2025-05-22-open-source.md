@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open-Source – vom Nutzer zum Contributor"
-location: TBD
+location: msg
 speaker: "Marius Hanl"
 date:   2025-05-22 19:00
 categories: event
@@ -19,4 +19,4 @@ Lass uns gemeinsam meine Reise vom ersten Problem, über den ersten Pull-Request
 
 **Anmeldung:**
 
-[**Eventbrite**](TBD)
+[**Eventbrite**](https://www.eventbrite.de/e/open-source-vom-nutzer-zum-contributor-tickets-1355267484529?aff=oddtdtcreator)
