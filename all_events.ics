@@ -35,6 +35,6 @@ DESCRIPTION:{{ post.url | prepend: site.url }}
 CLASS:PUBLIC
 DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%dT%H%M" }}00
 DTEND;TZID=Europe/Berlin:{{ post.date   | date: "%Y%m%dT" }}210000
-DTSTAMP:{{ site.data.build.build_time | date: "%Y%m%dT%H%M" }}00Z
+DTSTAMP:{{ site.data.build.build_time | date: "%Y%m%dT%H%M%S" }}Z
 END:VEVENT
 {% endif %}{% endfor %}END:VCALENDAR
