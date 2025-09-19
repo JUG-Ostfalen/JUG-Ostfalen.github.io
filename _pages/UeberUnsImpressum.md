@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über uns & Impressum
-order: 3
+order: 4
 ---
 ### Wer sind wir?
 Eine der aktivsten Communities, für Java und alles was sich im Dunstkreis dieser Sprache befindet, nicht nur mit Arbeit, Job und Pflicht assoziiert ist.
