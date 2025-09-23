@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Kalender zum Abonnieren"
-date:   2025-01-26
+title: "ICS zum Kalender-Import"
+date:   2025-09-23
 categories: article
-author: gerrit
+author: olli
 ---
 
 Wir haben euch Anfang des Jahres einen Google Kalender angeboten, den ihr abonieren könnt.
