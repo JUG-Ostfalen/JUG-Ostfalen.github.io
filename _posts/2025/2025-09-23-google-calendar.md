@@ -15,7 +15,7 @@ Was vielleicht nicht ganz klar: die Inhalte waren händisch gepflegt. Das hat bi
 - die Datei wird automatisch generiert und Zeitzoneninformationen
 - in Google Calendar kann man Online-ICS-Files in seinen Google Account einbinden: [Kalender in Google hinzufügen (Link zum Setting)](https://calendar.google.com/calendar/u/0/r/settings/addbyurl)
 
-<img src="{{ 'assets/main/import_ics.png' | prepend: site.baseurl }}" />
+<img src="{{ '/assets/main/import_ics.png' | prepend: site.baseurl }}" />
 
 Getestet ist es mit Google Calender - ich gehe davon aus, dass es in jedem Kalender-Tool funktioniert, das Online-ICS-Files importieren kann.
 
