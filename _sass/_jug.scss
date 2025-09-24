@@ -8,12 +8,6 @@
   line-height: 1;
 }
 
-@media(max-width:992px) {
-    .article-section {
-        display: none;
-    }
-}
-
 /*
 events
 */
@@ -25,10 +19,6 @@ events
   display: block;
   max-height: 32px;
   float: none;
-}
-
-.post-list p {
-  display: inline;
 }
 
 img.speaker {
