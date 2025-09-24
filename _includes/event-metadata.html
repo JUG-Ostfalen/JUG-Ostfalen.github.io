@@ -20,7 +20,7 @@
           {% if post.room %}
             {{ post.room }}<br>
           {% endif %}
-          <a href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
+          <a target="_blank" href="https://www.google.de/maps/place/{{ site.locations[post.location].street }}+{{ site.locations[post.location].city }}">
           {{ site.locations[post.location].street }}<br>
           {{ site.locations[post.location].city }}<br>
           </a>
@@ -36,7 +36,7 @@
           {% if post.location.room %}
             {{ post.location.room }}<br>
           {% endif %}
-          <a href="https://www.google.de/maps/place/{{ post.location.street }}+{{ post.location.city }}">
+          <a target="_blank" href="https://www.google.de/maps/place/{{ post.location.street }}+{{ post.location.city }}">
             {{ post.location.street }}<br>
             {{ post.location.city }}<br>
           </a>
@@ -46,7 +46,7 @@
     </div>
     {% if post.speaker %}
     <div>
-        Speaker: {{ post.speaker }}
+        {{ post.speaker }}
     </div>
     {% endif %}
 </div>

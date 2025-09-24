@@ -84,6 +84,17 @@ locations:
     name: "Hyand im TRAFO Hub"
     street: "Sophienstraße 40"
     city: "38118 Braunschweig"
+    url: "https://www.hyand.com"
+  hyandtrafo:
+    name: "Hyand im TRAFO Hub"
+    street: "Sophienstraße 40"
+    city: "38118 Braunschweig"
+    url: "https://www.hyand.com"
+  hyand:
+    name: "Hyand Technology GmbH"
+    street: "Goeppert-Mayer-Straße 2"
+    city: "38126 Braunschweig"
+    url: "https://www.hyand.com"
   fme:
     name: "fme AG"
     street: "Wolfenbütteler Straße 33"
