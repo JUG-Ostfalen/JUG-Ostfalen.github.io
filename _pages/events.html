@@ -11,7 +11,7 @@ order: 1
 </ul>
 </div>
 <ul class="post-list all-events">
-    {% for post in site.categories.event %}
+    {% for post in site.categories.event reversed %}
     {% if site.time < post.date %}
 
     <li>
