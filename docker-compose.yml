@@ -1,0 +1,16 @@
+services:
+  jekyll:
+    image: mcr.microsoft.com/devcontainers/jekyll:latest
+    command: bundle exec jekyll serve --livereload --host 0.0.0.0
+    ports:
+      - "4000:4000"   # Jekyll site
+      - "35729:35729" # LiveReload
+    volumes:
+      - .:/workspaces/jekyll   # mount current folder into container
+      - bundle_cache:/usr/local/bundle
+    environment:
+      JEKYLL_ENV: development
+    working_dir: /workspaces/jekyll
+
+volumes:
+  bundle_cache:
