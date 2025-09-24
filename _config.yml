@@ -6,11 +6,18 @@ description: > # this means to ignore newlines until "include:"
   JUG Ostfalen ist die Java User Group für Ostfalen, oder Braunschweig und Wolfsburg, für
   diejenigen die sich mit den historischen Regionsbezeichnungen nicht so auskennen.
 include: ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+  - run-locally.sh
+  - README.md
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jug-ostfalen.de" # the base hostname & protocol for your site
 twitter_username: JUG_Ostfalen
 github_username:  JUG-Ostfalen
 image: http://www.jug-ostfalen.de/assets/main/jug_twitter.png
+
 
 # organizations
 orgs:
