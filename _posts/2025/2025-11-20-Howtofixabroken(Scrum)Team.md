@@ -24,5 +24,7 @@ Maßnahmen aus der Praxis teilen. Wir möchten Impulse für die Teamarbeit geben
 neue Sicht auf Scrum ermöglichen und die Brücke zwischen der agilen Arbeit und
 Psychologie festigen.
 
-_Anmeldung folgt_
+**Anmeldung:**
+
+[**Eventbrite**](https://www.eventbrite.de/e/how-to-fix-a-broken-scrum-team-tickets-1941041069089?aff=oddtdtcreator)
 
