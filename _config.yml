@@ -23,6 +23,8 @@ image: http://www.jug-ostfalen.de/assets/main/jug_twitter.png
 orgs:
   JUG:
     description: Die JUG Ostfalen selbst
+    label: JUG Ostfalen
+    contact: info@jug-ostfalen.de
     image: logo.png
   entwicklerstammtisch:
     description: HackTalk
@@ -43,6 +45,8 @@ orgs:
     description: "RoyalJS: die JavaScript User Group Braunschweig"
   kids4it:
     description: "Kids4IT - IT ausprobieren und erleben für Kinder"
+    label: "Kids4IT"
+    contact: kontakt@kids4it.de
     image: kids4it.png
   doag:
     description: "Deutscher Oracle Anwender Gruppe"
