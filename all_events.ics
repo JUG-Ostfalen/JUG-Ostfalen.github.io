@@ -28,7 +28,22 @@ END:VTIMEZONE
 
 {% for post in site.categories.event limit:10 %}{% if site.time < post.date %}BEGIN:VEVENT
 UID:{{ post.date | date: "%Y%m%d" }}@jug-ostfalen.de
-ORGANIZER;CN={% if post.organizer == "JUG" %}"JUG Ostfalen":mailto:info@jug-ostfalen.de{% else %}{{ post.organizer }}{% endif %}
+{% assign default_label = "external" %}
+{% assign default_contact = "none@void.com" %}
+{% if post.organizer %}
+  {% assign org = site.orgs[post.organizer] %}
+  {% if org %}
+    {% assign org_label = org.label | default: default_label %}
+    {% assign org_contact = org.contact | default: default_contact %}
+  {% else %}
+    {% assign org_label = default_label %}
+    {% assign org_contact = default_contact %}
+  {% endif %}
+{% else %}
+  {% assign org_label = default_label %}
+  {% assign org_contact = default_contact %}
+{% endif %}
+ORGANIZER;CN="{{ org_label }}":mailto:{{ org_contact }}
 LOCATION:{% if site.locations[post.location] %}{{ site.locations[post.location].name }}\; {{ site.locations[post.location].street }}\; {{ site.locations[post.location].city }}{% else %}{{ post.location }}{% endif %}
 SUMMARY:{{ post.title }} ({{ post.speaker }})
 DESCRIPTION: Details: {{ post.url | prepend: site.url }}
