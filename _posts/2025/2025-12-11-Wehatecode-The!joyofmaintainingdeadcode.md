@@ -21,4 +21,5 @@ Bio:<br/>
 Gerrit Grunwald ist ein Software-Ingenieur, der sich schon seit 40 Jahren für das Programmieren begeistert. Er ist ein echter Anhänger von Open Source und hat sowohl an populären Projekten wie [JFXtras.org](https://JFXtras.org) als auch an seinen eigenen Projekten (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas, JDKMon) mitgewirkt. 
 Gerrit bloggt regelmäßig auf [harmonic-code.org](http://harmonic-code.org), er ist ein aktives Mitglied der Java-Community, wo er die Java User Group Münster (Deutschland) gegründet hat und leitet, er ist ein JavaOne Rockstar und ein Java Champion. Zudem spricht er auf internationalen Konferenzen und User Groups und schreibt für verschiedene Magazine.
 
-_Anmeldung folgt_
+[**Eventbrite**](https://www.eventbrite.de/e/we-hate-code-the-joy-of-maintaining-dead-code-tickets-1975178827042?aff=oddtdtcreator)
+
