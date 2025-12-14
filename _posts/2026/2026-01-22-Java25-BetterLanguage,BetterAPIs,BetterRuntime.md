@@ -25,4 +25,7 @@ Nicolai (aka nipafx) ist Java-Enthusiast mit Fokus auf Sprachfeatures, APIs und 
 Das macht er hauptsächlich auf Konferenzen und in seinem zweiwöchentlichen Inside Java Newscast, aber auch gelegentlich in Live Streams, Artikeln oder Büchern - mehr dazu auf [nipafx.dev](https://nipafx.dev).
 Er ist Java Developer Advocate bei Oracle; ansonsten kennt man ihn für seine Frisur.
 
-_Anmeldung folgt_
+_Hinweis:_ Bitte beachtet, dass der Eingang der Cloudogu sich geändert hat und nun in der Garküche 1 ist.
+
+[**Anmeldung auf Eventbrite**](https://www.eventbrite.de/e/java-25-better-language-better-apis-better-runtime-tickets-1977795997068?aff=oddtdtcreator)
+
