@@ -10,7 +10,7 @@ author: gerrit
 image: "/assets/articles/2016/bernd-mueller.jpg"
 ---
 
-Ein Folie Hintergründe, dann lauffähiger Code. Das ist das Format dieses Vortrags.  Er zeigt eine
+Ein Folie Hintergründe, dann lauffähiger Code. Das ist das Format dieses Vortrags. Er zeigt eine
 Reihe kleiner Beispiele von Java-Features, die wenig bis nicht bekannt sind.
 
 Warum kennen wir etwas nicht?  Weil es für die eigenen Entwicklungsarbeiten nicht relevant ist. Weil
@@ -26,4 +26,5 @@ Nach dem Vortrag kennt der Teilnehmer ein paar neue Features und Eigenheiten der
 der Regel für den täglichen Einsatz wenig geeignet, aber Spaß gemacht hat es trotzdem 😉 und
 informativ war es auch.
 
-_Anmeldung folgt_
+[**Anmeldung auf Eventbrite**](https://www.eventbrite.de/e/speed-dating-java-secrets-tickets-1985567521908?aff=oddtdtcreator)
+
