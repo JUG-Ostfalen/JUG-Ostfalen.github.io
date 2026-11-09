@@ -16,5 +16,5 @@ Was in der Theorie so einfach klingt, verursacht später oft Probleme.
 In dieser Session wollen wir uns deswegen zum einen anschauen, wie genau Tests mit @SpringBootTest funktionieren, und darüber nachdenken, wo deren Einsatz geeignet ist und wo eher nicht und was wir dort für Alternativen haben.
 
 
-[**Anmeldung auf Mobilizon**](https://events.ijug.eu/events/a723416b-cb6d-485b-a966-3a46fcd9324b)
+[**Anmeldung auf Eventbrite**](https://www.eventbrite.com/e/spring-boot-anwendungen-testen-ein-blick-hinter-den-vorhang-tickets-2004572142239?aff=oddtdtcreator&keep_tld=true)
 
